@@ -1,0 +1,456 @@
+{
+    "isin": "INF754K01SK3",
+    "scheme_name": "Edelweiss Technology Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 10.97,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 8.4,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 5.94,
+            "sector": "Technology"
+        },
+        {
+            "name": "NVIDIA Corp",
+            "weight": 5.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "Apple Inc",
+            "weight": 5.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 4.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 4.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 4.12,
+            "sector": "Technology"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 4.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 3.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 3.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 3.08,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 2.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Broadcom Inc",
+            "weight": 2.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.06,
+            "sector": "Technology"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 1.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 1.56,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 1.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 1.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Data Patterns (India) Ltd",
+            "weight": 1.31,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 1.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 1.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 0.99,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 0.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 0.7,
+            "sector": "Technology"
+        },
+        {
+            "name": "Micron Technology Inc",
+            "weight": 0.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 0.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TeamLease Services Ltd",
+            "weight": 0.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "Advanced Micro Devices Inc",
+            "weight": 0.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "Palantir Technologies Inc Ordinary Shares - Class A",
+            "weight": 0.44,
+            "sector": "Technology"
+        },
+        {
+            "name": "Applied Materials Inc",
+            "weight": 0.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Lam Research Corp",
+            "weight": 0.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cisco Systems Inc",
+            "weight": 0.4,
+            "sector": "Technology"
+        },
+        {
+            "name": "Oracle Corp",
+            "weight": 0.35,
+            "sector": "Technology"
+        },
+        {
+            "name": "International Business Machines Corp",
+            "weight": 0.31,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables/(Payables)",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "KLA Corp",
+            "weight": 0.28,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Texas Instruments Inc",
+            "weight": 0.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "Intel Corp",
+            "weight": 0.26,
+            "sector": "Technology"
+        },
+        {
+            "name": "Amphenol Corp Class A",
+            "weight": 0.25,
+            "sector": "Technology"
+        },
+        {
+            "name": "Salesforce Inc",
+            "weight": 0.25,
+            "sector": "Technology"
+        },
+        {
+            "name": "Analog Devices Inc",
+            "weight": 0.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Qualcomm Inc",
+            "weight": 0.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Arista Networks Inc",
+            "weight": 0.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Accenture PLC Class A",
+            "weight": 0.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Corning Inc",
+            "weight": 0.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "AppLovin Corp Ordinary Shares - Class A",
+            "weight": 0.16,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ServiceNow Inc",
+            "weight": 0.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Intuit Inc",
+            "weight": 0.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Adobe Inc",
+            "weight": 0.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Palo Alto Networks Inc",
+            "weight": 0.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dell Technologies Inc Ordinary Shares - Class C",
+            "weight": 0.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "Western Digital Corp",
+            "weight": 0.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "CrowdStrike Holdings Inc Class A",
+            "weight": 0.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "SanDisk Corp Ordinary Shares",
+            "weight": 0.12,
+            "sector": "Technology"
+        },
+        {
+            "name": "Seagate Technology Holdings PLC",
+            "weight": 0.12,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cadence Design Systems Inc",
+            "weight": 0.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Motorola Solutions Inc",
+            "weight": 0.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Synopsys Inc",
+            "weight": 0.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "TE Connectivity PLC Registered Shares",
+            "weight": 0.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "NXP Semiconductors NV",
+            "weight": 0.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "Monolithic Power Systems Inc",
+            "weight": 0.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Keysight Technologies Inc",
+            "weight": 0.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Autodesk Inc",
+            "weight": 0.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Teradyne Inc",
+            "weight": 0.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fortinet Inc",
+            "weight": 0.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Microchip Technology Inc",
+            "weight": 0.06,
+            "sector": "Technology"
+        },
+        {
+            "name": "Roper Technologies Inc",
+            "weight": 0.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Datadog Inc Class A",
+            "weight": 0.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fair Isaac Corp",
+            "weight": 0.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Workday Inc Class A",
+            "weight": 0.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Teledyne Technologies Inc",
+            "weight": 0.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 0.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hewlett Packard Enterprise Co",
+            "weight": 0.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Accrued Interest",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "First Solar Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "NetApp Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "CDW Corp",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ON Semiconductor Corp",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HP Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tyler Technologies Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Gartner Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

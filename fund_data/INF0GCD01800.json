@@ -1,0 +1,431 @@
+{
+    "isin": "INF0GCD01800",
+    "scheme_name": "TRUSTMF SMALL CAP FUND -DIRECT PLAN-GROWTH",
+    "holdings": [
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 7.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 6.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 6.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 6.66,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 6.59,
+            "sector": "Other"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 6.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 5.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 5.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 4.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 3.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 3.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 3.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kirloskar Oil Engines Ltd",
+            "weight": 3.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Copper Ltd",
+            "weight": 3.53,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 3.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lumax Auto Technologies Ltd",
+            "weight": 3.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 3.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 3.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 3.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 3.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 2.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Syrma SGS Technology Ltd",
+            "weight": 2.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 2.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 2.77,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 2.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Welspun Corp Ltd",
+            "weight": 2.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 2.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Micro Systems Ltd Ordinary Shares",
+            "weight": 2.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sharda Cropchem Ltd",
+            "weight": 2.72,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Privi Speciality Chemicals Ltd",
+            "weight": 2.72,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Blackbuck Ltd",
+            "weight": 2.7,
+            "sector": "Technology"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 2.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pricol Ltd",
+            "weight": 2.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.51,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cemindia Projects Ltd",
+            "weight": 2.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 2.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 2.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shaily Engineering Plastics Ltd",
+            "weight": 2.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Data Patterns (India) Ltd",
+            "weight": 2.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 2.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 2.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.05,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 1.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Thangamayil Jewellery Ltd",
+            "weight": 1.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 1.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "V2 Retail Ltd",
+            "weight": 1.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 1.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 1.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.82,
+            "sector": "Industrials"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 1.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 1.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 1.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 1.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PTC Industries Ltd",
+            "weight": 1.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 1.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 1.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 1.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 1.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 1.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 1.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apar Industries Ltd",
+            "weight": 1.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 1.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 1.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Awfis Space Solutions Ltd",
+            "weight": 1.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CCL Products (India) Ltd",
+            "weight": 0.93,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 0.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Veranda Learning Solutions Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Smartworks Coworking Spaces Ltd",
+            "weight": 0.88,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Welspun Living Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gokaldas Exports Ltd",
+            "weight": 0.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clean Max Enviro Energy Solutions Ltd",
+            "weight": 0.51,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 0.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aarti Industries Ltd",
+            "weight": 0.46,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Pearl Global Industries Ltd",
+            "weight": 0.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

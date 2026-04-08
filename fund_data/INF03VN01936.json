@@ -1,0 +1,286 @@
+{
+    "isin": "INF03VN01936",
+    "scheme_name": "WhiteOak Capital Digital Bharat Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Eternal Ltd",
+            "weight": 9.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 8.49,
+            "sector": "Other"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 7.7,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.86,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Infosys Limited",
+            "weight": 5.54,
+            "sector": "Other"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 5.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 4.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 4.39,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 4.35,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 3.89,
+            "sector": "Technology"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 3.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 3.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 3.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 2.98,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Intellect Design Arena Ltd",
+            "weight": 2.7,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cigniti Technologies Ltd",
+            "weight": 2.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 2.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ltimindtree Limited",
+            "weight": 2.58,
+            "sector": "Other"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 2.45,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 2.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 2.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Latent View Analytics Ltd",
+            "weight": 2.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 2.14,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 2.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "Honasa Consumer Ltd",
+            "weight": 1.96,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.94,
+            "sector": "Technology"
+        },
+        {
+            "name": "Newgen Software Technologies Ltd",
+            "weight": 1.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 1.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "19/03/2026 Maturing 364 DTB",
+            "weight": 1.28,
+            "sector": "Other"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 1.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 1.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 1.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 0.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "KRN Heat Exchanger and Refrigeration Ltd",
+            "weight": 0.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wakefit Innovations Ltd",
+            "weight": 0.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 0.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tips Music Ltd",
+            "weight": 0.62,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Nucleus Software Exports Ltd",
+            "weight": 0.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tbills",
+            "weight": 0.51,
+            "sector": "Other"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Computer Age Management Services Limited",
+            "weight": 0.37,
+            "sector": "Other"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 0.31,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 0.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "CapitalNumbers Infotech Ltd",
+            "weight": 0.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "19/03/2026 Maturing 182 DTB",
+            "weight": 0.1,
+            "sector": "Other"
+        },
+        {
+            "name": "09/04/2026 Maturing 182 DTB",
+            "weight": 0.08,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "19/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "19/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "27/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "12/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "isin": "INF2JJD01136",
+    "scheme_name": "Abakkus Flexi Cap Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 5.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 5.2,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 4.2,
+            "sector": "Energy"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 3.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.79,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 2.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 2.46,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 2.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 2.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.36,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 2.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 2.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 2.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 2.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 2.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 2.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 2.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Avalon Technologies Ltd",
+            "weight": 2.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "IIFL Finance Ltd",
+            "weight": 2.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "INOX India Ltd",
+            "weight": 2.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.01,
+            "sector": "Energy"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 1.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 1.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 1.87,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 1.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 1.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Arvind Fashions Ltd",
+            "weight": 1.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kirloskar Pneumatic Co Ltd",
+            "weight": 1.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 1.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cyient DLM Ltd",
+            "weight": 1.58,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aether Industries Ltd",
+            "weight": 1.5,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kajaria Ceramics Ltd",
+            "weight": 1.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 1.43,
+            "sector": "Technology"
+        },
+        {
+            "name": "Deepak Fertilisers & Petrochemicals Corp Ltd",
+            "weight": 1.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Heritage Foods Ltd",
+            "weight": 1.35,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kotak Securities Ltd",
+            "weight": 1.12,
+            "sector": "Other"
+        },
+        {
+            "name": "Supriya Lifescience Ltd",
+            "weight": 1.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 1.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Edelweiss Financial Services Ltd",
+            "weight": 0.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 0.42,
+            "sector": "Technology"
+        }
+    ]
+}

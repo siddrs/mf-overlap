@@ -1,0 +1,161 @@
+{
+    "isin": "INF204KA15G5",
+    "scheme_name": "Nippon India US Equity Opportunities Fund- Direct Plan- Growth Plan- Growth Option",
+    "holdings": [
+        {
+            "name": "Taiwan Semiconductor Manufacturing Co Ltd ADR",
+            "weight": 9.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alphabet Inc Class A",
+            "weight": 8.06,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Meta Platforms Inc Class A",
+            "weight": 6.71,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Amazon.com Inc",
+            "weight": 6.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Charles Schwab Corp",
+            "weight": 5.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 4.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 4.69,
+            "sector": "Other"
+        },
+        {
+            "name": "Mastercard Inc Class A",
+            "weight": 4.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Booking Holdings Inc",
+            "weight": 4.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cencora Inc",
+            "weight": 4.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Applied Materials Inc",
+            "weight": 3.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "Visa Inc Class A",
+            "weight": 3.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IQVIA Holdings Inc",
+            "weight": 3.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "The Walt Disney Co",
+            "weight": 3.54,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Starbucks Corp",
+            "weight": 3.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Elevance Health Inc",
+            "weight": 2.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Check Point Software Technologies Ltd",
+            "weight": 2.52,
+            "sector": "Technology"
+        },
+        {
+            "name": "Diageo PLC ADR",
+            "weight": 2.23,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Autodesk Inc",
+            "weight": 2.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Qualcomm Inc",
+            "weight": 2.03,
+            "sector": "Technology"
+        },
+        {
+            "name": "Air Products and Chemicals Inc",
+            "weight": 2.02,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Salesforce Inc",
+            "weight": 1.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "Adobe Inc",
+            "weight": 1.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "CarMax Inc",
+            "weight": 1.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ecolab Inc",
+            "weight": 1.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "UnitedHealth Group Inc",
+            "weight": 1.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Veeva Systems Inc Class A",
+            "weight": 1.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fiserv Inc",
+            "weight": 0.61,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.14,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

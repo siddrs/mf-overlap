@@ -1,0 +1,146 @@
+{
+    "isin": "INF966L01DT4",
+    "scheme_name": "quant PSU Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 29.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 25.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 10.11,
+            "sector": "Energy"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 9.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 9.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 8.29,
+            "sector": "Energy"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 8.01,
+            "sector": "Energy"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 7.97,
+            "sector": "Utilities"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 7.36,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gujarat Mineral Development Corp Ltd",
+            "weight": 7.33,
+            "sector": "Energy"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 6.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "National Building Construction Corp",
+            "weight": 5.4,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 4.91,
+            "sector": "Other"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 4.2,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 3.11,
+            "sector": "Energy"
+        },
+        {
+            "name": "Sbi Cards & Payment Services Ltd",
+            "weight": 2.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 2.53,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 2.42,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 1.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nmdc Ltd",
+            "weight": 1.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.64,
+            "sector": "Energy"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 0.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "12/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

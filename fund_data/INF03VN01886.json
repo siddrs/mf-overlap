@@ -1,0 +1,341 @@
+{
+    "isin": "INF03VN01886",
+    "scheme_name": "WhiteOak Capital Pharma and Heathcare Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 11.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 9.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 5.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 5.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 5.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 5.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 4.83,
+            "sector": "Other"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 4.74,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 4.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 3.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 2.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 2.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 2.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 2.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aurobindo Pharma Limited",
+            "weight": 1.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 1.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 1.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Shaily Engineering Plastics Ltd",
+            "weight": 1.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 1.73,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emcure Pharmaceuticals Ltd",
+            "weight": 1.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 1.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "AstraZeneca Pharma India Ltd",
+            "weight": 1.48,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 1.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kovai Medical Center & Hospital Ltd",
+            "weight": 1.32,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 1.32,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aether Industries Ltd",
+            "weight": 1.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Strides Pharma Science Ltd",
+            "weight": 1.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 1.14,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tbills",
+            "weight": 1.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Thyrocare Technologies Ltd",
+            "weight": 0.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Reddy's Laboratories Limited",
+            "weight": 0.96,
+            "sector": "Other"
+        },
+        {
+            "name": "Divi's Laboratories Limited",
+            "weight": 0.88,
+            "sector": "Other"
+        },
+        {
+            "name": "Supriya Lifescience Ltd",
+            "weight": 0.84,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 0.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.75,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.74,
+            "sector": "Other"
+        },
+        {
+            "name": "Zota Health Care Ltd",
+            "weight": 0.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aarti Pharmalabs Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.58,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 0.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Shilpa Medicare Ltd",
+            "weight": 0.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 0.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Limited",
+            "weight": 0.46,
+            "sector": "Other"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Limited",
+            "weight": 0.35,
+            "sector": "Other"
+        },
+        {
+            "name": "Dr Agarwal'S Eye Hospital Ltd",
+            "weight": 0.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 0.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Poly Medicure Ltd",
+            "weight": 0.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Orchid Pharma Ltd",
+            "weight": 0.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tatva Chintan Pharma Chem Ltd",
+            "weight": 0.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "19/03/2026 Maturing 364 DTB",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "19/03/2026 Maturing 182 DTB",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Sun Pharmaceutical Industries Limited",
+            "weight": 0.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Fortis Healthcare Limited",
+            "weight": 0.08,
+            "sector": "Other"
+        },
+        {
+            "name": "09/04/2026 Maturing 182 DTB",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "12/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "19/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "19/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

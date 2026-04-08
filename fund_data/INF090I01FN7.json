@@ -1,0 +1,221 @@
+{
+    "isin": "INF090I01FN7",
+    "scheme_name": "Franklin India Large Cap Fund- Direct - Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 8.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 5.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 5.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.07,
+            "sector": "Energy"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 3.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 3.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 3.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.58,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 2.36,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Call, Cash & Other Assets",
+            "weight": 2.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 2.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.99,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.95,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.88,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 1.81,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 1.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 1.66,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 1.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.61,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.52,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 1.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 1.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.01,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 0.83,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 0.47,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 0.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.03,
+            "sector": "Consumer Defensive"
+        }
+    ]
+}

@@ -1,0 +1,401 @@
+{
+    "isin": "INF209K01WS3",
+    "scheme_name": "Aditya Birla Sun Life International Equity Fund - Growth - Direct Plan",
+    "holdings": [
+        {
+            "name": "NVIDIA Corp",
+            "weight": 6.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alphabet Inc Class A",
+            "weight": 4.77,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Apple Inc",
+            "weight": 4.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eli Lilly and Co",
+            "weight": 2.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Webster Financial Corp",
+            "weight": 2.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Broadcom Inc",
+            "weight": 2.3,
+            "sector": "Technology"
+        },
+        {
+            "name": "Taiwan Semiconductor Manufacturing Co Ltd ADR",
+            "weight": 2.25,
+            "sector": "Technology"
+        },
+        {
+            "name": "Boston Scientific Corp",
+            "weight": 2.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Prudential PLC",
+            "weight": 2.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UCB SA",
+            "weight": 2.14,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Western Alliance Bancorp",
+            "weight": 2.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Equitable Holdings Inc",
+            "weight": 1.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.98,
+            "sector": "Other"
+        },
+        {
+            "name": "Coherent Corp",
+            "weight": 1.94,
+            "sector": "Technology"
+        },
+        {
+            "name": "AstraZeneca PLC",
+            "weight": 1.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Walmart Inc",
+            "weight": 1.77,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Shell PLC",
+            "weight": 1.7,
+            "sector": "Energy"
+        },
+        {
+            "name": "Coca-Cola Co",
+            "weight": 1.69,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 1.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "GE Aerospace",
+            "weight": 1.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Verizon Communications Inc",
+            "weight": 1.64,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "GE Vernova Inc",
+            "weight": 1.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Philip Morris International Inc",
+            "weight": 1.57,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Five Below Inc",
+            "weight": 1.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AT&T Inc",
+            "weight": 1.53,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Seagate Technology Holdings PLC",
+            "weight": 1.47,
+            "sector": "Technology"
+        },
+        {
+            "name": "Iberdrola SA",
+            "weight": 1.43,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Otis Worldwide Corp Ordinary Shares",
+            "weight": 1.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adyen NV",
+            "weight": 1.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Schneider Electric SE",
+            "weight": 1.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NiSource Inc",
+            "weight": 1.33,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Visa Inc Class A",
+            "weight": 1.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tesla Inc",
+            "weight": 1.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Suncor Energy Inc",
+            "weight": 1.18,
+            "sector": "Energy"
+        },
+        {
+            "name": "Rheinmetall AG",
+            "weight": 1.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bawag Group AG Ordinary Shares",
+            "weight": 1.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Meta Platforms Inc Class A",
+            "weight": 1.17,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Freeport-McMoRan Inc",
+            "weight": 1.12,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Amazon.com Inc",
+            "weight": 1.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Burford Capital Ltd",
+            "weight": 1.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Cigna Group",
+            "weight": 1.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ITT Inc",
+            "weight": 1.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "McDonald's Corp",
+            "weight": 1.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dover Corp",
+            "weight": 1.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Compass Group PLC",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "DSV AS",
+            "weight": 1.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reddit Inc Class A Shares",
+            "weight": 1.01,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Celestica Inc Ordinary Shares (Subordinate Voting)",
+            "weight": 1.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aptiv PLC",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sherwin-Williams Co",
+            "weight": 0.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SoftBank Group Corp",
+            "weight": 0.98,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Lowe's Companies Inc",
+            "weight": 0.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Western Digital Corp",
+            "weight": 0.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "argenx SE ADR",
+            "weight": 0.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Oracle Corp",
+            "weight": 0.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Linde PLC",
+            "weight": 0.91,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "McKesson Corp",
+            "weight": 0.89,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Reinsurance Group of America Inc",
+            "weight": 0.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Danaher Corp",
+            "weight": 0.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Grupo Financiero Banorte SAB de CV Class O",
+            "weight": 0.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Snowflake Inc Ordinary Shares",
+            "weight": 0.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alibaba Group Holding Ltd ADR",
+            "weight": 0.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Conduit Holdings Ltd",
+            "weight": 0.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Limited",
+            "weight": 0.52,
+            "sector": "Other"
+        },
+        {
+            "name": "Barrick Mining Corp",
+            "weight": 0.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "XP Inc Class A",
+            "weight": 0.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pinnacle Financial Partners Inc",
+            "weight": 0.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TransDigm Group Inc",
+            "weight": 0.39,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bridgepoint Group PLC",
+            "weight": 0.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PT Bank Mandiri (Persero) Tbk",
+            "weight": 0.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RTX Corp",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Embraer SA",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ferrari NV",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "FTAI Aviation Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Shift4 Payments Inc Class A",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Nintendo Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Constellation Energy Corp",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "CRH PLC",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Abbott Laboratories",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

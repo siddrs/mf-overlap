@@ -1,0 +1,166 @@
+{
+    "isin": "INF903J01NB8",
+    "scheme_name": "Sundaram Financial Services Opportunities Fund Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 16.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 11.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 10.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 7.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 4.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DCB Bank Ltd",
+            "weight": 4.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 4.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 4.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.58,
+            "sector": "Other"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 3.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CSB Bank Ltd Ordinary Shares",
+            "weight": 2.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 2.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 2.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 2.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Equitas Small Finance Bank Ltd Ordinary Shares",
+            "weight": 2.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 2.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bandhan Bank Ltd",
+            "weight": 2.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.48,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 1.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sundaram Money Market Dir Gr",
+            "weight": 0.92,
+            "sector": "Other"
+        },
+        {
+            "name": "Motilal Oswal Financial Services Ltd",
+            "weight": 0.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 0.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 0.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 0.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UTI Asset Management Co Ltd",
+            "weight": 0.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 0.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash And Other Net Current Assets",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

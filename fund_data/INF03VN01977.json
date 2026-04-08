@@ -1,0 +1,446 @@
+{
+    "isin": "INF03VN01977",
+    "scheme_name": "WhiteOak Capital Quality Equity Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 5.29,
+            "sector": "Other"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 5.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 5.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 4.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 3.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 3.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 3.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nexus Select Trust Reits",
+            "weight": 2.97,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.79,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 2.39,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 2.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.26,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 2.06,
+            "sector": "Technology"
+        },
+        {
+            "name": "Infosys Limited",
+            "weight": 2.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.9,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 1.84,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "DOMS Industries Ltd",
+            "weight": 1.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nifty",
+            "weight": 1.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 1.36,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Jyothy Labs Ltd",
+            "weight": 1.35,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 1.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 1.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gillette India Ltd",
+            "weight": 1.29,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 1.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 1.22,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.12,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "National Highways Infra Trust Units",
+            "weight": 1.07,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 1.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.06,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.05,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 0.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Poly Medicure Ltd",
+            "weight": 0.97,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "India Shelter Finance Corporation Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vertis Infrastructure Trust Unit",
+            "weight": 0.89,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Ajax Engineering Ltd",
+            "weight": 0.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Procter & Gamble Hygiene and Health Care Ltd",
+            "weight": 0.87,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Future on Colgate-Palmolive (India) Ltd",
+            "weight": 0.86,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 0.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 0.82,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tbills",
+            "weight": 0.8,
+            "sector": "Other"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 0.79,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 0.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 0.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 0.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 0.68,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "CARE Ratings Ltd",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.65,
+            "sector": "Other"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 0.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ltimindtree Limited",
+            "weight": 0.6,
+            "sector": "Other"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 0.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 0.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 0.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "19/03/2026 Maturing 364 DTB",
+            "weight": 0.49,
+            "sector": "Other"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 0.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 0.43,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 0.43,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Info Edge (India) Limited",
+            "weight": 0.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Cigniti Technologies Ltd",
+            "weight": 0.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Indigo Paints Ltd Ordinary Shares",
+            "weight": 0.33,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 0.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Newgen Software Technologies Ltd",
+            "weight": 0.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.27,
+            "sector": "Other"
+        },
+        {
+            "name": "19/03/2026 Maturing 182 DTB",
+            "weight": 0.23,
+            "sector": "Other"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.08,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.02,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.02,
+            "sector": "Technology"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "27/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "12/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

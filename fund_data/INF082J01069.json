@@ -1,0 +1,166 @@
+{
+    "isin": "INF082J01069",
+    "scheme_name": "Quantum ELSS Tax Saver Fund - Direct Plan Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 6.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 5.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 5.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 4.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps ^",
+            "weight": 4.05,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 3.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Sun Life AMC Ltd",
+            "weight": 3.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 3.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.19,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 3.02,
+            "sector": "Technology"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 3.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 2.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 2.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nuvoco Vista Corp Ltd",
+            "weight": 2.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 2.77,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Exide Industries Ltd",
+            "weight": 2.68,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 2.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivable/(Payable)",
+            "weight": 2.55,
+            "sector": "Other"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 2.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 2.31,
+            "sector": "Utilities"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 2.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 2.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Godrej Properties Ltd",
+            "weight": 1.98,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 1.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 1.55,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.83,
+            "sector": "Basic Materials"
+        }
+    ]
+}

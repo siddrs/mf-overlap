@@ -1,0 +1,291 @@
+{
+    "isin": "INF109KC1D93",
+    "scheme_name": "ICICI Prudential MNC Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 7.21,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 6.83,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 5.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 5.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.56,
+            "sector": "Other"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 4.5,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 3.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 3.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 3.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 3.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CIE Automotive India Ltd",
+            "weight": 2.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 2.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 2.35,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Procter & Gamble Hygiene and Health Care Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 1.9,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pearl Global Industries Ltd",
+            "weight": 1.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triveni Turbine Ltd",
+            "weight": 1.85,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 1.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 1.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 1.38,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "EPL Ltd Ordinary Shares",
+            "weight": 1.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rolex Rings Ltd",
+            "weight": 1.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.31,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 1.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Ingersoll-Rand (India) Ltd",
+            "weight": 1.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "FDC Ltd",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 0.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gulf Oil Lubricants India Ltd",
+            "weight": 0.95,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 0.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Honeywell Automation India Ltd",
+            "weight": 0.9,
+            "sector": "Industrials"
+        },
+        {
+            "name": "BASF India Ltd",
+            "weight": 0.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 0.8,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 0.77,
+            "sector": "Technology"
+        },
+        {
+            "name": "Chemplast Sanmar Ltd",
+            "weight": 0.76,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 0.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 0.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sumitomo Chemical India Ltd Ordinary Shares",
+            "weight": 0.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 0.58,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SKF India Ltd",
+            "weight": 0.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "AstraZeneca Pharma India Ltd",
+            "weight": 0.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tatva Chintan Pharma Chem Ltd",
+            "weight": 0.48,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 0.3,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Procter & Gamble Health Ltd",
+            "weight": 0.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.15,
+            "sector": "Other"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 0.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

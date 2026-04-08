@@ -1,0 +1,346 @@
+{
+    "isin": "INF251K01HQ0",
+    "scheme_name": "BARODA BNP PARIBAS Mid Cap Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 4.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 3.56,
+            "sector": "Other"
+        },
+        {
+            "name": "Hitachi Energy India Ltd Ordinary Shares",
+            "weight": 3.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 3.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 2.56,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 2.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.06,
+            "sector": "Energy"
+        },
+        {
+            "name": "Sundaram Finance Ltd",
+            "weight": 2.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 1.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 1.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 1.91,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 1.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 1.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 1.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 1.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 1.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 1.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 1.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 1.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 1.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 1.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 1.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 1.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 1.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 1.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 1.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CRISIL Ltd",
+            "weight": 1.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 1.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 1.27,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 1.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 1.23,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "India Cements Ltd",
+            "weight": 1.21,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Yes Bank Ltd",
+            "weight": 1.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 1.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 1.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 1.05,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Procter & Gamble Hygiene and Health Care Ltd",
+            "weight": 1.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JTEKT India Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 0.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 0.86,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Dalmia Bharat Ltd",
+            "weight": 0.85,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "MRF Ltd",
+            "weight": 0.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "25/06/2026 Maturing 364 DTB",
+            "weight": 0.84,
+            "sector": "Other"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 0.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 0.76,
+            "sector": "Technology"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 0.67,
+            "sector": "Technology"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 0.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 0.41,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.01,
+            "sector": "Other"
+        }
+    ]
+}

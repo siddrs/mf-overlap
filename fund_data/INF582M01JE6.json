@@ -1,0 +1,306 @@
+{
+    "isin": "INF582M01JE6",
+    "scheme_name": "Union Innovation & Opportunities Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 4.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 4.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 3.94,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 3.61,
+            "sector": "Technology"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 3.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 3.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 2.99,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 2.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 2.73,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 2.61,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 2.57,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 2.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 2.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 2.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 2.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 2.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 2.14,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "KFin Technologies Ltd",
+            "weight": 1.83,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 1.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Data Patterns (India) Ltd",
+            "weight": 1.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 1.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 1.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jyoti CNC Automation Ltd",
+            "weight": 1.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 1.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ethos Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.37,
+            "sector": "Other"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 1.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 1.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Awfis Space Solutions Ltd",
+            "weight": 1.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 1.19,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 1.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Schneider Electric Infrastructure Ltd",
+            "weight": 0.98,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 0.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Neogen Chemicals Ltd",
+            "weight": 0.95,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Honasa Consumer Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 0.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CE Info Systems Ltd",
+            "weight": 0.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Capillary Technologies India Ltd",
+            "weight": 0.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 0.82,
+            "sector": "Technology"
+        },
+        {
+            "name": "Saregama India Ltd",
+            "weight": 0.71,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Gokaldas Exports Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Syrma SGS Technology Ltd",
+            "weight": 0.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.47,
+            "sector": "Other"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.1,
+            "sector": "Other"
+        },
+        {
+            "name": "16/04/2026 Maturing 364 DTB",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

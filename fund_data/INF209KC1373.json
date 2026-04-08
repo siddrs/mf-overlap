@@ -1,0 +1,231 @@
+{
+    "isin": "INF209KC1373",
+    "scheme_name": "Aditya Birla Sun Life Conglomerate Fund-Direct Growth",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 15.17,
+            "sector": "Energy"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 7.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 6.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 5.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 3.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 3.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 3.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 3.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 3.14,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 2.76,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Welspun Corp Ltd",
+            "weight": 2.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 2.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 2.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Holdings Ltd",
+            "weight": 2.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 1.76,
+            "sector": "Technology"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 1.69,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 1.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 1.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Arvind Ltd",
+            "weight": 1.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Properties Ltd",
+            "weight": 1.51,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "GMR Airports Ltd",
+            "weight": 1.48,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Akzo Nobel India Ltd",
+            "weight": 1.36,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 1.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 1.23,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Mrs Bectors Food Specialities Ltd Ordinary Shares",
+            "weight": 1.19,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Atul Ltd",
+            "weight": 1.18,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Orient Electric Ltd Ordinary Shares",
+            "weight": 1.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.11,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 1.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.04,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Finolex Industries Ltd",
+            "weight": 1.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PCBL Chemical Ltd",
+            "weight": 0.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 0.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 0.89,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Chemicals Ltd",
+            "weight": 0.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 0.83,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.69,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 0.55,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 0.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clearing Corporation Of India Limited",
+            "weight": 0.5,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 0.15,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Exide Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

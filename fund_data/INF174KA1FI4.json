@@ -1,0 +1,271 @@
+{
+    "isin": "INF174KA1FI4",
+    "scheme_name": "Kotak ESG Exclusionary Strategy Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.24,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 7.1,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 5.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 4.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 3.76,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 3.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 3.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 3.02,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 1.85,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.67,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 1.43,
+            "sector": "Energy"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.39,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 1.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.28,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 1.2,
+            "sector": "Energy"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 1.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.16,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.12,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 1.12,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 1.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 1.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 1.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 0.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Tyres Ltd",
+            "weight": 0.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 0.73,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 0.71,
+            "sector": "Utilities"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 0.63,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Shoppers Stop Ltd",
+            "weight": 0.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Liquid Dir Gr",
+            "weight": 0.51,
+            "sector": "Other"
+        },
+        {
+            "name": "V-Mart Retail Ltd",
+            "weight": 0.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.47,
+            "sector": "Other"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 0.42,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TeamLease Services Ltd",
+            "weight": 0.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 0.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ratnamani Metals & Tubes Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

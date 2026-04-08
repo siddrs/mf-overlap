@@ -1,0 +1,391 @@
+{
+    "isin": "INF754K01TA2",
+    "scheme_name": "Edelweiss Business Cycle Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 3.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 3.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 3.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 3.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 2.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ashok Leyland Ltd.30/03/2026",
+            "weight": 2.67,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 2.67,
+            "sector": "Other"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 2.64,
+            "sector": "Other"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 2.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 2.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 2.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 2.03,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 2.01,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 2.0,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 1.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.83,
+            "sector": "Energy"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 1.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 1.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 1.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.53,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 1.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 1.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 1.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 1.31,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 1.26,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 1.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 1.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 1.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 1.13,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 1.11,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Punjab National Bank",
+            "weight": 1.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 1.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 1.03,
+            "sector": "Energy"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 1.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 1.03,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 1.02,
+            "sector": "Energy"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 0.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 0.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 0.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 0.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 0.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 0.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 0.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 0.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 0.9,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Jindal Stainless Ltd",
+            "weight": 0.9,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sundaram Finance Ltd",
+            "weight": 0.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 0.86,
+            "sector": "Energy"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 0.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 0.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 0.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "02/04/2026 Maturing 364 DTB",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables/(Payables)",
+            "weight": 0.24,
+            "sector": "Other"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 0.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Accrued Interest",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

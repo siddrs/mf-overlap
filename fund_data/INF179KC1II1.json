@@ -1,0 +1,446 @@
+{
+    "isin": "INF179KC1II1",
+    "scheme_name": "HDFC Manufacturing fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.56,
+            "sector": "Energy"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 4.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 4.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 3.66,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 3.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 2.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 2.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 2.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 2.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.32,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 2.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.22,
+            "sector": "Energy"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 2.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 2.19,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.13,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.08,
+            "sector": "Energy"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 2.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.91,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 1.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 1.44,
+            "sector": "Technology"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Treps - Tri-Party Repo",
+            "weight": 1.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 1.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pearl Global Industries Ltd",
+            "weight": 1.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 1.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CIE Automotive India Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 1.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 1.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Atlanta Electricals Ltd",
+            "weight": 0.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Centum Electronics Ltd",
+            "weight": 0.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 0.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Archean Chemical Industries Ltd",
+            "weight": 0.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Saatvik Green Energy Ltd",
+            "weight": 0.74,
+            "sector": "Technology"
+        },
+        {
+            "name": "Birla Corp Ltd",
+            "weight": 0.72,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 0.69,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 0.69,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Jubilant Ingrevia Ltd Ordinary Shares",
+            "weight": 0.67,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cyient DLM Ltd",
+            "weight": 0.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bansal Wire Industries Ltd",
+            "weight": 0.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Time Technoplast Ltd",
+            "weight": 0.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 0.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godavari Biorefineries Ltd",
+            "weight": 0.55,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 0.53,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Blue Dart Express Ltd",
+            "weight": 0.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 0.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 0.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sharda Motor Industries Ltd",
+            "weight": 0.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 0.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jubilant Pharmova Ltd",
+            "weight": 0.41,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bajaj Electricals Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 0.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Wockhardt Ltd",
+            "weight": 0.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 0.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "KSH International Ltd",
+            "weight": 0.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Piramal Pharma Ltd",
+            "weight": 0.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "West Coast Paper Mills Ltd",
+            "weight": 0.33,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "GMM Pfaudler Ltd",
+            "weight": 0.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Techno Electric & Engineering Co Ltd",
+            "weight": 0.31,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 0.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 0.28,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 0.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 0.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 0.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 0.24,
+            "sector": "Energy"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 0.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "M & B Engineering Ltd",
+            "weight": 0.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TCI Express Ltd",
+            "weight": 0.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Cello World Ltd",
+            "weight": 0.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JNK India Ltd",
+            "weight": 0.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 0.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Syrma SGS Technology Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

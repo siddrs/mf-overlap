@@ -1,0 +1,176 @@
+{
+    "isin": "INF204KA1SI1",
+    "scheme_name": "Nippon India Japan Equity Fund- Direct Plan- Growth Plan- Growth Option",
+    "holdings": [
+        {
+            "name": "Ajinomoto Co Inc",
+            "weight": 4.47,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Komatsu Ltd",
+            "weight": 4.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sumitomo Electric Industries Ltd",
+            "weight": 4.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mitsubishi Corp",
+            "weight": 4.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tokyo Electron Ltd",
+            "weight": 3.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "SMC Corp",
+            "weight": 3.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shin-Etsu Chemical Co Ltd",
+            "weight": 3.66,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dai-ichi Life Holdings Inc",
+            "weight": 3.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mitsubishi Heavy Industries Ltd",
+            "weight": 3.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Fast Retailing Co Ltd",
+            "weight": 3.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mitsubishi UFJ Financial Group Inc",
+            "weight": 3.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Toyota Motor Corp",
+            "weight": 3.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tokio Marine Holdings Inc",
+            "weight": 3.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ORIX Corp",
+            "weight": 3.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Keyence Corp",
+            "weight": 3.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mitsui Fudosan Co Ltd",
+            "weight": 3.15,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Daiwa House Industry Co Ltd",
+            "weight": 3.14,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "TDK Corp",
+            "weight": 3.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nippon Yusen Kabushiki Kaisha",
+            "weight": 3.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hitachi Ltd",
+            "weight": 3.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kao Corp",
+            "weight": 3.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bridgestone Corp",
+            "weight": 2.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nitori Holdings Co Ltd",
+            "weight": 2.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NTT Inc",
+            "weight": 2.82,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "East Japan Railway Co",
+            "weight": 2.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sony Group Corp",
+            "weight": 2.64,
+            "sector": "Technology"
+        },
+        {
+            "name": "Terumo Corp",
+            "weight": 2.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Otsuka Corp",
+            "weight": 2.53,
+            "sector": "Technology"
+        },
+        {
+            "name": "Recruit Holdings Co Ltd",
+            "weight": 2.37,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "BayCurrent Inc",
+            "weight": 2.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.85,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

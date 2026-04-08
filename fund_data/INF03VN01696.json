@@ -1,0 +1,411 @@
+{
+    "isin": "INF03VN01696",
+    "scheme_name": "WhiteOak Capital Large Cap Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 9.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 9.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 6.53,
+            "sector": "Other"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 4.77,
+            "sector": "Other"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 3.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.14,
+            "sector": "Energy"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 3.06,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 2.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.39,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 2.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 1.86,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 1.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bank Nifty Index",
+            "weight": 1.61,
+            "sector": "Other"
+        },
+        {
+            "name": "Infosys Limited",
+            "weight": 1.59,
+            "sector": "Other"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "National Highways Infra Trust Units",
+            "weight": 1.45,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nexus Select Trust Reits",
+            "weight": 1.31,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 1.24,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 1.24,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.22,
+            "sector": "Technology"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.21,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 1.15,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.11,
+            "sector": "Energy"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 1.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 1.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.04,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 0.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ltimindtree Limited",
+            "weight": 0.96,
+            "sector": "Other"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 0.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tbills",
+            "weight": 0.95,
+            "sector": "Other"
+        },
+        {
+            "name": "Interglobe Aviation Limited",
+            "weight": 0.94,
+            "sector": "Other"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 0.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 0.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 0.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Persistent Systems Limited",
+            "weight": 0.76,
+            "sector": "Other"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 0.72,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "19/03/2026 Maturing 364 DTB",
+            "weight": 0.69,
+            "sector": "Other"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 0.68,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 0.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 0.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 0.56,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 0.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.43,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.43,
+            "sector": "Other"
+        },
+        {
+            "name": "16/04/2026 Maturing 182 DTB",
+            "weight": 0.43,
+            "sector": "Other"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 0.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Limited",
+            "weight": 0.34,
+            "sector": "Other"
+        },
+        {
+            "name": "Nifty",
+            "weight": 0.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Jyothy Labs Ltd",
+            "weight": 0.32,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 0.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Poly Medicure Ltd",
+            "weight": 0.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cigniti Technologies Ltd",
+            "weight": 0.28,
+            "sector": "Technology"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 0.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Anantam Highways Trust Invits",
+            "weight": 0.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndiGrid Infrastructure Trust Units Series - IV",
+            "weight": 0.21,
+            "sector": "Utilities"
+        },
+        {
+            "name": "09/04/2026 Maturing 182 DTB",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 0.09,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "19/03/2026 Maturing 182 DTB",
+            "weight": 0.08,
+            "sector": "Other"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Brookfield India Real Estate Trust",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "27/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "19/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "19/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

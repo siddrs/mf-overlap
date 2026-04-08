@@ -1,0 +1,276 @@
+{
+    "isin": "INF204KC1BO3",
+    "scheme_name": "Nippon India Innovation Fund-Direct Plan-Growth Option",
+    "holdings": [
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 4.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 4.16,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 4.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 3.91,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 3.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 3.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 3.69,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 3.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 3.24,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 3.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 3.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 2.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.43,
+            "sector": "Energy"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 2.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 2.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 2.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kirloskar Oil Engines Ltd",
+            "weight": 2.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 2.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.4,
+            "sector": "Technology"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 1.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 1.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 1.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KFin Technologies Ltd",
+            "weight": 0.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "Honasa Consumer Ltd",
+            "weight": 0.95,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Restaurant Brands Asia Ltd Ordinary Shares",
+            "weight": 0.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 0.77,
+            "sector": "Technology"
+        },
+        {
+            "name": "eMudhra Ltd",
+            "weight": 0.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sanofi India Ltd",
+            "weight": 0.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 0.61,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sapphire Foods India Ltd",
+            "weight": 0.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Niva Bupa Health Insurance Co Ltd",
+            "weight": 0.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

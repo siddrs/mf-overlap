@@ -1,0 +1,191 @@
+{
+    "isin": "INF200KB1126",
+    "scheme_name": "SBI Energy Opportunities Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 8.29,
+            "sector": "Energy"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 6.78,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 6.32,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 6.14,
+            "sector": "Energy"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 5.92,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 5.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Treps",
+            "weight": 5.42,
+            "sector": "Other"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.82,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 4.8,
+            "sector": "Energy"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 4.79,
+            "sector": "Energy"
+        },
+        {
+            "name": "HEG Ltd",
+            "weight": 4.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 4.02,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 3.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Honeywell Automation India Ltd",
+            "weight": 2.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 2.55,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Graphite India Ltd",
+            "weight": 2.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CESC Ltd",
+            "weight": 2.15,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 2.15,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Savita Oil Technologies Ltd",
+            "weight": 1.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 1.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 1.69,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 1.42,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 1.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shivalik Bimetal Controls Ltd",
+            "weight": 1.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 1.14,
+            "sector": "Energy"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 1.01,
+            "sector": "Utilities"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 0.93,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 0.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 0.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.56,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 0.35,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 0.31,
+            "sector": "Industrials"
+        },
+        {
+            "name": "INOX India Ltd",
+            "weight": 0.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Chemplast Sanmar Ltd",
+            "weight": 0.18,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.05,
+            "sector": "Other"
+        }
+    ]
+}

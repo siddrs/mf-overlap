@@ -1,0 +1,461 @@
+{
+    "isin": "INF109K016L0",
+    "scheme_name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 9.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 9.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 6.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.84,
+            "sector": "Other"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 4.11,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 3.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 3.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 3.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Nifty 50 Index",
+            "weight": 3.06,
+            "sector": "Other"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.55,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 2.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 2.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 1.42,
+            "sector": "Utilities"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 1.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 1.16,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.11,
+            "sector": "Energy"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 0.99,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 0.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 0.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Procter & Gamble Hygiene and Health Care Ltd",
+            "weight": 0.78,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.77,
+            "sector": "Other"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 0.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 0.66,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 0.62,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 0.61,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 0.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 0.6,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 0.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 0.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 0.54,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 0.48,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "State Bank Of India",
+            "weight": 0.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.47,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 0.46,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 0.46,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 0.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 0.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 0.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Limited",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Union Bank Of India",
+            "weight": 0.26,
+            "sector": "Other"
+        },
+        {
+            "name": "08/05/2026 Maturing 182 DTB",
+            "weight": 0.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 0.25,
+            "sector": "Energy"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 0.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 0.25,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 0.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Supreme Industries Ltd",
+            "weight": 0.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "05/03/2026 Maturing 364 DTB",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 0.19,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 0.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "National Bank For Agriculture And Rural Development",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Deutsche Investments India Private Limited",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 0.12,
+            "sector": "Other"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 0.1,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 0.09,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "09/04/2026 Maturing 182 DTB",
+            "weight": 0.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Gillette India Ltd",
+            "weight": 0.08,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 0.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 0.07,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 0.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "16/04/2026 Maturing 364 DTB",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Gujarat Pipavav Port Ltd",
+            "weight": 0.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "19/03/2026 Maturing 364 DTB",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "L&T Finance Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Birla Group Holdings Private Limited",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Punjab National Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "27/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

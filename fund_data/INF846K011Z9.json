@@ -1,0 +1,226 @@
+{
+    "isin": "INF846K011Z9",
+    "scheme_name": "Axis Momentum Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.39,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 4.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 4.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 4.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 3.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 3.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 3.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Syrma SGS Technology Ltd",
+            "weight": 3.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "GMR Airports Ltd",
+            "weight": 3.39,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 3.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 3.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 3.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 2.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.52,
+            "sector": "Energy"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 2.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 2.27,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.16,
+            "sector": "Energy"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 2.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 1.45,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 1.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 0.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 0.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 0.65,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 0.52,
+            "sector": "Other"
+        },
+        {
+            "name": "Yes Bank Ltd",
+            "weight": 0.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 0.48,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.35,
+            "sector": "Other"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

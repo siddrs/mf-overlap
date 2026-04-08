@@ -1,0 +1,151 @@
+{
+    "isin": "INF663L01Z45",
+    "scheme_name": "PGIM India Healthcare Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 11.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 10.34,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 7.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 6.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 6.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 5.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 5.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 5.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 4.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 4.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 3.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 3.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 2.83,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 2.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 2.23,
+            "sector": "Other"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 2.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 2.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 2.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 1.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 1.62,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 0.78,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Orchid Pharma Ltd",
+            "weight": 0.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 0.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Agarwal'S Eye Hospital Ltd",
+            "weight": 0.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Agarwal\u2019s Health Care Ltd",
+            "weight": 0.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.17,
+            "sector": "Other"
+        }
+    ]
+}

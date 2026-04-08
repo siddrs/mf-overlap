@@ -1,0 +1,161 @@
+{
+    "isin": "INF247L01569",
+    "scheme_name": "Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 7.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 6.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 4.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apar Industries Ltd",
+            "weight": 4.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PTC Industries Ltd",
+            "weight": 4.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jain Resource Recycling Ltd",
+            "weight": 4.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 4.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 4.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 3.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 3.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 3.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 3.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Prestige Estates Projects Ltd",
+            "weight": 3.41,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Gujarat Fluorochemicals Ltd Ordinary Shares",
+            "weight": 3.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 3.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "OneSource Specialty Pharma Ltd",
+            "weight": 2.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Zen Technologies Ltd",
+            "weight": 2.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 2.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Premier Energies Ltd",
+            "weight": 2.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "Religare Enterprises Ltd",
+            "weight": 2.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 2.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "International Gemmological Institute (India) Ltd",
+            "weight": 2.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 2.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 2.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ola Electric Mobility Ltd",
+            "weight": 1.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 1.24,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 0.68,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.29,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

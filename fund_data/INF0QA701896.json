@@ -1,0 +1,186 @@
+{
+    "isin": "INF0QA701896",
+    "scheme_name": "BAJAJ FINSERV LARGE CAP FUND - DIRECT PLAN - GROWTH",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 7.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 4.95,
+            "sector": "Energy"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.49,
+            "sector": "Utilities"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 4.27,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 4.11,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 3.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 3.82,
+            "sector": "Technology"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 3.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 3.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 3.54,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 3.42,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 3.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.58,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.54,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 2.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.5,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 2.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 1.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 1.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 1.98,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 1.87,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.47,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Future on Jio Financial Services Ltd",
+            "weight": 1.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Vedanta Limited March 2026 Future",
+            "weight": 0.81,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.8,
+            "sector": "Other"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 0.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

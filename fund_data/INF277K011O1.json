@@ -1,0 +1,336 @@
+{
+    "isin": "INF277K011O1",
+    "scheme_name": "Tata Small Cap Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Cash / Net Current Asset",
+            "weight": 5.38,
+            "sector": "Other"
+        },
+        {
+            "name": "Kirloskar Pneumatic Co Ltd",
+            "weight": 4.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Usha Martin Ltd",
+            "weight": 4.53,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tega Industries Ltd",
+            "weight": 4.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 4.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sudarshan Chemical Industries Ltd",
+            "weight": 4.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Godrej Industries Ltd",
+            "weight": 3.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CE Info Systems Ltd",
+            "weight": 2.61,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wockhardt Ltd",
+            "weight": 2.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Graphite India Ltd",
+            "weight": 2.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "BASF India Ltd",
+            "weight": 2.46,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Time Technoplast Ltd",
+            "weight": 2.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "A) Repo",
+            "weight": 2.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Sundaram Clayton Ltd",
+            "weight": 2.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Anant Raj Ltd",
+            "weight": 2.03,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "DCB Bank Ltd",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Wonderla Holidays Ltd",
+            "weight": 1.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 1.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SAMHI Hotels Ltd",
+            "weight": 1.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gujarat Pipavav Port Ltd",
+            "weight": 1.79,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ELANTAS Beck India Ltd",
+            "weight": 1.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Redington Ltd",
+            "weight": 1.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "Quess Corp Ltd",
+            "weight": 1.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 1.68,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Network People Services Technologies Ltd",
+            "weight": 1.67,
+            "sector": "Technology"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 1.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "VIP Industries Ltd",
+            "weight": 1.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kirloskar Ferrous Industries Ltd",
+            "weight": 1.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Krsnaa Diagnostics Ltd",
+            "weight": 1.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Shoppers Stop Ltd",
+            "weight": 1.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Greenply Industries Ltd",
+            "weight": 1.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "CIE Automotive India Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ramco Cements Ltd",
+            "weight": 1.32,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 1.3,
+            "sector": "Utilities"
+        },
+        {
+            "name": "PCBL Chemical Ltd",
+            "weight": 1.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ASK Automotive Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sundrop Brands Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Keystone Realtors Ltd",
+            "weight": 1.06,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Honda India Power Products Ltd",
+            "weight": 1.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gokaldas Exports Ltd",
+            "weight": 0.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Balrampur Chini Mills Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Smartworks Coworking Spaces Ltd",
+            "weight": 0.83,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Akzo Nobel India Ltd",
+            "weight": 0.79,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Finolex Cables Ltd",
+            "weight": 0.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Transport Corp of India Ltd",
+            "weight": 0.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Alivus Life Sciences Ltd",
+            "weight": 0.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "MM Forgings Ltd",
+            "weight": 0.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cello World Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ramco Industries Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hikal Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vardhman Special Steels Ltd",
+            "weight": 0.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eveready Industries India Ltd",
+            "weight": 0.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Saregama India Ltd",
+            "weight": 0.55,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Natco Pharma Ltd",
+            "weight": 0.51,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "R R Kabel Ltd",
+            "weight": 0.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Digitide Solutions Ltd",
+            "weight": 0.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ganesha Ecosphere Ltd",
+            "weight": 0.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bluspring Enterprises Ltd",
+            "weight": 0.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Allcargo Global Ltd.",
+            "weight": 0.38,
+            "sector": "Other"
+        },
+        {
+            "name": "Sri Lotus Developers And Realty Ltd",
+            "weight": 0.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Automotive Axles Ltd",
+            "weight": 0.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rallis India Ltd",
+            "weight": 0.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Allcargo Logistics Ltd",
+            "weight": 0.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "POWERGRID Infrastructure Investment Trust Units",
+            "weight": 0.09,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Transindia Real Estate Ltd",
+            "weight": 0.07,
+            "sector": "Real Estate"
+        }
+    ]
+}

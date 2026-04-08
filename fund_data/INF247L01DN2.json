@@ -1,0 +1,156 @@
+{
+    "isin": "INF247L01DN2",
+    "scheme_name": "Motilal Oswal Digital India Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 7.95,
+            "sector": "Technology"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 6.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 6.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 6.28,
+            "sector": "Technology"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 5.82,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 5.55,
+            "sector": "Technology"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 4.9,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 4.17,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 3.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 3.87,
+            "sector": "Technology"
+        },
+        {
+            "name": "CE Info Systems Ltd",
+            "weight": 3.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 3.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Intellect Design Arena Ltd",
+            "weight": 3.52,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 3.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 3.48,
+            "sector": "Technology"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 3.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Avalon Technologies Ltd",
+            "weight": 3.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 2.93,
+            "sector": "Technology"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 2.87,
+            "sector": "Technology"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 2.77,
+            "sector": "Technology"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 2.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 2.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 2.02,
+            "sector": "Technology"
+        },
+        {
+            "name": "Yatra Online Ltd",
+            "weight": 0.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.61,
+            "sector": "Other"
+        },
+        {
+            "name": "Unicommerce eSolutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Zaggle Prepaid Ocean Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

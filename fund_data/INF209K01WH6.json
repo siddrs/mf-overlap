@@ -1,0 +1,326 @@
+{
+    "isin": "INF209K01WH6",
+    "scheme_name": "Aditya Birla Sun Life Infrastructure Fund - Growth - Direct Plan",
+    "holdings": [
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 7.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.78,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.2,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 4.07,
+            "sector": "Energy"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 3.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Clearing Corporation Of India Limited",
+            "weight": 3.71,
+            "sector": "Other"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 3.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 2.27,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GMR Airports Ltd",
+            "weight": 2.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 2.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 2.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 1.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sobha Ltd",
+            "weight": 1.91,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 1.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 1.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 1.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 1.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 1.68,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Voltamp Transformers Ltd",
+            "weight": 1.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 1.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pitti Engineering Ltd",
+            "weight": 1.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "VRL Logistics Ltd",
+            "weight": 1.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 1.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SAMHI Hotels Ltd",
+            "weight": 1.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 1.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 1.35,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kirloskar Oil Engines Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Greenply Industries Ltd",
+            "weight": 1.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 1.24,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 1.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Mech Projects Ltd",
+            "weight": 1.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shivalik Bimetal Controls Ltd",
+            "weight": 1.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ahluwalia Contracts (India) Ltd",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "H.G. Infra Engineering Ltd Ordinary Shares",
+            "weight": 1.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 0.98,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PNC Infratech Ltd",
+            "weight": 0.98,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 0.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 0.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 0.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Indiqube Spaces Ltd",
+            "weight": 0.93,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 0.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Margin (Future And Options)",
+            "weight": 0.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance_(30/03/2026)",
+            "weight": 0.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 0.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Tega Industries Ltd",
+            "weight": 0.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.83,
+            "sector": "Other"
+        },
+        {
+            "name": "DEE Development Engineers Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Praj Industries Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NCC Ltd",
+            "weight": 0.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 0.43,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cash And Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

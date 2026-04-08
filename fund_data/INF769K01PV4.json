@@ -1,0 +1,206 @@
+{
+    "isin": "INF769K01PV4",
+    "scheme_name": "Mirae Asset Infrastructure Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 10.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 7.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 7.05,
+            "sector": "Utilities"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 6.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.8,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 4.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 3.93,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 3.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.2,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 3.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 3.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 2.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 2.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 2.63,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Lodha Developers Ltd",
+            "weight": 2.46,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Blackbuck Ltd",
+            "weight": 2.3,
+            "sector": "Technology"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 2.23,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Prestige Estates Projects Ltd",
+            "weight": 2.19,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 1.95,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 1.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 1.86,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 1.86,
+            "sector": "Energy"
+        },
+        {
+            "name": "Titagarh Rail Systems Ltd",
+            "weight": 1.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 1.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 1.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Triveni Turbine Ltd",
+            "weight": 1.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.58,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 1.38,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.18,
+            "sector": "Other"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 1.02,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 0.98,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 0.71,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 0.45,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Greenply Industries Ltd",
+            "weight": 0.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ratnamani Metals & Tubes Ltd",
+            "weight": 0.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.32,
+            "sector": "Technology"
+        }
+    ]
+}

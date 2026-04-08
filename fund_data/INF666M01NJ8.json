@@ -1,0 +1,216 @@
+{
+    "isin": "INF666M01NJ8",
+    "scheme_name": "Groww Small Cap Fund-Direct-Growth",
+    "holdings": [
+        {
+            "name": "Ccil",
+            "weight": 40.14,
+            "sector": "Other"
+        },
+        {
+            "name": "Apar Industries Ltd",
+            "weight": 4.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 4.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.58,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Yatharth Hospital and Trauma Care Services Ltd",
+            "weight": 2.4,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivable/Payable",
+            "weight": 2.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 2.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 2.24,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 2.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Venus Pipes & Tubes Ltd",
+            "weight": 2.04,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Fine Organic Industries Ltd Ordinary Shares",
+            "weight": 2.04,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 1.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 1.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 1.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 1.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 1.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tamilnad Mercantile Bank Ltd",
+            "weight": 1.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Data Patterns (India) Ltd",
+            "weight": 1.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shriram Pistons & Rings Ltd",
+            "weight": 1.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CreditAccess Grameen Ltd Ordinary Shares",
+            "weight": 1.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 1.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sandhar Technologies Ltd Ordinary Shares",
+            "weight": 1.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "L.G.Balakrishnan & Bros Ltd",
+            "weight": 1.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mrs Bectors Food Specialities Ltd Ordinary Shares",
+            "weight": 1.24,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sharda Motor Industries Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rolex Rings Ltd",
+            "weight": 0.95,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 0.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Steel Strips Wheels Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PNGS Reva Diamond Jewellery Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 0.86,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Unimech Aerospace And Manufacturing Ltd",
+            "weight": 0.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GNA Axles Ltd",
+            "weight": 0.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SBFC Finance Ltd",
+            "weight": 0.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 0.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Galaxy Surfactants Ltd",
+            "weight": 0.56,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 0.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 0.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Uniparts India Ltd",
+            "weight": 0.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aether Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

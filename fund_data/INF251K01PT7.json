@@ -1,0 +1,236 @@
+{
+    "isin": "INF251K01PT7",
+    "scheme_name": "BARODA BNP PARIBAS India Consumption Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 7.76,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 7.75,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 6.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 5.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 5.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 4.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 3.78,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 3.66,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 2.94,
+            "sector": "Other"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 2.73,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.7,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.62,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 2.4,
+            "sector": "Technology"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 2.38,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.22,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 1.6,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 1.55,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 1.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mrs Bectors Food Specialities Ltd Ordinary Shares",
+            "weight": 1.36,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.36,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 1.29,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 1.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 1.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Procter & Gamble Hygiene and Health Care Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.99,
+            "sector": "Other"
+        },
+        {
+            "name": "United Spirits Limited March 2026 Future",
+            "weight": 0.91,
+            "sector": "Other"
+        },
+        {
+            "name": "Akzo Nobel India Ltd",
+            "weight": 0.91,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gillette India Ltd",
+            "weight": 0.86,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Orkla India Ltd",
+            "weight": 0.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Zydus Wellness Ltd",
+            "weight": 0.79,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "25/06/2026 Maturing 364 DTB",
+            "weight": 0.68,
+            "sector": "Other"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 0.52,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.05,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.04,
+            "sector": "Other"
+        }
+    ]
+}

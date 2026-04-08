@@ -1,0 +1,346 @@
+{
+    "isin": "INF1MIY01031",
+    "scheme_name": "Unifi Flexi Cap Fund - Direct Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.36,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 5.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 4.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.82,
+            "sector": "Energy"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 3.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.85,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 2.57,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 2.24,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.23,
+            "sector": "Other"
+        },
+        {
+            "name": "The South Indian Bank Ltd",
+            "weight": 2.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.14,
+            "sector": "Utilities"
+        },
+        {
+            "name": "CARE Ratings Ltd",
+            "weight": 2.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pearl Global Industries Ltd",
+            "weight": 1.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 1.9,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aarti Pharmalabs Ltd",
+            "weight": 1.72,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 1.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 1.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 1.64,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 1.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 1.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 1.36,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 1.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shyam Metalics and Energy Ltd",
+            "weight": 1.27,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 1.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Sun Life AMC Ltd",
+            "weight": 1.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Marksans Pharma Ltd",
+            "weight": 1.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 1.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 1.12,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 1.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 1.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 0.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 0.95,
+            "sector": "Technology"
+        },
+        {
+            "name": "Medplus Health Services Ltd",
+            "weight": 0.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 0.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 0.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.87,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Redington Ltd",
+            "weight": 0.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 0.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.8,
+            "sector": "Technology"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 0.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RPG Life Sciences Ltd",
+            "weight": 0.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 0.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "NCC Ltd",
+            "weight": 0.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kovai Medical Center & Hospital Ltd",
+            "weight": 0.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Margin Money For Derivative/Treps",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Offsets For Shorts & Derivatives",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Accord Transformer & Switchgear Ltd",
+            "weight": 0.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Call Ntpc Limited 30/03/2026 385",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Call Tata Steel Limited 30/03/2026 220",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Call Apollo Hospitals Enterprise Ltd 30/03/2026 8000",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Call Larsen & Toubro Limited 30/03/2026 4500",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Call Sbin Bank 30/03/2026 1250",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Paradeep Phosphates Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Godrej Agrovet Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

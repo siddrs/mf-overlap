@@ -1,0 +1,181 @@
+{
+    "isin": "INF044D01BX3",
+    "scheme_name": "Taurus Large Cap Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "ITC Ltd",
+            "weight": 9.44,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 7.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 6.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 6.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 6.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 4.74,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 3.43,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Mazagon Dock Shipbuilders Ltd",
+            "weight": 3.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.17,
+            "sector": "Energy"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 3.08,
+            "sector": "Energy"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 2.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 2.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 2.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 2.3,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 1.99,
+            "sector": "Energy"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 1.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 1.79,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.62,
+            "sector": "Technology"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 1.61,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "General Insurance Corp of India",
+            "weight": 1.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 1.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 1.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.05,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 0.73,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Inox Wind Ltd",
+            "weight": 0.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 0.52,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

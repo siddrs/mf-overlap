@@ -1,0 +1,246 @@
+{
+    "isin": "INF251K01VJ6",
+    "scheme_name": "Baroda BNP Paribas Business Conglomerates Fund Direct Growth Option",
+    "holdings": [
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 9.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 7.91,
+            "sector": "Energy"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 7.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 4.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 3.73,
+            "sector": "Other"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 3.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 2.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 2.55,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 2.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 2.4,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 2.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 2.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "6.79% Gs 2034",
+            "weight": 2.12,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 2.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 2.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 1.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Akzo Nobel India Ltd",
+            "weight": 1.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.67,
+            "sector": "Other"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 1.58,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 1.57,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 1.54,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 1.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.4,
+            "sector": "Technology"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 1.36,
+            "sector": "Energy"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 1.35,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 1.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 1.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gillette India Ltd",
+            "weight": 1.26,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "India Cements Ltd",
+            "weight": 1.23,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "CESC Ltd",
+            "weight": 1.2,
+            "sector": "Utilities"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 1.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 1.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Multi Commodity Exchange Of India Limited March 2026 Future",
+            "weight": 1.16,
+            "sector": "Other"
+        },
+        {
+            "name": "JSW Cement Ltd",
+            "weight": 1.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Elxsi Ltd",
+            "weight": 0.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 0.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 0.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 0.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.16,
+            "sector": "Energy"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "isin": "INF761K01GI7",
+    "scheme_name": "Bank of India Consumption Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 9.19,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 7.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 7.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 5.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.52,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 4.19,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 4.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 3.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 3.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Stylam Industries Ltd",
+            "weight": 3.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 3.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Vision Ltd",
+            "weight": 2.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 2.95,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Tips Music Ltd",
+            "weight": 2.89,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 2.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emami Ltd",
+            "weight": 2.62,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 2.4,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 1.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 1.73,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sky Gold and Diamonds Ltd",
+            "weight": 1.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Senco Gold Ltd",
+            "weight": 1.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 1.57,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 1.38,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Balrampur Chini Mills Ltd",
+            "weight": 1.12,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Godfrey Phillips India Ltd",
+            "weight": 1.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "MRF Ltd",
+            "weight": 1.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 0.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 0.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 0.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 0.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.02,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Landmark Cars Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

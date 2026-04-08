@@ -1,0 +1,351 @@
+{
+    "isin": "INF966L01614",
+    "scheme_name": "quant Multi Cap Fund-GROWTH OPTION-Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 18.64,
+            "sector": "Other"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 12.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 7.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 5.59,
+            "sector": "Utilities"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Midcapnifty",
+            "weight": 4.7,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 4.41,
+            "sector": "Other"
+        },
+        {
+            "name": "Swan Corp Ltd",
+            "weight": 3.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 3.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 3.18,
+            "sector": "Energy"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.15,
+            "sector": "Energy"
+        },
+        {
+            "name": "Sun TV Network Ltd",
+            "weight": 2.9,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 2.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IRB Infrastructure Developers Ltd",
+            "weight": 2.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 2.35,
+            "sector": "Utilities"
+        },
+        {
+            "name": "AWL Agri Business Ltd",
+            "weight": 2.32,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CRISIL Ltd",
+            "weight": 2.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 2.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aurobindo Pharma Limited",
+            "weight": 1.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Embassy Developments Ltd",
+            "weight": 1.9,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Strides Pharma Science Ltd",
+            "weight": 1.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 1.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.55,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Birla Lifestyle Brands Ltd",
+            "weight": 1.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 1.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gujarat State Fertilizers & Chemicals Ltd",
+            "weight": 1.4,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Honda India Power Products Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 1.1,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 1.1,
+            "sector": "Technology"
+        },
+        {
+            "name": "Maharashtra Seamless Ltd",
+            "weight": 1.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "JSW Infrastructure Ltd",
+            "weight": 1.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Century Enka Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 1.02,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Juniper Hotels Ltd",
+            "weight": 0.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Premier Energies Ltd",
+            "weight": 0.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "Rossell Techsys Ltd",
+            "weight": 0.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Zydus Wellness Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "NCC Ltd",
+            "weight": 0.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Lloyds Metals & Energy Ltd",
+            "weight": 0.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aditya Birla Fashion and Retail Ltd",
+            "weight": 0.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 0.56,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.53,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 0.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Poly Medicure Ltd",
+            "weight": 0.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Welspun Corp Ltd",
+            "weight": 0.43,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 0.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.41,
+            "sector": "Other"
+        },
+        {
+            "name": "Usha Martin Ltd",
+            "weight": 0.4,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 0.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 0.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Indo Count Industries Ltd",
+            "weight": 0.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HFCL Ltd",
+            "weight": 0.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "Icici Prudential Life Insurance Co Ltd",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Quant Healthcare Dir Gr",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.3,
+            "sector": "Energy"
+        },
+        {
+            "name": "Digitide Solutions Ltd",
+            "weight": 0.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 0.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Lancer Container Lines Ltd",
+            "weight": 0.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mahindra Holidays & Resorts India Ltd",
+            "weight": 0.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 0.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Rossell India Ltd",
+            "weight": 0.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Quant Gilt Dir Gr",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Aegis Logistics Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

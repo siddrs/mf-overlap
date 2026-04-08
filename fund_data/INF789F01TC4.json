@@ -1,0 +1,296 @@
+{
+    "isin": "INF789F01TC4",
+    "scheme_name": "UTI - Flexi Cap Fund-Growth Option - Direct",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 6.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 6.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 6.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 3.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 3.23,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 3.15,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.91,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 2.87,
+            "sector": "Other"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 2.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 2.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 2.67,
+            "sector": "Technology"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 2.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 2.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 2.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 2.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 1.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 1.84,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 1.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 1.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 1.14,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 1.13,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 1.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 0.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 0.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Berger Paints India Ltd",
+            "weight": 0.92,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 0.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 0.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 0.84,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 0.83,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Poly Medicure Ltd",
+            "weight": 0.77,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 0.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndiaMART InterMESH Ltd",
+            "weight": 0.71,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 0.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 0.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 0.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 0.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 0.53,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 0.43,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rossari Biotech Ltd Ordinary Shares",
+            "weight": 0.37,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sheela Foam Ltd",
+            "weight": 0.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 0.27,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "6.75% Gs 2029",
+            "weight": 0.22,
+            "sector": "Other"
+        },
+        {
+            "name": "United Foodbrands Ltd",
+            "weight": 0.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd. Std - Margin",
+            "weight": 0.03,
+            "sector": "Other"
+        }
+    ]
+}

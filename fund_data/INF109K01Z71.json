@@ -1,0 +1,321 @@
+{
+    "isin": "INF109K01Z71",
+    "scheme_name": "ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth",
+    "holdings": [
+        {
+            "name": "The Estee Lauder Companies Inc Class A",
+            "weight": 2.87,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Clorox Co",
+            "weight": 2.75,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kenvue Inc",
+            "weight": 2.68,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Brown-Forman Corp Registered Shs -B- Non Vtg",
+            "weight": 2.58,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Salesforce Inc",
+            "weight": 2.52,
+            "sector": "Technology"
+        },
+        {
+            "name": "Broadridge Financial Solutions Inc",
+            "weight": 2.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Huntington Ingalls Industries Inc",
+            "weight": 2.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GE HealthCare Technologies Inc Common Stock",
+            "weight": 2.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tyler Technologies Inc",
+            "weight": 2.43,
+            "sector": "Technology"
+        },
+        {
+            "name": "Constellation Brands Inc Class A",
+            "weight": 2.36,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "United Parcel Service Inc Class B",
+            "weight": 2.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "MarketAxess Holdings Inc",
+            "weight": 2.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Danaher Corp",
+            "weight": 2.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "IDEX Corp",
+            "weight": 2.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Zimmer Biomet Holdings Inc",
+            "weight": 2.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Agilent Technologies Inc",
+            "weight": 2.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Otis Worldwide Corp Ordinary Shares",
+            "weight": 2.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nike Inc Class B",
+            "weight": 2.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mondelez International Inc Class A",
+            "weight": 2.19,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "NXP Semiconductors NV",
+            "weight": 2.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Airbnb Inc Ordinary Shares - Class A",
+            "weight": 2.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Boeing Co",
+            "weight": 2.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Workday Inc Class A",
+            "weight": 2.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 2.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alphabet Inc Class C",
+            "weight": 2.07,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "TransUnion",
+            "weight": 2.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Fortinet Inc",
+            "weight": 1.98,
+            "sector": "Technology"
+        },
+        {
+            "name": "Applied Materials Inc",
+            "weight": 1.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bristol-Myers Squibb Co",
+            "weight": 1.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Adobe Inc",
+            "weight": 1.94,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 1.75,
+            "sector": "Other"
+        },
+        {
+            "name": "PepsiCo Inc",
+            "weight": 1.4,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Thermo Fisher Scientific Inc",
+            "weight": 1.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Freeport-McMoRan Inc",
+            "weight": 1.38,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.35,
+            "sector": "Other"
+        },
+        {
+            "name": "Northrop Grumman Corp",
+            "weight": 1.35,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amazon.com Inc",
+            "weight": 1.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Motorola Solutions Inc",
+            "weight": 1.31,
+            "sector": "Technology"
+        },
+        {
+            "name": "The Hershey Co",
+            "weight": 1.3,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "West Pharmaceutical Services Inc",
+            "weight": 1.2,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ServiceNow Inc",
+            "weight": 1.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Merck & Co Inc",
+            "weight": 1.14,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Charles Schwab Corp",
+            "weight": 1.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Amgen Inc",
+            "weight": 1.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "The Walt Disney Co",
+            "weight": 1.09,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Masco Corp",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Equifax Inc",
+            "weight": 1.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Chipotle Mexican Grill Inc",
+            "weight": 0.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Zoetis Inc Class A",
+            "weight": 0.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Entegris Inc",
+            "weight": 0.93,
+            "sector": "Technology"
+        },
+        {
+            "name": "Jack Henry & Associates Inc",
+            "weight": 0.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Copart Inc",
+            "weight": 0.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "U.S. Bancorp",
+            "weight": 0.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Deere & Co",
+            "weight": 0.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "LPL Financial Holdings Inc",
+            "weight": 0.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pfizer Inc",
+            "weight": 0.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Occidental Petroleum Corp",
+            "weight": 0.62,
+            "sector": "Energy"
+        },
+        {
+            "name": "Oracle Corp",
+            "weight": 0.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "The Campbell's Co",
+            "weight": 0.4,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "EPAM Systems Inc",
+            "weight": 0.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "International Flavors & Fragrances Inc",
+            "weight": 0.19,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Yum China Holdings Inc",
+            "weight": 0.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Biogen Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

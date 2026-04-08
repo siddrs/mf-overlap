@@ -1,0 +1,261 @@
+{
+    "isin": "INF109KC12K1",
+    "scheme_name": "ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 12.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 8.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 7.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 7.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 6.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 6.16,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 4.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 3.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 3.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 2.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 2.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Pricol Ltd",
+            "weight": 2.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 1.85,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sharda Motor Industries Ltd",
+            "weight": 1.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Divgi TorqTransfer Systems Ltd",
+            "weight": 1.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 1.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rolex Rings Ltd",
+            "weight": 0.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 0.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Studds Accessories Ltd",
+            "weight": 0.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Varroc Engineering Ltd Ordinary Shares",
+            "weight": 0.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 0.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 0.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 0.75,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GNA Axles Ltd",
+            "weight": 0.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 0.63,
+            "sector": "Other"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 0.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Exide Industries Ltd",
+            "weight": 0.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kross Ltd",
+            "weight": 0.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CIE Automotive India Ltd",
+            "weight": 0.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tinna Rubber & Infrastructure Ltd",
+            "weight": 0.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gateway Distriparks Ltd",
+            "weight": 0.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat Pipavav Port Ltd",
+            "weight": 0.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 0.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 0.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.14,
+            "sector": "Other"
+        },
+        {
+            "name": "MM Forgings Ltd",
+            "weight": 0.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ecos (India) Mobility & Hospitality Ltd",
+            "weight": 0.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

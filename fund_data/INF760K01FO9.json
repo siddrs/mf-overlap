@@ -1,0 +1,241 @@
+{
+    "isin": "INF760K01FO9",
+    "scheme_name": "CANARA ROBECO INFRASTRUCTURE FUND - DIRECT PLAN - GROWTH OPTION",
+    "holdings": [
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 9.9,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Treps",
+            "weight": 5.07,
+            "sector": "Other"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.53,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 4.36,
+            "sector": "Energy"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 4.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 3.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 3.4,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 3.22,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 3.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 3.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 2.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.91,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.75,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Hitachi Energy India Ltd Ordinary Shares",
+            "weight": 2.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 2.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 2.31,
+            "sector": "Technology"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 2.29,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 2.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 2.12,
+            "sector": "Energy"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 1.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 1.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 1.59,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 1.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 1.42,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 1.17,
+            "sector": "Energy"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 1.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 1.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 1.09,
+            "sector": "Energy"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 1.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 1.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Great Eastern Shipping Co Ltd",
+            "weight": 1.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Green Energy Ltd",
+            "weight": 1.0,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 0.97,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Premier Energies Ltd",
+            "weight": 0.94,
+            "sector": "Technology"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 0.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GMM Pfaudler Ltd",
+            "weight": 0.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 0.82,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Jyoti CNC Automation Ltd",
+            "weight": 0.79,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 0.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 0.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 0.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 0.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Praj Industries Ltd",
+            "weight": 0.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.06,
+            "sector": "Other"
+        }
+    ]
+}

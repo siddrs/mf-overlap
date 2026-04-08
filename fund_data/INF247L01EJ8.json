@@ -1,0 +1,176 @@
+{
+    "isin": "INF247L01EJ8",
+    "scheme_name": "Motilal Oswal Innovation Opportunities Fund - Direct Plan- Growth",
+    "holdings": [
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 12.72,
+            "sector": "Other"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 4.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 4.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 4.52,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 4.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 4.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "JM Financial Ltd",
+            "weight": 4.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 3.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Avalon Technologies Ltd",
+            "weight": 3.95,
+            "sector": "Technology"
+        },
+        {
+            "name": "Syrma SGS Technology Ltd",
+            "weight": 3.59,
+            "sector": "Technology"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 3.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hitachi Energy India Ltd Ordinary Shares",
+            "weight": 3.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Restaurant Brands Asia Ltd Ordinary Shares",
+            "weight": 3.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 3.12,
+            "sector": "Technology"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 3.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 2.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 2.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Allied Blenders and Distillers Ltd",
+            "weight": 2.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 2.83,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aditya Vision Ltd",
+            "weight": 2.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 2.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 2.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 2.44,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 2.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 2.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "Taj GVK Hotels & Resorts Ltd",
+            "weight": 2.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 1.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 0.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "isin": "INF200K01RM5",
+    "scheme_name": "SBI CONSUMPTION OPPORTUNITIES FUND - DIRECT PLAN - GROWTH",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.79,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 4.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 4.5,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 4.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 4.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 4.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 3.76,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 3.67,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Berger Paints India Ltd",
+            "weight": 3.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 3.61,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 3.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 3.14,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 2.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 2.43,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "EIH Ltd",
+            "weight": 2.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.04,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ganesha Ecosphere Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "DOMS Industries Ltd",
+            "weight": 1.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 1.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 1.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 1.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Flair Writing Industries Ltd",
+            "weight": 1.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.61,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hawkins Cookers Ltd",
+            "weight": 1.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 1.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Campus Activewear Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 1.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Westlife Foodworld Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Emami Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 0.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hatsun Agro Product Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Dodla Dairy Ltd",
+            "weight": 0.79,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.71,
+            "sector": "Other"
+        },
+        {
+            "name": "Margin Amount For Derivative Positions",
+            "weight": 0.67,
+            "sector": "Other"
+        },
+        {
+            "name": "Sula Vineyards Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 0.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd. 30-Mar-26",
+            "weight": 0.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Relaxo Footwears Ltd",
+            "weight": 0.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Brigade Hotel Ventures Ltd",
+            "weight": 0.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Stanley Lifestyles Ltd",
+            "weight": 0.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Manpasand Beverages Ltd",
+            "weight": 0.0,
+            "sector": "Consumer Defensive"
+        }
+    ]
+}

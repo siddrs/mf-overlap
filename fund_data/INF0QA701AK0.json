@@ -1,0 +1,291 @@
+{
+    "isin": "INF0QA701AK0",
+    "scheme_name": "BAJAJ FINSERV ELSS TAX SAVER FUND - DIRECT - GROWTH",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 6.5,
+            "sector": "Energy"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 5.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 5.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 3.64,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 3.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 3.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 2.83,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 2.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Zydus Wellness Ltd",
+            "weight": 2.53,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 2.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.04,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 1.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 1.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.85,
+            "sector": "Other"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 1.76,
+            "sector": "Other"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 1.74,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Nitin Spinners Ltd",
+            "weight": 1.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kajaria Ceramics Ltd",
+            "weight": 1.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pricol Ltd",
+            "weight": 1.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 1.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Arvind Fashions Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "KNR Constructions Ltd",
+            "weight": 1.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 1.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.37,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Indigo Paints Ltd Ordinary Shares",
+            "weight": 1.37,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 1.36,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Go Digit General Insurance Ltd",
+            "weight": 1.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 1.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Steel Authority Of India Ltd",
+            "weight": 1.05,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Thangamayil Jewellery Ltd",
+            "weight": 1.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 1.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 1.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 1.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 0.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 0.86,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AstraZeneca Pharma India Ltd",
+            "weight": 0.58,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Century Plyboards (India) Ltd",
+            "weight": 0.52,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Pondy Oxides And Chemicals Ltd",
+            "weight": 0.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 0.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 0.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 0.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ceat Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "isin": "INF090I01JF5",
+    "scheme_name": "Franklin Build India Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 8.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 6.39,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 6.02,
+            "sector": "Energy"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.53,
+            "sector": "Energy"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.79,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 4.2,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Call, Cash & Other Assets",
+            "weight": 3.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 3.39,
+            "sector": "Utilities"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 2.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 2.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sobha Ltd",
+            "weight": 2.41,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 2.38,
+            "sector": "Utilities"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 2.36,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 2.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kirloskar Oil Engines Ltd",
+            "weight": 2.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 1.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 1.76,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.76,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 1.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 1.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NCC Ltd",
+            "weight": 1.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 1.46,
+            "sector": "Energy"
+        },
+        {
+            "name": "Kirloskar Pneumatic Co Ltd",
+            "weight": 1.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CESC Ltd",
+            "weight": 1.27,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "IndiaMART InterMESH Ltd",
+            "weight": 1.21,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Ion Exchange (India) Ltd",
+            "weight": 1.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Syrma SGS Technology Ltd",
+            "weight": 1.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 0.95,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Techno Electric & Engineering Co Ltd",
+            "weight": 0.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JK Lakshmi Cement Ltd",
+            "weight": 0.66,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gateway Distriparks Ltd",
+            "weight": 0.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SKF India Ltd",
+            "weight": 0.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Somany Ceramics Ltd",
+            "weight": 0.41,
+            "sector": "Industrials"
+        }
+    ]
+}

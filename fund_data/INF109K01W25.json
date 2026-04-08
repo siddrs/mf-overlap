@@ -1,0 +1,336 @@
+{
+    "isin": "INF109K01W25",
+    "scheme_name": "ICICI Prudential Exports & Services Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Infosys Ltd",
+            "weight": 7.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 6.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 5.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.59,
+            "sector": "Energy"
+        },
+        {
+            "name": "Treps",
+            "weight": 5.44,
+            "sector": "Other"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.16,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 2.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 2.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 2.5,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.49,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 2.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 2.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 1.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 1.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 1.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 1.59,
+            "sector": "Technology"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.39,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 1.37,
+            "sector": "Technology"
+        },
+        {
+            "name": "Travel Food Services Ltd",
+            "weight": 1.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.34,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 1.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 1.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 1.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "IIFL Capital Services Ltd Ordinary Shares",
+            "weight": 1.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 1.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 1.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.02,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 0.96,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Rolex Rings Ltd",
+            "weight": 0.9,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shilpa Medicare Ltd",
+            "weight": 0.86,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Canara HSBC Life Insurance Co Ltd",
+            "weight": 0.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra Holidays & Resorts India Ltd",
+            "weight": 0.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 0.77,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 0.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Techno Electric & Engineering Co Ltd",
+            "weight": 0.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 0.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 0.74,
+            "sector": "Technology"
+        },
+        {
+            "name": "Vinati Organics Ltd",
+            "weight": 0.67,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 0.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Holdings and Investment Ltd",
+            "weight": 0.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 0.58,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 0.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aarti Pharmalabs Ltd",
+            "weight": 0.53,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ethos Ltd",
+            "weight": 0.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Laxmi Dental Ltd",
+            "weight": 0.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Avanti Feeds Ltd",
+            "weight": 0.41,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "SIS Ltd Ordinary Shares",
+            "weight": 0.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Thyrocare Technologies Ltd",
+            "weight": 0.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.29,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 0.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Pi Industries Ltd.",
+            "weight": 0.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Route Mobile Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "AstraZeneca Pharma India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

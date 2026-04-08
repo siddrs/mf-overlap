@@ -1,0 +1,231 @@
+{
+    "isin": "INF789F01TO9",
+    "scheme_name": "UTI Healthcare Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 9.42,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 7.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 5.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 4.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 3.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 3.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 3.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 3.48,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 3.47,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 2.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 2.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 2.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 2.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Caplin Point Laboratories Ltd",
+            "weight": 2.23,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Procter & Gamble Health Ltd",
+            "weight": 2.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 2.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 2.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Viyash Scientific Ltd",
+            "weight": 2.11,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 2.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 2.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 1.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 1.91,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 1.84,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 1.83,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 1.79,
+            "sector": "Other"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 1.77,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 1.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Marksans Pharma Ltd",
+            "weight": 1.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 1.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Windlas Biotech Ltd",
+            "weight": 1.13,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 1.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 1.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 0.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emcure Pharmaceuticals Ltd",
+            "weight": 0.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 0.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aarti Pharmalabs Ltd",
+            "weight": 0.84,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 0.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jubilant Pharmova Ltd",
+            "weight": 0.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 0.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Orchid Pharma Ltd",
+            "weight": 0.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alembic Pharmaceuticals Ltd",
+            "weight": 0.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laxmi Dental Ltd",
+            "weight": 0.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd. Std - Margin",
+            "weight": 0.01,
+            "sector": "Other"
+        }
+    ]
+}

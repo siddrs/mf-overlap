@@ -1,0 +1,396 @@
+{
+    "isin": "INF109K01Z48",
+    "scheme_name": "ICICI Prudential Technology Fund - Direct Plan -  Growth",
+    "holdings": [
+        {
+            "name": "Infosys Ltd",
+            "weight": 16.25,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 8.2,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 6.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 6.03,
+            "sector": "Technology"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 4.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 4.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 3.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 3.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.83,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 2.73,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.48,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 1.89,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.79,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "IndiaMART InterMESH Ltd",
+            "weight": 1.47,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.47,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 1.47,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "CE Info Systems Ltd",
+            "weight": 1.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 1.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 1.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 1.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 0.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 0.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 0.9,
+            "sector": "Technology"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 0.9,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 0.89,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 0.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adobe Inc",
+            "weight": 0.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 0.82,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 0.78,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Accenture PLC Class A",
+            "weight": 0.77,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 0.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.68,
+            "sector": "Technology"
+        },
+        {
+            "name": "Indegene Ltd",
+            "weight": 0.68,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 0.64,
+            "sector": "Technology"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 0.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 0.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 0.58,
+            "sector": "Technology"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.53,
+            "sector": "Technology"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 0.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 0.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 0.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Yatra Online Ltd",
+            "weight": 0.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 0.43,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sun TV Network Ltd",
+            "weight": 0.37,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.37,
+            "sector": "Other"
+        },
+        {
+            "name": "Amazon.com Inc",
+            "weight": 0.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.31,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Elxsi Ltd",
+            "weight": 0.3,
+            "sector": "Technology"
+        },
+        {
+            "name": "NIIT Learning Systems Ltd",
+            "weight": 0.29,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Blackbuck Ltd",
+            "weight": 0.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 0.28,
+            "sector": "Technology"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 0.28,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Rashi Peripherals Ltd",
+            "weight": 0.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cigniti Technologies Ltd",
+            "weight": 0.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "EPAM Systems Inc",
+            "weight": 0.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cyient DLM Ltd",
+            "weight": 0.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "TeamLease Services Ltd",
+            "weight": 0.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.18,
+            "sector": "Other"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 0.18,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "AXISCADES Technologies Ltd",
+            "weight": 0.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 0.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Technologies Ltd",
+            "weight": 0.1,
+            "sector": "Technology"
+        },
+        {
+            "name": "Intellect Design Arena Ltd",
+            "weight": 0.1,
+            "sector": "Technology"
+        },
+        {
+            "name": "Onward Technologies Ltd",
+            "weight": 0.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "Route Mobile Ltd Ordinary Shares",
+            "weight": 0.06,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Redington Ltd",
+            "weight": 0.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Updater Services Ltd",
+            "weight": 0.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "INOX India Ltd",
+            "weight": 0.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 0.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tracxn Technologies Ltd",
+            "weight": 0.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 0.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Latent View Analytics Ltd",
+            "weight": 0.01,
+            "sector": "Industrials"
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "isin": "INF0K1H01271",
+    "scheme_name": "Samco Large & Mid Cap Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 37.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 31.25,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on BANK Index",
+            "weight": 17.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 6.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Future on Shriram Finance Ltd",
+            "weight": 4.6,
+            "sector": "Other"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 4.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "State Bank of India Future Mar 26",
+            "weight": 4.16,
+            "sector": "Other"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 3.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 3.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Future on Ashok Leyland Ltd",
+            "weight": 3.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Eicher Motors Ltd",
+            "weight": 3.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Max Financial Services Ltd",
+            "weight": 2.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 2.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Future on L&T Finance Ltd",
+            "weight": 2.57,
+            "sector": "Other"
+        },
+        {
+            "name": "Bank of India",
+            "weight": 2.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 1.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 1.86,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Union Bank of India Future Mar 26",
+            "weight": 1.85,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Muthoot Finance Ltd",
+            "weight": 1.83,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on APL Apollo Tubes Ltd",
+            "weight": 1.8,
+            "sector": "Other"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.79,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 1.78,
+            "sector": "Energy"
+        },
+        {
+            "name": "Future on Tata Steel Ltd",
+            "weight": 1.77,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.76,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 1.66,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 1.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 1.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Future on Bharat Electronics Ltd",
+            "weight": 1.55,
+            "sector": "Other"
+        },
+        {
+            "name": "SBI Life Future Mar 26",
+            "weight": 1.52,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Bank of Baroda",
+            "weight": 1.49,
+            "sector": "Other"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Future on TVS Motor Co Ltd 6% PRF REDEEM 01/09/2026 INR 10",
+            "weight": 1.35,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Hindalco Industries Ltd",
+            "weight": 1.34,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Cummins India Ltd",
+            "weight": 1.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on JSW Steel Ltd",
+            "weight": 1.09,
+            "sector": "Other"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 1.08,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 1.03,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Future on Hero MotoCorp Ltd",
+            "weight": 0.95,
+            "sector": "Other"
+        },
+        {
+            "name": "Vedanta Limited March 2026 Future",
+            "weight": 0.92,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 0.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 0.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Future on Aditya Birla Capital Ltd",
+            "weight": 0.51,
+            "sector": "Other"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 0.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 0.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 0.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 0.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Future on FSN E-Commerce Ventures Ltd",
+            "weight": 0.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.32,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 0.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 0.3,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 0.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 0.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Future on Aluminium",
+            "weight": 0.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.02,
+            "sector": "Other"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

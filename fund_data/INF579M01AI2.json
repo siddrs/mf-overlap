@@ -1,0 +1,201 @@
+{
+    "isin": "INF579M01AI2",
+    "scheme_name": "360 ONE QUANT FUND DIRECT GROWTH",
+    "holdings": [
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 4.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 3.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 3.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 3.38,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 3.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 3.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 3.18,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 3.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 3.14,
+            "sector": "Energy"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 3.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 2.97,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 2.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 2.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 2.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.83,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 2.83,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 2.8,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 2.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.75,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 2.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 2.72,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.72,
+            "sector": "Energy"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 2.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 2.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 2.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 2.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 2.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 1.02,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Treps",
+            "weight": 0.79,
+            "sector": "Other"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.43,
+            "sector": "Other"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.03,
+            "sector": "Consumer Defensive"
+        }
+    ]
+}

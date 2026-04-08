@@ -1,0 +1,236 @@
+{
+    "isin": "INF959L01CD5",
+    "scheme_name": "Navi ELSS Tax Saver Fund- Direct Plan- Growth Option",
+    "holdings": [
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 5.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.2,
+            "sector": "Energy"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 4.9,
+            "sector": "Industrials"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 3.9,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.78,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 3.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 3.67,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 3.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CreditAccess Grameen Ltd Ordinary Shares",
+            "weight": 3.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 3.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 2.76,
+            "sector": "Technology"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 2.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.64,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 2.64,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.62,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 2.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.31,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 2.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 2.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 2.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 1.95,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 1.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Usha Martin Ltd",
+            "weight": 1.85,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 1.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 1.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 1.46,
+            "sector": "Energy"
+        },
+        {
+            "name": "Saregama India Ltd",
+            "weight": 1.34,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 1.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sathlokhar Synergys E&C Global Ltd",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vedant Fashions Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 0.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Senco Gold Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps/Reverse Repo/Net Current Assets/Cash/Cash Equivalent",
+            "weight": 0.85,
+            "sector": "Other"
+        },
+        {
+            "name": "Bank of Maharashtra",
+            "weight": 0.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 0.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 0.68,
+            "sector": "Technology"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 0.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Pipes Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Deepak Fertilisers & Petrochemicals Corp Ltd",
+            "weight": 0.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.03,
+            "sector": "Consumer Defensive"
+        }
+    ]
+}

@@ -1,0 +1,461 @@
+{
+    "isin": "INF754K01BW4",
+    "scheme_name": "Edelweiss Large Cap Fund - Direct Plan-Growth option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 6.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 6.14,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.51,
+            "sector": "Energy"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 4.69,
+            "sector": "Other"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.35,
+            "sector": "Industrials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.61,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.3,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nifty 30-Mar-2026",
+            "weight": 2.71,
+            "sector": "Other"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 2.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.23,
+            "sector": "Utilities"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 2.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 1.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 1.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 1.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables/(Payables)",
+            "weight": 1.27,
+            "sector": "Other"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 1.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 1.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ashok Leyland Ltd.30/03/2026",
+            "weight": 1.16,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 1.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 1.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 0.9,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 0.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.83,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 0.83,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Banknifty 30-Mar-2026",
+            "weight": 0.82,
+            "sector": "Other"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 0.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 0.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 0.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 0.72,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 0.7,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 0.68,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 0.65,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 0.63,
+            "sector": "Energy"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 0.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 0.58,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 0.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 0.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Steel Authority Of India Ltd",
+            "weight": 0.55,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 0.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.51,
+            "sector": "Utilities"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 0.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 0.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 0.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 0.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 0.47,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 0.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 0.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 0.38,
+            "sector": "Energy"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "02/04/2026 Maturing 364 DTB",
+            "weight": 0.24,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.24,
+            "sector": "Other"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 0.16,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Seshaasai Technologies Ltd",
+            "weight": 0.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Accrued Interest",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

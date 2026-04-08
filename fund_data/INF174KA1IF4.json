@@ -1,0 +1,306 @@
+{
+    "isin": "INF174KA1IF4",
+    "scheme_name": "Kotak Manufacture in India Fund - Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Triparty Repo",
+            "weight": 4.88,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 4.65,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 4.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.95,
+            "sector": "Energy"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 3.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 3.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.91,
+            "sector": "Energy"
+        },
+        {
+            "name": "Graphite India Ltd",
+            "weight": 2.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 2.42,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 2.39,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.04,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 2.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "India Cements Ltd",
+            "weight": 1.84,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 1.77,
+            "sector": "Energy"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 1.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 1.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 1.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "DEE Development Engineers Ltd",
+            "weight": 1.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 1.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 1.47,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.38,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 1.35,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 1.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 1.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 1.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 1.14,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dalmia Bharat Ltd",
+            "weight": 1.13,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 1.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 1.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 0.97,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 0.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rubicon Research Limited",
+            "weight": 0.93,
+            "sector": "Other"
+        },
+        {
+            "name": "KSH International Ltd",
+            "weight": 0.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Tyres Ltd",
+            "weight": 0.86,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 0.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 0.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 0.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jyoti CNC Automation Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 0.58,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 0.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kross Ltd",
+            "weight": 0.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Quadrant Future Tek Ltd",
+            "weight": 0.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Garware Technical Fibres Ltd",
+            "weight": 0.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Liquid Dir Gr",
+            "weight": 0.35,
+            "sector": "Other"
+        },
+        {
+            "name": "M & B Engineering Ltd",
+            "weight": 0.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Oswal Pumps Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Standard Engineering Technology Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

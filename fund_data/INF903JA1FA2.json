@@ -1,0 +1,296 @@
+{
+    "isin": "INF903JA1FA2",
+    "scheme_name": "Sundaram Services Fund Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.4,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 6.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 5.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 4.63,
+            "sector": "Energy"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 3.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 2.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 2.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 2.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 2.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 2.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 2.23,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 2.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 2.13,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 1.95,
+            "sector": "Technology"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 1.71,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 1.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 1.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bandhan Bank Ltd",
+            "weight": 1.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Landmark Cars Ltd",
+            "weight": 1.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sapphire Foods India Ltd",
+            "weight": 1.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 1.16,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Senco Gold Ltd",
+            "weight": 1.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sundaram Money Market Dir Gr",
+            "weight": 1.13,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 1.07,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 1.05,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 1.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CSB Bank Ltd Ordinary Shares",
+            "weight": 1.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 1.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 0.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 0.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Medi Assist Healthcare Services Ltd",
+            "weight": 0.9,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "UTI Asset Management Co Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 0.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Equitas Small Finance Bank Ltd Ordinary Shares",
+            "weight": 0.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "MakeMyTrip Ltd",
+            "weight": 0.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 0.78,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Westlife Foodworld Ltd",
+            "weight": 0.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "R Systems International Ltd",
+            "weight": 0.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 0.68,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "SIS Ltd Ordinary Shares",
+            "weight": 0.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Swiggy Ltd Mar-2026",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash And Other Net Current Assets",
+            "weight": 0.15,
+            "sector": "Other"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Margin Money For Derivatives",
+            "weight": 0.01,
+            "sector": "Other"
+        }
+    ]
+}

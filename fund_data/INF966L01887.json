@@ -1,0 +1,196 @@
+{
+    "isin": "INF966L01887",
+    "scheme_name": "quant Mid Cap Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 18.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 11.65,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 9.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 9.09,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "IRB Infrastructure Developers Ltd",
+            "weight": 7.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Lloyds Metals & Energy Ltd",
+            "weight": 6.17,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Premier Energies Ltd",
+            "weight": 5.95,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 5.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 4.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 3.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tbill",
+            "weight": 3.78,
+            "sector": "Other"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 3.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 3.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 2.75,
+            "sector": "Other"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 2.47,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "JSW Infrastructure Ltd",
+            "weight": 2.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Godrej Properties Limited",
+            "weight": 2.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.01,
+            "sector": "Energy"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Nmdc Ltd",
+            "weight": 1.46,
+            "sector": "Other"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 1.28,
+            "sector": "Technology"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 1.17,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 1.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AWL Agri Business Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "One 97 Communications Limited",
+            "weight": 0.67,
+            "sector": "Other"
+        },
+        {
+            "name": "Godrej Properties Ltd",
+            "weight": 0.49,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Pb Fintech Limited",
+            "weight": 0.48,
+            "sector": "Other"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.34,
+            "sector": "Other"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.27,
+            "sector": "Other"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "GMR Airports Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "isin": "INF247L01FE6",
+    "scheme_name": "Motilal Oswal Services Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 7.15,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 6.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 6.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 5.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 4.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 4.23,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 4.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 3.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 3.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara HSBC Life Insurance Co Ltd",
+            "weight": 2.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 2.9,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 2.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 2.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "DCB Bank Ltd",
+            "weight": 2.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 2.24,
+            "sector": "Other"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 2.22,
+            "sector": "Other"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 2.21,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 2.16,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 2.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 1.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CRISIL Ltd",
+            "weight": 1.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "V2 Retail Ltd",
+            "weight": 1.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 1.52,
+            "sector": "Technology"
+        },
+        {
+            "name": "CE Info Systems Ltd",
+            "weight": 1.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 1.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 1.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Intellect Design Arena Ltd",
+            "weight": 1.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 1.25,
+            "sector": "Technology"
+        },
+        {
+            "name": "Yatra Online Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Religare Enterprises Ltd",
+            "weight": 1.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 1.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Avalon Technologies Ltd",
+            "weight": 1.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aditya Vision Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Restaurant Brands Asia Ltd Ordinary Shares",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 0.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 0.85,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GNG Electronics Ltd",
+            "weight": 0.8,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 0.37,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Jain Resource Recycling Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

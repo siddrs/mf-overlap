@@ -1,0 +1,271 @@
+{
+    "isin": "INF200K01QX4",
+    "scheme_name": "SBI Large Cap FUND-DIRECT PLAN -GROWTH",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 8.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 6.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 6.18,
+            "sector": "Energy"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 5.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.92,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 3.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 3.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 3.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 3.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 2.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.48,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 2.36,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 2.15,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 2.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 2.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.94,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 1.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.84,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 1.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 1.79,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 1.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 1.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 1.37,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 1.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 1.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 1.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.01,
+            "sector": "Energy"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 0.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 0.89,
+            "sector": "Utilities"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 0.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 0.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.63,
+            "sector": "Other"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 0.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 0.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Dlf Ltd. 30-Mar-26",
+            "weight": 0.36,
+            "sector": "Other"
+        },
+        {
+            "name": "SKF India Ltd",
+            "weight": 0.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 0.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.12,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 0.07,
+            "sector": "Energy"
+        },
+        {
+            "name": "Margin Amount For Derivative Positions",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.02,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "19/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

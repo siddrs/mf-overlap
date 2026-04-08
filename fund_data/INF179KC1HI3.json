@@ -1,0 +1,161 @@
+{
+    "isin": "INF179KC1HI3",
+    "scheme_name": "HDFC Technology Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 14.72,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 14.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 11.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 8.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 5.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 4.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 4.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 3.81,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 3.26,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 2.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 2.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 2.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 2.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 1.93,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 1.57,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.54,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 1.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 1.41,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Redington Ltd",
+            "weight": 1.4,
+            "sector": "Technology"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 1.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 1.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "Treps - Tri-Party Repo",
+            "weight": 1.14,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.71,
+            "sector": "Other"
+        },
+        {
+            "name": "Unicommerce eSolutions Ltd",
+            "weight": 0.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 0.32,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 0.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 0.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Zee Entertainment Enterprises Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "isin": "INF090I01FE6",
+    "scheme_name": "Franklin India Technology Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 18.36,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 16.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 7.44,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 6.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Franklin Technology I Acc USD",
+            "weight": 5.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 5.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 5.59,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 4.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Call, Cash & Other Assets",
+            "weight": 2.8,
+            "sector": "Other"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 2.53,
+            "sector": "Technology"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 2.43,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "MakeMyTrip Ltd",
+            "weight": 2.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 2.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 2.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Intellect Design Arena Ltd",
+            "weight": 1.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 1.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alphabet Inc Class A",
+            "weight": 1.55,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 1.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Apple Inc",
+            "weight": 1.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "Meta Platforms Inc Class A",
+            "weight": 1.09,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 0.94,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Amazon.com Inc",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 0.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "CE Info Systems Ltd",
+            "weight": 0.75,
+            "sector": "Technology"
+        },
+        {
+            "name": "TeamLease Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

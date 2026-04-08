@@ -1,0 +1,186 @@
+{
+    "isin": "INF277K019A3",
+    "scheme_name": "Tata India Pharma & Healthcare Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 9.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 6.78,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 5.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 5.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 5.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 5.0,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 4.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 3.83,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 3.4,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 3.33,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 3.27,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 3.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 3.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 3.13,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 3.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 3.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 2.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.64,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 2.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cash / Net Current Asset",
+            "weight": 2.21,
+            "sector": "Other"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 2.15,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 2.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 2.0,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sanofi India Ltd",
+            "weight": 1.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "FDC Ltd",
+            "weight": 1.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 1.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 1.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 1.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 0.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hikal Ltd",
+            "weight": 0.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "A) Repo",
+            "weight": 0.2,
+            "sector": "Other"
+        },
+        {
+            "name": "Jubilant Pharmova Ltd",
+            "weight": 0.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Agarwal\u2019s Health Care Ltd",
+            "weight": 0.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laxmi Dental Ltd",
+            "weight": 0.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 0.0,
+            "sector": "Healthcare"
+        }
+    ]
+}

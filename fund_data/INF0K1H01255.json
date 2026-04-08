@@ -1,0 +1,231 @@
+{
+    "isin": "INF0K1H01255",
+    "scheme_name": "Samco Large Cap Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 21.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 20.89,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on BANK Index",
+            "weight": 5.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 5.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 4.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 4.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 4.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 3.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 3.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 3.39,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.35,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 3.32,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Future on Tata Steel Ltd",
+            "weight": 3.06,
+            "sector": "Other"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 3.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Punjab National Bank",
+            "weight": 3.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 2.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "S-Oil Future Mar 26",
+            "weight": 2.83,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Bharat Petroleum Corp Ltd",
+            "weight": 2.82,
+            "sector": "Other"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 2.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Future on Bharat Electronics Ltd",
+            "weight": 2.72,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 2.69,
+            "sector": "Utilities"
+        },
+        {
+            "name": "State Bank of India Future Mar 26",
+            "weight": 2.67,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 2.6,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Future on Shriram Finance Ltd",
+            "weight": 2.56,
+            "sector": "Other"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 2.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 1.6,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 1.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 1.18,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vedanta Limited March 2026 Future",
+            "weight": 1.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Bank of Baroda",
+            "weight": 1.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 0.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 0.78,
+            "sector": "Energy"
+        },
+        {
+            "name": "Future on Larsen & Toubro Ltd",
+            "weight": 0.51,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Eicher Motors Ltd",
+            "weight": 0.34,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Torrent Pharmaceuticals Ltd",
+            "weight": 0.27,
+            "sector": "Other"
+        },
+        {
+            "name": "Titan Company Limited March 2026 Future",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

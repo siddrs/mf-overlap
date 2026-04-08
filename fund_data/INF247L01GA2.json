@@ -1,0 +1,166 @@
+{
+    "isin": "INF247L01GA2",
+    "scheme_name": "Motilal Oswal Consumption Fund-Direct-Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 7.53,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Sky Gold and Diamonds Ltd",
+            "weight": 5.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 5.43,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 5.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kalyan Jewellers India Ltd",
+            "weight": 5.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 5.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "V2 Retail Ltd",
+            "weight": 4.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 4.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 3.54,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 3.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 3.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Allied Blenders and Distillers Ltd",
+            "weight": 3.21,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 3.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 3.17,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shaily Engineering Plastics Ltd",
+            "weight": 2.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Vision Ltd",
+            "weight": 2.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "International Gemmological Institute (India) Ltd",
+            "weight": 2.59,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.5,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 2.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 1.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 1.71,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 1.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 1.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 1.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 1.2,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Mrs Bectors Food Specialities Ltd Ordinary Shares",
+            "weight": 1.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.9,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.62,
+            "sector": "Other"
+        }
+    ]
+}

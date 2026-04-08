@@ -1,0 +1,181 @@
+{
+    "isin": "INF966L01AK9",
+    "scheme_name": "quant Quantamental Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 22.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Nse Bank Nifty",
+            "weight": 9.11,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 8.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 8.01,
+            "sector": "Energy"
+        },
+        {
+            "name": "Kotak Mahindra Bank Limited",
+            "weight": 6.28,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 6.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 5.82,
+            "sector": "Utilities"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 5.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 5.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aurobindo Pharma Limited",
+            "weight": 5.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 4.61,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 3.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 3.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 3.02,
+            "sector": "Energy"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 2.88,
+            "sector": "Utilities"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 2.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 2.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 1.87,
+            "sector": "Energy"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 1.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.67,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Future on One97 Communications Ltd",
+            "weight": 1.5,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.03,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Future on Eternal Ltd",
+            "weight": 0.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 0.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

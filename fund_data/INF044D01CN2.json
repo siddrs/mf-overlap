@@ -1,0 +1,101 @@
+{
+    "isin": "INF044D01CN2",
+    "scheme_name": "Taurus Banking & Financial Services Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 17.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 16.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 10.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 8.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 7.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 6.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 5.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Dam Capital Advisors Ltd",
+            "weight": 3.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karnataka Bank Ltd",
+            "weight": 3.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Holdings and Investment Ltd",
+            "weight": 2.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 2.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "General Insurance Corp of India",
+            "weight": 2.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 2.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "JM Financial Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 1.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 1.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 0.92,
+            "sector": "Financial Services"
+        }
+    ]
+}

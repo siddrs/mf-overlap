@@ -1,0 +1,216 @@
+{
+    "isin": "INF0QA701AB9",
+    "scheme_name": "BAJAJ FINSERV HEALTHCARE FUND - DIRECT - GROWTH",
+    "holdings": [
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 9.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 8.4,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 6.8,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Piramal Pharma Ltd",
+            "weight": 6.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 5.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 5.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 4.4,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emcure Pharmaceuticals Ltd",
+            "weight": 3.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 3.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 3.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 3.4,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 2.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 2.45,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Zydus Wellness Ltd",
+            "weight": 2.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 1.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 1.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 1.97,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.93,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 1.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bajaj Finserv Money Market Dir Gr",
+            "weight": 1.62,
+            "sector": "Other"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Shaily Engineering Plastics Ltd",
+            "weight": 1.54,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 1.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 1.42,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Medplus Health Services Ltd",
+            "weight": 1.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Medi Assist Healthcare Services Ltd",
+            "weight": 1.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 1.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.16,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 1.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 1.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jubilant Pharmova Ltd",
+            "weight": 0.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emami Ltd",
+            "weight": 0.95,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "AstraZeneca Pharma India Ltd",
+            "weight": 0.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alembic Pharmaceuticals Ltd",
+            "weight": 0.9,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 0.72,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

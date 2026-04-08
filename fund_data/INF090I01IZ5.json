@@ -1,0 +1,281 @@
+{
+    "isin": "INF090I01IZ5",
+    "scheme_name": "Franklin Asian Equity Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+            "weight": 9.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Samsung Electronics Co Ltd",
+            "weight": 5.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Call, Cash & Other Assets",
+            "weight": 5.8,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SK Hynix Inc",
+            "weight": 4.03,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tencent Holdings Ltd",
+            "weight": 3.74,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Hyundai Motor Co",
+            "weight": 3.27,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "MediaTek Inc",
+            "weight": 2.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 2.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Alibaba Group Holding Ltd Ordinary Shares",
+            "weight": 2.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.97,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 1.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Contemporary Amperex Technology Co Ltd Class A",
+            "weight": 1.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Weichai Power Co Ltd Class H",
+            "weight": 1.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 1.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 1.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Yum China Holdings Inc",
+            "weight": 1.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 1.38,
+            "sector": "Energy"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 1.37,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Samsung C&T Corp",
+            "weight": 1.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Wiwynn Corp Ordinary Shares",
+            "weight": 1.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Lodha Developers Ltd",
+            "weight": 1.21,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Yageo Corp",
+            "weight": 1.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "Singapore Technologies Engineering Ltd",
+            "weight": 1.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "AIA Group Ltd",
+            "weight": 1.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DBS Group Holdings Ltd",
+            "weight": 1.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jiangsu Hengrui Pharmaceuticals Co Ltd Class A",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 0.98,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Techtronic Industries Co Ltd",
+            "weight": 0.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sunresin New Materials Co Ltd Xi'an Class A",
+            "weight": 0.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Zijin Gold International Co Ltd",
+            "weight": 0.92,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "China Merchants Bank Co Ltd Class H",
+            "weight": 0.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Lite-On Technology Corp",
+            "weight": 0.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "NetEase Inc Ordinary Shares",
+            "weight": 0.86,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Asia Vital Components Co Ltd",
+            "weight": 0.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 0.83,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 0.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "MakeMyTrip Ltd",
+            "weight": 0.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "BYD Co Ltd Class H",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fuyao Glass Industry Group Co Ltd Shs -H- Unitary 144A/Reg S",
+            "weight": 0.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sunny Optical Technology (Group) Co Ltd",
+            "weight": 0.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sun Hung Kai Properties Ltd",
+            "weight": 0.48,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Midea Group Co Ltd Class A",
+            "weight": 0.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hong Kong Exchanges and Clearing Ltd",
+            "weight": 0.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Trip.com Group Ltd",
+            "weight": 0.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Quanta Computer Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

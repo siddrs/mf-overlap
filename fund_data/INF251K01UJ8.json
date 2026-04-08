@@ -1,0 +1,166 @@
+{
+    "isin": "INF251K01UJ8",
+    "scheme_name": "Baroda BNP Paribas Energy Opportunities Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "NTPC Ltd",
+            "weight": 8.28,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 8.19,
+            "sector": "Energy"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 8.13,
+            "sector": "Energy"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 5.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 5.28,
+            "sector": "Energy"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 5.22,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 5.12,
+            "sector": "Energy"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 3.94,
+            "sector": "Other"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 3.55,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 3.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 3.4,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hitachi Energy India Ltd Ordinary Shares",
+            "weight": 3.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 3.17,
+            "sector": "Utilities"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 2.66,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 2.61,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Chennai Petroleum Corp Ltd",
+            "weight": 2.49,
+            "sector": "Energy"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 2.19,
+            "sector": "Utilities"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mangalore Refinery and Petrochemicals Ltd",
+            "weight": 2.06,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 1.97,
+            "sector": "Energy"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 1.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aegis Vopak Terminals Ltd",
+            "weight": 1.44,
+            "sector": "Energy"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 1.4,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Gulf Oil Lubricants India Ltd",
+            "weight": 1.37,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "17/09/2026 Maturing 364 DTB",
+            "weight": 1.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Clean Max Enviro Energy Solutions Ltd",
+            "weight": 1.33,
+            "sector": "Utilities"
+        },
+        {
+            "name": "India Cements Ltd",
+            "weight": 1.19,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 0.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.13,
+            "sector": "Other"
+        }
+    ]
+}

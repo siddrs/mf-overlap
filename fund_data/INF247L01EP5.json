@@ -1,0 +1,191 @@
+{
+    "isin": "INF247L01EP5",
+    "scheme_name": "Motilal Oswal Active Momentum Fund- Direct-Growth",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 6.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 5.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 4.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jain Resource Recycling Ltd",
+            "weight": 4.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 4.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 3.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 3.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 3.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 3.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 3.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 3.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 3.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Anand Rathi Wealth Ltd",
+            "weight": 3.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 3.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 3.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 3.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 2.95,
+            "sector": "Technology"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.85,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 2.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 2.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 2.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Shaily Engineering Plastics Ltd",
+            "weight": 2.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 2.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 2.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 1.86,
+            "sector": "Energy"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 1.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 0.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.02,
+            "sector": "Other"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ola Electric Mobility Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

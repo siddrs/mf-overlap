@@ -1,0 +1,206 @@
+{
+    "isin": "INF966L01911",
+    "scheme_name": "quant Flexi Cap Fund - Growth Option-Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 20.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 13.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 8.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 7.54,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 6.16,
+            "sector": "Energy"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 5.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 5.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tbill",
+            "weight": 3.98,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Limited",
+            "weight": 3.93,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 3.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 3.76,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 3.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 3.49,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.29,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 2.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Swan Corp Ltd",
+            "weight": 2.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 2.53,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 1.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Infra Trust Unit",
+            "weight": 1.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 1.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "JSW Infrastructure Ltd",
+            "weight": 1.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Alivus Life Sciences Ltd",
+            "weight": 1.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hdfc Asset Management Company Ltd",
+            "weight": 1.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 1.11,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hdfc Life Insurance Co Ltd",
+            "weight": 1.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 1.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 0.83,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aditya Birla Lifestyle Brands Ltd",
+            "weight": 0.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.59,
+            "sector": "Energy"
+        },
+        {
+            "name": "Capital Infra Trust InvITs",
+            "weight": 0.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NBCC India Ltd",
+            "weight": 0.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.39,
+            "sector": "Other"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.38,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 0.02,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

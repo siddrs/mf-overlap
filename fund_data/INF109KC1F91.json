@@ -1,0 +1,281 @@
+{
+    "isin": "INF109KC1F91",
+    "scheme_name": "ICICI Prudential Commodities Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 9.48,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 8.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 7.51,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Jindal Stainless Ltd",
+            "weight": 5.97,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 5.18,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 5.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 4.72,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Freeport-McMoRan Inc",
+            "weight": 4.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Usha Martin Ltd",
+            "weight": 3.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 3.43,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 3.27,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 3.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.88,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Southern Copper Corp",
+            "weight": 2.77,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.71,
+            "sector": "Other"
+        },
+        {
+            "name": "Aarti Industries Ltd",
+            "weight": 2.5,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.17,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Atul Ltd",
+            "weight": 2.11,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cameco Corp",
+            "weight": 2.05,
+            "sector": "Energy"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 1.95,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Camlin Fine Sciences Ltd",
+            "weight": 1.86,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Steel Authority Of India Ltd",
+            "weight": 1.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Paradeep Phosphates Ltd",
+            "weight": 1.69,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Deepak Nitrite Ltd",
+            "weight": 1.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 1.35,
+            "sector": "Other"
+        },
+        {
+            "name": "Deepak Fertilisers & Petrochemicals Corp Ltd",
+            "weight": 1.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sagar Cements Ltd",
+            "weight": 1.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ACC Ltd",
+            "weight": 1.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 0.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Laxmi Organic Industries Ltd",
+            "weight": 0.69,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 0.64,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Archean Chemical Industries Ltd",
+            "weight": 0.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 0.6,
+            "sector": "Energy"
+        },
+        {
+            "name": "Graphite India Ltd",
+            "weight": 0.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 0.46,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Chemplast Sanmar Ltd",
+            "weight": 0.38,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gujarat Fluorochemicals Ltd Ordinary Shares",
+            "weight": 0.38,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Thirumalai Chemicals Ltd",
+            "weight": 0.35,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "NOCIL Ltd",
+            "weight": 0.29,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Balrampur Chini Mills Ltd",
+            "weight": 0.28,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd",
+            "weight": 0.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Fine Organic Industries Ltd Ordinary Shares",
+            "weight": 0.23,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Astec Lifesciences Ltd",
+            "weight": 0.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "MOIL Ltd",
+            "weight": 0.21,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tatva Chintan Pharma Chem Ltd",
+            "weight": 0.19,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 0.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sudarshan Chemical Industries Ltd",
+            "weight": 0.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Alkyl Amines Chemicals Ltd",
+            "weight": 0.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Supreme Petrochem Ltd",
+            "weight": 0.05,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 0.0,
+            "sector": "Utilities"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "DCM Shriram Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

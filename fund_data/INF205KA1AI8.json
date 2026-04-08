@@ -1,0 +1,191 @@
+{
+    "isin": "INF205KA1AI8",
+    "scheme_name": "Invesco India Business Cycle Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 6.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 5.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 4.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Prestige Estates Projects Ltd",
+            "weight": 4.9,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 4.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 4.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 4.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 4.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 4.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 3.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 3.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 3.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 3.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 3.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 3.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 2.88,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 2.8,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 2.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 2.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 2.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 2.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 1.73,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Estates Ltd",
+            "weight": 1.68,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 1.17,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 1.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 0.86,
+            "sector": "Other"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 0.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 0.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ethos Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bansal Wire Industries Ltd",
+            "weight": 0.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 0.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

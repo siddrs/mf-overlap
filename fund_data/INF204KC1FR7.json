@@ -1,0 +1,191 @@
+{
+    "isin": "INF204KC1FR7",
+    "scheme_name": "Nippon India MNC Fund- Direct Plan- Growth Option",
+    "holdings": [
+        {
+            "name": "Nestle India Ltd",
+            "weight": 8.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 8.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 7.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 6.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 6.35,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 5.77,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 4.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 4.59,
+            "sector": "Technology"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 4.37,
+            "sector": "Other"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 4.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 4.32,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 3.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 3.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 2.72,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 2.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 2.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gujarat Fluorochemicals Ltd Ordinary Shares",
+            "weight": 2.42,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.27,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 1.89,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 1.85,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 1.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 1.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 1.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 1.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.75,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gokaldas Exports Ltd",
+            "weight": 0.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 0.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 0.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 0.38,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.06,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 0.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "isin": "INF966L01CJ7",
+    "scheme_name": "quant Manufacturing Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 19.92,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 19.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 9.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 9.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 9.21,
+            "sector": "Energy"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 7.3,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Zydus Wellness Ltd",
+            "weight": 7.08,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 6.46,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Ador Welding Ltd",
+            "weight": 6.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 6.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 5.79,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ravindra Energy Ltd",
+            "weight": 5.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gujarat Themis Biosyn Ltd",
+            "weight": 4.78,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tbill",
+            "weight": 4.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Colgate-Palmolive (India) Ltd",
+            "weight": 4.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 4.24,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ramco Cements Ltd",
+            "weight": 3.16,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.85,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Viyash Scientific Ltd",
+            "weight": 1.89,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.78,
+            "sector": "Other"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.78,
+            "sector": "Other"
+        },
+        {
+            "name": "Capri Global Capital Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

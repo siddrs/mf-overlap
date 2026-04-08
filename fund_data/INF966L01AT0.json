@@ -1,0 +1,191 @@
+{
+    "isin": "INF966L01AT0",
+    "scheme_name": "quant Large Cap Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 15.91,
+            "sector": "Other"
+        },
+        {
+            "name": "Nse Bank Nifty",
+            "weight": 15.12,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 9.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 7.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hdfc Life Insurance Co Ltd",
+            "weight": 7.2,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 6.87,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 5.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tbill",
+            "weight": 5.81,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 5.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 5.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 4.9,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Capri Global Capital Ltd",
+            "weight": 4.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 4.61,
+            "sector": "Energy"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 4.0,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.88,
+            "sector": "Energy"
+        },
+        {
+            "name": "Kotak Mahindra Bank Limited",
+            "weight": 2.63,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 2.12,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Future on Eternal Ltd",
+            "weight": 1.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 1.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 1.48,
+            "sector": "Energy"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 1.41,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.66,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.65,
+            "sector": "Energy"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

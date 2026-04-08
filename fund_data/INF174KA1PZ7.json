@@ -1,0 +1,176 @@
+{
+    "isin": "INF174KA1PZ7",
+    "scheme_name": "Kotak Healthcare Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 12.53,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 7.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 6.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 5.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 5.05,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 4.51,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 4.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 4.0,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Park Medi World Ltd",
+            "weight": 3.23,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 3.22,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 3.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 2.78,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 2.58,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 2.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 2.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jubilant Pharmova Ltd",
+            "weight": 2.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 2.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 2.2,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 1.91,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.86,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 1.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Marksans Pharma Ltd",
+            "weight": 1.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 1.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 1.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emcure Pharmaceuticals Ltd",
+            "weight": 1.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.42,
+            "sector": "Other"
+        },
+        {
+            "name": "Yatharth Hospital and Trauma Care Services Ltd",
+            "weight": 1.32,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Orchid Pharma Ltd",
+            "weight": 1.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laxmi Dental Ltd",
+            "weight": 1.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 1.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Innova Captab Ltd",
+            "weight": 1.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Medi Assist Healthcare Services Ltd",
+            "weight": 0.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.16,
+            "sector": "Other"
+        }
+    ]
+}

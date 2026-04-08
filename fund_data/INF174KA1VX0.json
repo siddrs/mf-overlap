@@ -1,0 +1,196 @@
+{
+    "isin": "INF174KA1VX0",
+    "scheme_name": "Kotak Energy Opportunities Fund-Direct-Growth",
+    "holdings": [
+        {
+            "name": "NTPC Ltd",
+            "weight": 8.2,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 7.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 6.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 6.2,
+            "sector": "Energy"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 4.55,
+            "sector": "Utilities"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 4.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 4.27,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 4.24,
+            "sector": "Energy"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 4.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 4.02,
+            "sector": "Energy"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 3.91,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 2.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 2.18,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 2.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 2.13,
+            "sector": "Energy"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CESC Ltd",
+            "weight": 2.04,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 2.03,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 2.02,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 2.0,
+            "sector": "Energy"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gulf Oil Lubricants India Ltd",
+            "weight": 1.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 1.67,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 1.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 1.62,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 1.54,
+            "sector": "Energy"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 1.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "Vikram Solar Ltd",
+            "weight": 1.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 1.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Exide Industries Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 0.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 0.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 0.74,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.56,
+            "sector": "Other"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 0.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Oswal Pumps Ltd",
+            "weight": 0.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 0.22,
+            "sector": "Utilities"
+        }
+    ]
+}

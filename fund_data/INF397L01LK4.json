@@ -1,0 +1,151 @@
+{
+    "isin": "INF397L01LK4",
+    "scheme_name": "LIC MF Healthcare Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 11.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 6.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 6.87,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 4.94,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 4.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 4.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Piramal Pharma Ltd",
+            "weight": 4.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 4.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.9,
+            "sector": "Other"
+        },
+        {
+            "name": "OneSource Specialty Pharma Ltd",
+            "weight": 3.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 3.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 3.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 3.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 3.13,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 3.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 3.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 3.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Concord Biotech Ltd",
+            "weight": 3.05,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 2.74,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Artemis Medicare Services Ltd Ordinary Shares",
+            "weight": 2.73,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 2.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 2.23,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Agarwal\u2019s Health Care Ltd",
+            "weight": 2.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 2.16,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 2.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 1.65,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vinati Organics Ltd",
+            "weight": 1.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

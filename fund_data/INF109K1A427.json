@@ -1,0 +1,241 @@
+{
+    "isin": "INF109K1A427",
+    "scheme_name": "ICICI Prudential Conglomerate Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 7.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 6.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 5.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 4.43,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 4.3,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 3.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 3.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 3.53,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 3.48,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 3.15,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 2.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Jindal Stainless Ltd",
+            "weight": 2.54,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 2.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aditya Birla Sun Life AMC Ltd",
+            "weight": 2.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 2.16,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 2.08,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JSW Infrastructure Ltd",
+            "weight": 1.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Electricals Ltd",
+            "weight": 1.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 1.86,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 1.8,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 1.7,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 1.58,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 1.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 1.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Piramal Pharma Ltd",
+            "weight": 1.41,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.38,
+            "sector": "Other"
+        },
+        {
+            "name": "Aditya Birla Fashion and Retail Ltd",
+            "weight": 1.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.05,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Godrej Properties Ltd",
+            "weight": 1.04,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 0.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 0.77,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Aditya Birla Lifestyle Brands Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aarti Industries Ltd",
+            "weight": 0.62,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 0.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Deepak Nitrite Ltd",
+            "weight": 0.52,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 0.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 0.23,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Gujarat Fluorochemicals Ltd Ordinary Shares",
+            "weight": 0.17,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.16,
+            "sector": "Other"
+        },
+        {
+            "name": "Deepak Fertilisers & Petrochemicals Corp Ltd",
+            "weight": 0.11,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

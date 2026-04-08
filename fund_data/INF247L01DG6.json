@@ -1,0 +1,136 @@
+{
+    "isin": "INF247L01DG6",
+    "scheme_name": "Motilal Oswal Business Cycle Fund - Direct Plan- Growth",
+    "holdings": [
+        {
+            "name": "Kalyan Jewellers India Ltd",
+            "weight": 8.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 8.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Shaily Engineering Plastics Ltd",
+            "weight": 7.77,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 7.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 6.73,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 6.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 5.9,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 5.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 5.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.13,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Ellenbarrie Industrial Gases Ltd",
+            "weight": 3.97,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 3.79,
+            "sector": "Other"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 2.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 2.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 2.28,
+            "sector": "Other"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 2.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 2.24,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 1.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Thirumalai Chemicals Ltd",
+            "weight": 1.55,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 1.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 1.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jain Resource Recycling Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "isin": "INF209KB1O82",
+    "scheme_name": "Aditya Birla Sun Life PSU Equity Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 20.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 8.28,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 6.05,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 5.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 4.88,
+            "sector": "Energy"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 4.7,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 4.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 4.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 4.17,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bank of India",
+            "weight": 4.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Maharashtra",
+            "weight": 4.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 3.11,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 2.89,
+            "sector": "Energy"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 2.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 2.36,
+            "sector": "Energy"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 2.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 1.54,
+            "sector": "Energy"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 1.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahanagar Gas Ltd",
+            "weight": 1.42,
+            "sector": "Utilities"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Limited",
+            "weight": 1.14,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 1.09,
+            "sector": "Energy"
+        },
+        {
+            "name": "Steel Authority Of India Ltd",
+            "weight": 1.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 1.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 0.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Margin (Future And Options)",
+            "weight": 0.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 0.88,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Punjab National Bank",
+            "weight": 0.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Robeco Asset Management Co Ltd",
+            "weight": 0.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 0.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 0.48,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 0.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 0.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 0.41,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash And Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

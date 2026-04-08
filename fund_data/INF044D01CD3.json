@@ -1,0 +1,176 @@
+{
+    "isin": "INF044D01CD3",
+    "scheme_name": "Taurus Infrastructure Fund - Direct Plan - Growth ",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 10.36,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 8.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 7.53,
+            "sector": "Energy"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 5.67,
+            "sector": "Utilities"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 3.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 3.77,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 3.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 3.56,
+            "sector": "Energy"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 3.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vodafone Idea Ltd",
+            "weight": 3.05,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Voltamp Transformers Ltd",
+            "weight": 3.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.99,
+            "sector": "Energy"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 2.85,
+            "sector": "Energy"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 2.82,
+            "sector": "Industrials"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 2.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Salzer Electronics Ltd",
+            "weight": 2.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Steel Authority Of India Ltd",
+            "weight": 2.39,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.32,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 2.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 2.02,
+            "sector": "Energy"
+        },
+        {
+            "name": "RITES Ltd Ordinary Shares",
+            "weight": 2.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mazagon Dock Shipbuilders Ltd",
+            "weight": 1.99,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Finolex Cables Ltd",
+            "weight": 1.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SAMHI Hotels Ltd",
+            "weight": 1.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Chemtech Industrial Valves Ltd",
+            "weight": 1.82,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ahluwalia Contracts (India) Ltd",
+            "weight": 1.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 1.22,
+            "sector": "Other"
+        },
+        {
+            "name": "Nesco Ltd",
+            "weight": 1.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Interarch Building Solutions Ltd",
+            "weight": 0.98,
+            "sector": "Industrials"
+        },
+        {
+            "name": "HBL Engineering Ltd",
+            "weight": 0.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Inox Wind Ltd",
+            "weight": 0.79,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kalpataru Ltd",
+            "weight": 0.7,
+            "sector": "Real Estate"
+        }
+    ]
+}

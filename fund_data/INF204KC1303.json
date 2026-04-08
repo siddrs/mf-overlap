@@ -1,0 +1,166 @@
+{
+    "isin": "INF204KC1303",
+    "scheme_name": "Nippon India Taiwan Equity Fund- Direct Plan- Growth Option",
+    "holdings": [
+        {
+            "name": "Triparty Repo",
+            "weight": 13.83,
+            "sector": "Other"
+        },
+        {
+            "name": "Chroma Ate Inc",
+            "weight": 9.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "MPI Corp",
+            "weight": 8.3,
+            "sector": "Technology"
+        },
+        {
+            "name": "WinWay Technology Co Ltd Ordinary Shares",
+            "weight": 7.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alchip Technologies Ltd",
+            "weight": 6.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Asia Vital Components Co Ltd",
+            "weight": 6.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fositek Corp Ordinary Shares",
+            "weight": 5.68,
+            "sector": "Technology"
+        },
+        {
+            "name": "Accton Technology Corp",
+            "weight": 5.1,
+            "sector": "Technology"
+        },
+        {
+            "name": "eMemory Technology Inc",
+            "weight": 4.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bizlink Holding Inc",
+            "weight": 4.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ardentec Corp",
+            "weight": 3.58,
+            "sector": "Technology"
+        },
+        {
+            "name": "GCS Holdings Inc",
+            "weight": 3.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Delta Electronics Inc",
+            "weight": 2.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Elite Material Co Ltd",
+            "weight": 2.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+            "weight": 2.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nan Ya Printed Circuit Board Corp",
+            "weight": 2.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "LandMark Optoelectronics Corp",
+            "weight": 2.03,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wiwynn Corp Ordinary Shares",
+            "weight": 1.93,
+            "sector": "Technology"
+        },
+        {
+            "name": "Formosa Laboratories Inc",
+            "weight": 1.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Chenbro Micom Co Ltd",
+            "weight": 1.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gold Circuit Electronics Ltd",
+            "weight": 1.61,
+            "sector": "Technology"
+        },
+        {
+            "name": "Elite Advanced Laser Corp",
+            "weight": 1.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Micro-Star International Co Ltd",
+            "weight": 0.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "Grand Process Technology Corp",
+            "weight": 0.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hiwin Technologies Corp",
+            "weight": 0.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.08,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.08,
+            "sector": "Other"
+        },
+        {
+            "name": "Advanced Energy Solution Holding Co Ltd Ordinary Shares",
+            "weight": 0.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "MITAC Holdings Corp",
+            "weight": 0.02,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "King Slide Works Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Asustek Computer Inc",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

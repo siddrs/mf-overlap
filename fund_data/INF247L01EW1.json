@@ -1,0 +1,156 @@
+{
+    "isin": "INF247L01EW1",
+    "scheme_name": "Motilal Oswal Infrastructure Fund-Direct-Growth",
+    "holdings": [
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 9.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 7.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 7.56,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 6.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hitachi Energy India Ltd Ordinary Shares",
+            "weight": 5.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 5.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 4.68,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.41,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 4.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 4.31,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 3.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "Jain Resource Recycling Ltd",
+            "weight": 3.92,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 3.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 3.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 3.33,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 2.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 2.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Supreme Industries Ltd",
+            "weight": 2.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 2.4,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 2.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aegis Vopak Terminals Ltd",
+            "weight": 2.21,
+            "sector": "Energy"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 1.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 1.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 0.99,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Prestige Estates Projects Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

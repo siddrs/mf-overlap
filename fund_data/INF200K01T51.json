@@ -1,0 +1,401 @@
+{
+    "isin": "INF200K01T51",
+    "scheme_name": "SBI Small Cap Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Treps",
+            "weight": 11.8,
+            "sector": "Other"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 4.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 3.63,
+            "sector": "Other"
+        },
+        {
+            "name": "Nifty Index 30-03-2026",
+            "weight": 3.63,
+            "sector": "Other"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 3.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 3.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 2.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 2.69,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SBFC Finance Ltd",
+            "weight": 2.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Belrise Industries Ltd",
+            "weight": 2.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "E I D Parry India Ltd",
+            "weight": 2.31,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "DOMS Industries Ltd",
+            "weight": 2.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 2.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Honeywell Automation India Ltd",
+            "weight": 2.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 1.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 1.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kajaria Ceramics Ltd",
+            "weight": 1.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Anand Rathi Wealth Ltd",
+            "weight": 1.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 1.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Finolex Industries Ltd",
+            "weight": 1.83,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Privi Speciality Chemicals Ltd",
+            "weight": 1.65,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Elgi Equipments Ltd",
+            "weight": 1.53,
+            "sector": "Industrials"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 1.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Deepak Fertilisers & Petrochemicals Corp Ltd",
+            "weight": 1.5,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ratnamani Metals & Tubes Ltd",
+            "weight": 1.5,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Balrampur Chini Mills Ltd",
+            "weight": 1.48,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Thangamayil Jewellery Ltd",
+            "weight": 1.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Esab India Ltd",
+            "weight": 1.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Happy Forgings Ltd",
+            "weight": 1.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 1.37,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 1.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 1.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 1.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 1.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CSB Bank Ltd Ordinary Shares",
+            "weight": 1.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "28/05/2026 Maturing 182 DTB",
+            "weight": 1.24,
+            "sector": "Other"
+        },
+        {
+            "name": "Dodla Dairy Ltd",
+            "weight": 1.23,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 1.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Relaxo Footwears Ltd",
+            "weight": 1.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 1.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 1.03,
+            "sector": "Technology"
+        },
+        {
+            "name": "Ahluwalia Contracts (India) Ltd",
+            "weight": 1.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Westlife Foodworld Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fine Organic Industries Ltd Ordinary Shares",
+            "weight": 0.9,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 0.88,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "TTK Prestige Ltd",
+            "weight": 0.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lemon Tree Hotels Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hawkins Cookers Ltd",
+            "weight": 0.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Chemplast Sanmar Ltd",
+            "weight": 0.77,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hatsun Agro Product Ltd",
+            "weight": 0.75,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Archean Chemical Industries Ltd",
+            "weight": 0.73,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 0.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Happiest Minds Technologies Ltd Ordinary Shares",
+            "weight": 0.67,
+            "sector": "Technology"
+        },
+        {
+            "name": "Triveni Turbine Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Electronics Mart India Ltd",
+            "weight": 0.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "18/06/2026 Maturing 364 DTB",
+            "weight": 0.56,
+            "sector": "Other"
+        },
+        {
+            "name": "Sheela Foam Ltd",
+            "weight": 0.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 0.46,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Rajratan Global Wire Ltd",
+            "weight": 0.45,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "G R Infraprojects Ltd",
+            "weight": 0.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 0.41,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Vedant Fashions Ltd",
+            "weight": 0.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "KNR Constructions Ltd",
+            "weight": 0.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 0.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "IndiaMART InterMESH Ltd",
+            "weight": 0.29,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Go Fashion (India) Ltd",
+            "weight": 0.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rossari Biotech Ltd Ordinary Shares",
+            "weight": 0.28,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Margin Amount For Derivative Positions",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Ajax Engineering Ltd",
+            "weight": 0.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "11/06/2026 Maturing 364 DTB",
+            "weight": 0.14,
+            "sector": "Other"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 0.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 0.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Star Cement Ltd",
+            "weight": 0.01,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "VST Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HEG Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

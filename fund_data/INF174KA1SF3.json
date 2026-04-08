@@ -1,0 +1,211 @@
+{
+    "isin": "INF174KA1SF3",
+    "scheme_name": "Kotak Special Opportunities Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 6.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 6.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 4.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 4.61,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 4.19,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Jubilant Pharmova Ltd",
+            "weight": 3.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 3.76,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sun TV Network Ltd",
+            "weight": 3.66,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Jyoti CNC Automation Ltd",
+            "weight": 3.53,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 3.37,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Marksans Pharma Ltd",
+            "weight": 3.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Poonawalla Fincorp Ltd",
+            "weight": 3.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Azad Engineering Ltd",
+            "weight": 2.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Avanti Feeds Ltd",
+            "weight": 2.73,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 2.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bandhan Bank Ltd",
+            "weight": 2.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 2.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 2.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indigo Paints Ltd Ordinary Shares",
+            "weight": 2.45,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Park Medi World Ltd",
+            "weight": 2.45,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 2.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Midwest Ltd",
+            "weight": 2.25,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sapphire Foods India Ltd",
+            "weight": 2.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Graphite India Ltd",
+            "weight": 2.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 1.97,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Orchid Pharma Ltd",
+            "weight": 1.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jammu & Kashmir Bank Ltd",
+            "weight": 1.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KSH International Ltd",
+            "weight": 1.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Midwest Ltd",
+            "weight": 1.69,
+            "sector": "Other"
+        },
+        {
+            "name": "Bata India Ltd",
+            "weight": 1.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 1.62,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "The South Indian Bank Ltd",
+            "weight": 1.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jana Small Finance Bank Ltd",
+            "weight": 1.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Yatharth Hospital and Trauma Care Services Ltd",
+            "weight": 1.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 0.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.21,
+            "sector": "Other"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

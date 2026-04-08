@@ -1,0 +1,246 @@
+{
+    "isin": "INF277K01Z77",
+    "scheme_name": "Tata Digital India Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Infosys Ltd",
+            "weight": 19.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 13.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 8.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 6.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash / Net Current Asset",
+            "weight": 4.41,
+            "sector": "Other"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 4.35,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 4.31,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 4.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 3.28,
+            "sector": "Technology"
+        },
+        {
+            "name": "A) Repo",
+            "weight": 2.22,
+            "sector": "Other"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 2.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 1.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 1.47,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 1.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 1.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 1.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 1.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 0.97,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 0.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.77,
+            "sector": "Technology"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 0.76,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 0.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 0.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 0.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 0.53,
+            "sector": "Technology"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 0.43,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 0.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "Redington Ltd",
+            "weight": 0.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "Newgen Software Technologies Ltd",
+            "weight": 0.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 0.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 0.37,
+            "sector": "Technology"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 0.37,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 0.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.26,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 0.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Yatra Online Ltd",
+            "weight": 0.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Quick Heal Technologies Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

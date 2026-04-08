@@ -1,0 +1,306 @@
+{
+    "isin": "INF109KC10Y6",
+    "scheme_name": "ICICI Prudential Equity Minimum Variance Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 7.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.95,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 4.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 4.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 3.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.74,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 3.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 3.62,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 3.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 3.42,
+            "sector": "Other"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 3.4,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 3.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 2.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 2.88,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 2.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 2.46,
+            "sector": "Other"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.44,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.42,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.28,
+            "sector": "Other"
+        },
+        {
+            "name": "Hdfc Bank Ltd.",
+            "weight": 2.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 2.06,
+            "sector": "Technology"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 1.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 1.75,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 1.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 1.68,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.68,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 1.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Brookfield India Real Estate Trust",
+            "weight": 1.23,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Reliance Industries Ltd.",
+            "weight": 1.14,
+            "sector": "Other"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 1.11,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.94,
+            "sector": "Other"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "State Bank Of India",
+            "weight": 0.77,
+            "sector": "Other"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 0.3,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 0.17,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Icici Bank Ltd. (Covered Call)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Unilever Ltd. (Covered Call)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Ntpc Ltd. (Covered Call)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Hdfc Life Insurance Company Ltd (Covered Call)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Sun Pharmaceutical Industries Ltd. (Covered Call)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd. (Covered Call)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Axis Bank Ltd. (Covered Call)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Ultratech Cement Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance Industries Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Itc Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Grid Corporation Of India Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Interglobe Aviation Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "State Bank Of India (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Larsen & Toubro Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd. (Covered Call)",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

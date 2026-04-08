@@ -1,0 +1,331 @@
+{
+    "isin": "INF179KC1DY9",
+    "scheme_name": "HDFC Business Cycle Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 7.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.08,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 5.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 4.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 3.53,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 3.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 3.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 3.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 2.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 2.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 2.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 2.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.33,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aether Industries Ltd",
+            "weight": 1.97,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 1.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Treps - Tri-Party Repo",
+            "weight": 1.89,
+            "sector": "Other"
+        },
+        {
+            "name": "Clean Max Enviro Energy Solutions Ltd",
+            "weight": 1.89,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 1.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 1.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.42,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 1.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 1.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 1.22,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pearl Global Industries Ltd",
+            "weight": 1.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 1.1,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "6.68% Gs 2040",
+            "weight": 1.09,
+            "sector": "Other"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 1.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 0.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 0.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 0.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 0.67,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 0.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 0.62,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 0.61,
+            "sector": "Utilities"
+        },
+        {
+            "name": "G R Infraprojects Ltd",
+            "weight": 0.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 0.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ceigall India Ltd",
+            "weight": 0.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JK Tyre & Industries Ltd",
+            "weight": 0.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 0.5,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 0.49,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Piramal Pharma Ltd",
+            "weight": 0.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 0.47,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 0.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "Godrej Properties Ltd",
+            "weight": 0.42,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "PNC Infratech Ltd",
+            "weight": 0.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 0.38,
+            "sector": "Utilities"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 0.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Awfis Space Solutions Ltd",
+            "weight": 0.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 0.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ola Electric Mobility Ltd",
+            "weight": 0.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Sula Vineyards Ltd",
+            "weight": 0.25,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 0.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 0.23,
+            "sector": "Industrials"
+        }
+    ]
+}

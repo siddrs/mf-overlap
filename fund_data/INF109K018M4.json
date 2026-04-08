@@ -1,0 +1,346 @@
+{
+    "isin": "INF109K018M4",
+    "scheme_name": "ICICI Prudential Infrastructure Fund - Direct Plan -  Growth",
+    "holdings": [
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 8.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 7.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Treps",
+            "weight": 6.05,
+            "sector": "Other"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.4,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 3.82,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 2.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 2.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 2.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.63,
+            "sector": "Energy"
+        },
+        {
+            "name": "NCC Ltd",
+            "weight": 2.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 2.49,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Ratnamani Metals & Tubes Ltd",
+            "weight": 2.31,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 2.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 2.1,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 2.08,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 2.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 1.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CESC Ltd",
+            "weight": 1.91,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 1.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 1.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 1.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ingersoll-Rand (India) Ltd",
+            "weight": 1.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KNR Constructions Ltd",
+            "weight": 1.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "INOX India Ltd",
+            "weight": 1.55,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nuvoco Vista Corp Ltd",
+            "weight": 1.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Triveni Turbine Ltd",
+            "weight": 1.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 1.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.33,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 1.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JM Financial Ltd",
+            "weight": 1.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 1.22,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 1.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 1.13,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 1.08,
+            "sector": "Energy"
+        },
+        {
+            "name": "IRB Infrastructure Developers Ltd",
+            "weight": 1.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CIE Automotive India Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "GMM Pfaudler Ltd",
+            "weight": 0.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ACC Ltd",
+            "weight": 0.83,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Supreme Industries Ltd",
+            "weight": 0.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 0.62,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.61,
+            "sector": "Other"
+        },
+        {
+            "name": "Sbi Cards And Payment Services Ltd.",
+            "weight": 0.57,
+            "sector": "Other"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 0.53,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Honeywell Automation India Ltd",
+            "weight": 0.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 0.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 0.45,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PSP Projects Ltd",
+            "weight": 0.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 0.36,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Vesuvius India Ltd",
+            "weight": 0.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Chemplast Sanmar Ltd",
+            "weight": 0.3,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HeidelbergCement India Ltd",
+            "weight": 0.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Indusind Bank Ltd.",
+            "weight": 0.25,
+            "sector": "Other"
+        },
+        {
+            "name": "Gateway Distriparks Ltd",
+            "weight": 0.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "08/05/2026 Maturing 182 DTB",
+            "weight": 0.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Sagar Cements Ltd",
+            "weight": 0.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Route Mobile Ltd Ordinary Shares",
+            "weight": 0.1,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "09/04/2026 Maturing 182 DTB",
+            "weight": 0.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}
