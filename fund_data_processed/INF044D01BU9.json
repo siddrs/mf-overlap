@@ -1,0 +1,246 @@
+{
+    "isin": "INF044D01BU9",
+    "scheme_name": "Taurus Flexi Cap Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 7.3,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 5.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Park Medi World Ltd",
+            "weight": 3.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.67,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 3.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pace Digitek Ltd",
+            "weight": 2.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "SAMHI Hotels Ltd",
+            "weight": 2.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 2.83,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bajaj Holdings and Investment Ltd",
+            "weight": 2.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 2.7,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ambika Cotton Mills Ltd",
+            "weight": 2.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 2.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.12,
+            "sector": "Energy"
+        },
+        {
+            "name": "Transrail Lighting Ltd",
+            "weight": 2.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 2.05,
+            "sector": "Energy"
+        },
+        {
+            "name": "Deepak Fertilisers & Petrochemicals Corp Ltd",
+            "weight": 1.95,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Regaal Resources Ltd",
+            "weight": 1.93,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.73,
+            "sector": "Other"
+        },
+        {
+            "name": "Garden Reach Shipbuilders & Engineers Ltd",
+            "weight": 1.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aarti Pharmalabs Ltd",
+            "weight": 1.51,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fedbank Financial Services Ltd",
+            "weight": 1.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 1.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 1.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godawari Power & Ispat Ltd",
+            "weight": 1.27,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Equitas Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vodafone Idea Ltd",
+            "weight": 1.01,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Force Motors Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.95,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 0.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 0.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HBL Engineering Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Interarch Building Solutions Ltd",
+            "weight": 0.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.41,
+            "sector": "Other"
+        },
+        {
+            "name": "Chemtech Industrial Valves Ltd",
+            "weight": 0.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Inox Wind Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Thangamayil Jewellery Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Karnataka Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Voltamp Transformers Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Engineers India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Wellwin Industry Ltd Shs Dematerialised",
+            "weight": 0.0,
+            "sector": "Industrials"
+        }
+    ]
+}

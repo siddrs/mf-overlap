@@ -1,0 +1,251 @@
+{
+    "isin": "INF277K01QZ7",
+    "scheme_name": "Tata Large Cap Fund -Direct Plan Growth Option",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 9.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.26,
+            "sector": "Energy"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 3.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.64,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.56,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 2.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 2.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.19,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 1.79,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 1.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 1.67,
+            "sector": "Utilities"
+        },
+        {
+            "name": "A) Repo",
+            "weight": 1.56,
+            "sector": "Other"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Cement Ltd",
+            "weight": 1.54,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 1.43,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 1.43,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 1.43,
+            "sector": "Utilities"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 1.37,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cash / Net Current Asset",
+            "weight": 1.34,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 1.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.23,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Granules India Ltd",
+            "weight": 1.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 1.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 1.07,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Westlife Foodworld Ltd",
+            "weight": 1.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.0,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 0.95,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 0.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 0.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Honeywell Automation India Ltd",
+            "weight": 0.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Ltd.^",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

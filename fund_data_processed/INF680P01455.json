@@ -1,0 +1,196 @@
+{
+    "isin": "INF680P01455",
+    "scheme_name": "Shriram Multi Sector Rotation Fund - Direct Plan Growth Option",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 8.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 6.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.17,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 4.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Maharashtra",
+            "weight": 4.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 3.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 3.44,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 3.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 3.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.86,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Force Motors Ltd",
+            "weight": 2.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 2.4,
+            "sector": "Energy"
+        },
+        {
+            "name": "Nuvama Wealth Management Ltd",
+            "weight": 2.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "R R Kabel Ltd",
+            "weight": 2.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 2.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 2.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.11,
+            "sector": "Energy"
+        },
+        {
+            "name": "CSB Bank Ltd Ordinary Shares",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 1.94,
+            "sector": "Energy"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 1.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.89,
+            "sector": "Technology"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 1.84,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lemon Tree Hotels Ltd",
+            "weight": 1.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 1.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "Krsnaa Diagnostics Ltd",
+            "weight": 1.73,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "VRL Logistics Ltd",
+            "weight": 1.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Thyrocare Technologies Ltd",
+            "weight": 1.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pricol Ltd",
+            "weight": 1.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Canara Robeco Asset Management Co Ltd",
+            "weight": 1.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "FIEM Industries Ltd",
+            "weight": 1.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 0.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.08,
+            "sector": "Other"
+        }
+    ]
+}

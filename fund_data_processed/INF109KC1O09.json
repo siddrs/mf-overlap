@@ -1,0 +1,281 @@
+{
+    "isin": "INF109KC1O09",
+    "scheme_name": "ICICI Prudential ESG Exclusionary Strategy Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 7.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 7.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 6.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 5.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 4.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.96,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.86,
+            "sector": "Energy"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 2.8,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.8,
+            "sector": "Other"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Inox Wind Ltd",
+            "weight": 2.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "INOX Green Energy Services Ltd",
+            "weight": 1.99,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Advanced Enzyme Technologies Ltd",
+            "weight": 1.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 1.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 1.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 1.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "FDC Ltd",
+            "weight": 1.68,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 1.61,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 1.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 1.43,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Rolex Rings Ltd",
+            "weight": 1.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Chemicals Ltd",
+            "weight": 1.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Divgi TorqTransfer Systems Ltd",
+            "weight": 1.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 1.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 1.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 1.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 1.08,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 1.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.04,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 1.03,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ethos Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NIIT Learning Systems Ltd",
+            "weight": 0.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Godrej Properties Ltd",
+            "weight": 0.83,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.8,
+            "sector": "Technology"
+        },
+        {
+            "name": "Deepak Nitrite Ltd",
+            "weight": 0.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 0.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AstraZeneca Pharma India Ltd",
+            "weight": 0.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "UTI Asset Management Co Ltd",
+            "weight": 0.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "Matrimony.com Ltd",
+            "weight": 0.37,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 0.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ganesha Ecosphere Ltd",
+            "weight": 0.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

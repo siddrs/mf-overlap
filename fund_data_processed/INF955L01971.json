@@ -1,0 +1,171 @@
+{
+    "isin": "INF955L01971",
+    "scheme_name": "Baroda BNP Paribas Banking and Financial Services Fund - Direct - Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 11.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 8.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 8.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 7.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 6.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 5.81,
+            "sector": "Other"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 5.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 4.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 4.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 2.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 2.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 2.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 2.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IIFL Finance Ltd",
+            "weight": 2.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 2.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 2.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 1.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 1.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 1.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.37,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "17/09/2026 Maturing 364 DTB",
+            "weight": 1.22,
+            "sector": "Other"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 1.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 1.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 1.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Poonawalla Fincorp Ltd",
+            "weight": 1.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Punjab National Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

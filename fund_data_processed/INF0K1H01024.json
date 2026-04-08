@@ -1,0 +1,151 @@
+{
+    "isin": "INF0K1H01024",
+    "scheme_name": "Samco Flexi Cap Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 6.42,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 5.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 5.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 5.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 5.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 4.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 4.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 4.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 4.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Godawari Power & Ispat Ltd",
+            "weight": 4.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 4.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 4.08,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 4.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 3.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 3.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 3.76,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 3.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 3.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.07,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bank of Maharashtra",
+            "weight": 2.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 2.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.58,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 2.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 2.0,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 0.24,
+            "sector": "Other"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Godfrey Phillips India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

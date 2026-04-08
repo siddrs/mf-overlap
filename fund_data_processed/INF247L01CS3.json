@@ -1,0 +1,291 @@
+{
+    "isin": "INF247L01CS3",
+    "scheme_name": "Motilal Oswal Quant Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 4.6,
+            "sector": "Energy"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 4.59,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 4.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 4.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 4.5,
+            "sector": "Energy"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 4.45,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 4.45,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 4.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kalyan Jewellers India Ltd",
+            "weight": 4.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 4.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 4.35,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 4.35,
+            "sector": "Energy"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 4.25,
+            "sector": "Technology"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 4.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Premier Energies Ltd",
+            "weight": 4.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 4.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Punjab National Bank",
+            "weight": 2.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 2.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 2.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Renewable Energy Development Agency Ltd",
+            "weight": 2.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 2.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 1.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 1.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 1.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 1.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.76,
+            "sector": "Technology"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 1.73,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.84,
+            "sector": "Other"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 0.79,
+            "sector": "Other"
+        },
+        {
+            "name": "Mazagon Dock Shipbuilders Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "NBCC India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Housing & Urban Development Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Technologies Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "KFin Technologies Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

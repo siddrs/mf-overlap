@@ -1,0 +1,146 @@
+{
+    "isin": "INF247L01FS6",
+    "scheme_name": "Motilal Oswal Special Opportunities Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 7.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 6.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 6.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 5.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 4.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 4.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 4.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jain Resource Recycling Ltd",
+            "weight": 4.35,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 4.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 4.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 4.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 3.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 3.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 3.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 3.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "V2 Retail Ltd",
+            "weight": 3.16,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aegis Vopak Terminals Ltd",
+            "weight": 3.15,
+            "sector": "Energy"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 3.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 3.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 2.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 2.89,
+            "sector": "Technology"
+        },
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 2.82,
+            "sector": "Other"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 2.74,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 2.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 1.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.73,
+            "sector": "Other"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

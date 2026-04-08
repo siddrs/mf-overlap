@@ -1,0 +1,201 @@
+{
+    "isin": "INF277K013A6",
+    "scheme_name": "Tata India Consumer Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Titan Co Ltd",
+            "weight": 7.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 7.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 5.83,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cash / Net Current Asset",
+            "weight": 5.5,
+            "sector": "Other"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 4.79,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 4.42,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 4.4,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 4.31,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 3.43,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bikaji Foods International Ltd",
+            "weight": 3.34,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 3.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 3.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 3.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 3.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DOMS Industries Ltd",
+            "weight": 2.99,
+            "sector": "Industrials"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.3,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 2.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 2.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 2.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 1.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 1.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PNGS Reva Diamond Jewellery Ltd",
+            "weight": 1.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.61,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Gillette India Ltd",
+            "weight": 1.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 1.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cera Sanitaryware Ltd",
+            "weight": 1.32,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 1.12,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Pricol Ltd",
+            "weight": 1.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AWL Agri Business Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ethos Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 0.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "Godrej Agrovet Ltd Ordinary Shares",
+            "weight": 0.81,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "A) Repo",
+            "weight": 0.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

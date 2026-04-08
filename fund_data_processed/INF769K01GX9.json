@@ -1,0 +1,176 @@
+{
+    "isin": "INF769K01GX9",
+    "scheme_name": "Mirae Asset Banking and Financial Services Fund Direct Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 16.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 13.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 10.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 8.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 5.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 2.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 2.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 2.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 2.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara HSBC Life Insurance Co Ltd",
+            "weight": 1.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 1.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Go Digit General Insurance Ltd",
+            "weight": 1.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DCB Bank Ltd",
+            "weight": 1.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 1.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Equitas Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KFin Technologies Ltd",
+            "weight": 1.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "CARE Ratings Ltd",
+            "weight": 1.24,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 1.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "General Insurance Corp of India",
+            "weight": 0.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 0.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 0.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 0.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 0.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 0.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.23,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 0.23,
+            "sector": "Financial Services"
+        }
+    ]
+}

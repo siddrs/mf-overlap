@@ -1,0 +1,181 @@
+{
+    "isin": "INF769K01ED6",
+    "scheme_name": "Mirae Asset Healthcare Fund Direct Growth",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 11.77,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 8.16,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 6.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 6.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 6.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 5.15,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 4.83,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 4.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 4.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 3.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 3.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 3.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 3.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 3.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 3.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.89,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 2.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "OneSource Specialty Pharma Ltd",
+            "weight": 2.43,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 1.87,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 1.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 1.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 1.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Treps",
+            "weight": 0.73,
+            "sector": "Other"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Neogen Chemicals Ltd",
+            "weight": 0.53,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 0.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Deepak Nitrite Ltd",
+            "weight": 0.51,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 0.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.46,
+            "sector": "Other"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 0.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Wockhardt Ltd",
+            "weight": 0.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mirae Asset Liquid Dir Gr",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 0.0,
+            "sector": "Healthcare"
+        }
+    ]
+}

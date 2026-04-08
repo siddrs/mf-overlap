@@ -1,0 +1,381 @@
+{
+    "isin": "INF767K01GW5",
+    "scheme_name": "LIC MF Infrastructure Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Treps",
+            "weight": 9.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 6.12,
+            "sector": "Other"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 4.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 3.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 3.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 3.32,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.3,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Schneider Electric Infrastructure Ltd",
+            "weight": 3.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shakti Pumps (India) Ltd",
+            "weight": 3.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Garware Hi-Tech Films Ltd",
+            "weight": 3.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 2.79,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mahindra Lifespace Developers Ltd",
+            "weight": 2.32,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Bijlee Ltd",
+            "weight": 2.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Carraro India Ltd",
+            "weight": 2.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Avalon Technologies Ltd",
+            "weight": 2.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 2.08,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KSH International Ltd",
+            "weight": 1.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "DEE Development Engineers Ltd",
+            "weight": 1.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 1.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kirloskar Oil Engines Ltd",
+            "weight": 1.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kirloskar Ferrous Industries Ltd",
+            "weight": 1.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 1.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 1.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Transport Corp of India Ltd",
+            "weight": 1.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 1.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 1.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 1.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 1.22,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 1.2,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 1.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 1.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vidya Wires Ltd",
+            "weight": 1.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 1.14,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Ador Welding Ltd",
+            "weight": 1.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 1.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 0.99,
+            "sector": "Utilities"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 0.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Divgi TorqTransfer Systems Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 0.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Foseco India Ltd",
+            "weight": 0.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kennametal India Ltd",
+            "weight": 0.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 0.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kalyani Steels Ltd",
+            "weight": 0.7,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 0.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apar Industries Ltd",
+            "weight": 0.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 0.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Yuken India Ltd",
+            "weight": 0.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Techno Electric & Engineering Co Ltd",
+            "weight": 0.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Honeywell Automation India Ltd",
+            "weight": 0.53,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 0.49,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Ingersoll-Rand (India) Ltd",
+            "weight": 0.48,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JNK India Ltd",
+            "weight": 0.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ratnamani Metals & Tubes Ltd",
+            "weight": 0.36,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 0.32,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.29,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Concord Enviro Systems Ltd",
+            "weight": 0.24,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cyient DLM Ltd",
+            "weight": 0.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 0.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Blue Dart Express Ltd",
+            "weight": 0.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vesuvius India Ltd",
+            "weight": 0.04,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "TARC Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Kirloskar Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ISGEC Heavy Engineering Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Housing & Urban Development Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Texmaco Rail & Engineering Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Roto Pumps Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

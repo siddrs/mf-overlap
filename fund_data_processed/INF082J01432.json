@@ -1,0 +1,296 @@
+{
+    "isin": "INF082J01432",
+    "scheme_name": "QUANTUM SMALL CAP FUND - DIRECT PLAN GROWTH OPTION",
+    "holdings": [
+        {
+            "name": "Treps ^",
+            "weight": 12.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 3.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Supriya Lifescience Ltd",
+            "weight": 3.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lumax Industries Ltd",
+            "weight": 2.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Alivus Life Sciences Ltd",
+            "weight": 2.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 2.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 2.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 2.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Engineers India Ltd",
+            "weight": 2.32,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CSB Bank Ltd Ordinary Shares",
+            "weight": 2.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 2.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 2.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Carysil Ltd",
+            "weight": 2.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lumax Auto Technologies Ltd",
+            "weight": 2.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mold-tek Packaging Ltd",
+            "weight": 2.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "EPL Ltd Ordinary Shares",
+            "weight": 2.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CCL Products (India) Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Nuvoco Vista Corp Ltd",
+            "weight": 1.97,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Xpro India Ltd",
+            "weight": 1.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 1.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kirloskar Pneumatic Co Ltd",
+            "weight": 1.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 1.82,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gateway Distriparks Ltd",
+            "weight": 1.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Equitas Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UTI Asset Management Co Ltd",
+            "weight": 1.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mayur Uniquoters Ltd",
+            "weight": 1.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivable/(Payable)",
+            "weight": 1.51,
+            "sector": "Other"
+        },
+        {
+            "name": "Lemon Tree Hotels Ltd",
+            "weight": 1.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 1.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Genus Power Infrastructures Ltd",
+            "weight": 1.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 1.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SAMHI Hotels Ltd",
+            "weight": 1.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "MPS Ltd",
+            "weight": 1.4,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Sandhar Technologies Ltd Ordinary Shares",
+            "weight": 1.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 1.35,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 1.31,
+            "sector": "Technology"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "S H Kelkar & Co Ltd",
+            "weight": 1.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 1.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 0.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 0.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "TeamLease Services Ltd",
+            "weight": 0.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Uniparts India Ltd",
+            "weight": 0.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 0.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Industries Ltd",
+            "weight": 0.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 0.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 0.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 0.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sanghvi Movers Ltd",
+            "weight": 0.31,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Genus Prime Infra Ltd",
+            "weight": 0.02,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Exide Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

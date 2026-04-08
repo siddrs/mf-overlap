@@ -1,0 +1,306 @@
+{
+    "isin": "INF109KC1O66",
+    "scheme_name": "ICICI Prudential Quant Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.18,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 4.87,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 4.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 3.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 3.68,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 3.27,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 3.03,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.94,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 2.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 2.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 2.61,
+            "sector": "Other"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 2.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 2.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.2,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 2.15,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 1.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 1.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 1.8,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.8,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 1.47,
+            "sector": "Technology"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.4,
+            "sector": "Other"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 1.39,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 1.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 1.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 1.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.24,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 1.13,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 1.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 1.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 1.08,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 0.99,
+            "sector": "Energy"
+        },
+        {
+            "name": "ACC Ltd",
+            "weight": 0.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 0.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.73,
+            "sector": "Technology"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Jindal Stainless Ltd",
+            "weight": 0.7,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 0.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 0.51,
+            "sector": "Energy"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Elxsi Ltd",
+            "weight": 0.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.27,
+            "sector": "Other"
+        },
+        {
+            "name": "Supreme Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

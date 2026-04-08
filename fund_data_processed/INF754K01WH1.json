@@ -1,0 +1,146 @@
+{
+    "isin": "INF754K01WH1",
+    "scheme_name": "Edelweiss Financial Services Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 11.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 11.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 10.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 8.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 6.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 5.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 5.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 4.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 4.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 3.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 2.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 2.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 2.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 1.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CreditAccess Grameen Ltd Ordinary Shares",
+            "weight": 1.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 1.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 1.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 1.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 1.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 1.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 0.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 0.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables/(Payables)",
+            "weight": 0.15,
+            "sector": "Other"
+        },
+        {
+            "name": "Accrued Interest",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

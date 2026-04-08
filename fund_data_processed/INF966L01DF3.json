@@ -1,0 +1,141 @@
+{
+    "isin": "INF966L01DF3",
+    "scheme_name": "quant Commodities Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 23.22,
+            "sector": "Other"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 22.28,
+            "sector": "Other"
+        },
+        {
+            "name": "Graphite India Ltd",
+            "weight": 10.05,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nmdc Ltd",
+            "weight": 9.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 9.42,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 9.28,
+            "sector": "Energy"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 9.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Lloyds Metals & Energy Ltd",
+            "weight": 8.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil And Natural Gas Corporation Ltd.",
+            "weight": 6.38,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 6.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Ramco Cements Ltd",
+            "weight": 4.64,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 4.57,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Kalyani Steels Ltd",
+            "weight": 4.47,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 3.94,
+            "sector": "Energy"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 3.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 2.96,
+            "sector": "Energy"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 2.54,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dalmia Bharat Ltd",
+            "weight": 1.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Upl Limited",
+            "weight": 1.2,
+            "sector": "Other"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.64,
+            "sector": "Other"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 0.19,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.18,
+            "sector": "Energy"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "12/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,271 @@
+{
+    "isin": "INF174V01721",
+    "scheme_name": "Mahindra Manulife Large Cap Fund - Direct Plan -Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 9.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 7.77,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 4.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 4.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.9,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 3.29,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 3.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.17,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 1.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 1.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.55,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 1.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.46,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.46,
+            "sector": "Energy"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 1.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 1.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 1.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 1.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.29,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 1.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 0.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 0.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 0.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 0.87,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 0.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 0.79,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 0.78,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.49,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 0.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Devyani International Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "isin": "INF209K01VF2",
+    "scheme_name": "Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan",
+    "holdings": [
+        {
+            "name": "Infosys Ltd",
+            "weight": 17.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 9.92,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 8.87,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 8.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 4.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 3.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 3.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 3.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 3.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 2.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bmo Global Innovators Fund Series - I",
+            "weight": 2.27,
+            "sector": "Other"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 1.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 1.68,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Latent View Analytics Ltd",
+            "weight": 1.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 1.43,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 1.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 1.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 1.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on BSE Ltd",
+            "weight": 1.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 1.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "Clearing Corporation Of India Limited",
+            "weight": 1.02,
+            "sector": "Other"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.98,
+            "sector": "Technology"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 0.89,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 0.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "Capillary Technologies India Ltd",
+            "weight": 0.87,
+            "sector": "Technology"
+        },
+        {
+            "name": "Margin (Future And Options)",
+            "weight": 0.87,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 0.86,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cyient DLM Ltd",
+            "weight": 0.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 0.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 0.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.7,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 0.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 0.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aditya BSL Nifty IT ETF",
+            "weight": 0.42,
+            "sector": "Other"
+        },
+        {
+            "name": "Adobe Inc",
+            "weight": 0.37,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.25,
+            "sector": "Other"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 0.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cash And Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

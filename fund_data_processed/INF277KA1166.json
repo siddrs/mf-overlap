@@ -1,0 +1,311 @@
+{
+    "isin": "INF277KA1166",
+    "scheme_name": "Tata Business Cycle Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 6.19,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 4.59,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 3.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 2.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.9,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 2.81,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cash / Net Current Asset",
+            "weight": 2.73,
+            "sector": "Other"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 2.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.32,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 2.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ramco Cements Ltd",
+            "weight": 2.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 2.12,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 2.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Godrej Properties Ltd",
+            "weight": 2.0,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 1.93,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 1.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Niva Bupa Health Insurance Co Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.87,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 1.64,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 1.45,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 1.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 1.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nuvoco Vista Corp Ltd",
+            "weight": 1.36,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.35,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 1.2,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "DCB Bank Ltd",
+            "weight": 1.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 1.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 1.09,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.08,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 1.04,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 1.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gravita India Ltd",
+            "weight": 0.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Graphite India Ltd",
+            "weight": 0.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 0.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 0.78,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Five-Star Business Finance Ltd",
+            "weight": 0.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 0.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "India Shelter Finance Corporation Ltd",
+            "weight": 0.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vedant Fashions Ltd",
+            "weight": 0.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "A) Repo",
+            "weight": 0.08,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Nifty India Digital ETF",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

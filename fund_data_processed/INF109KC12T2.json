@@ -1,0 +1,326 @@
+{
+    "isin": "INF109KC12T2",
+    "scheme_name": "ICICI Prudential Innovation Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 5.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 4.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 3.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Supreme Industries Ltd",
+            "weight": 2.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 2.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 2.8,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 2.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 2.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 2.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.57,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 2.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 2.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 2.12,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 2.1,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 2.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 2.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 2.01,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 1.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 1.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.68,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 1.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 1.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 1.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 1.58,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "IndiaMART InterMESH Ltd",
+            "weight": 1.54,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 1.53,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 1.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 1.38,
+            "sector": "Energy"
+        },
+        {
+            "name": "Accenture PLC Class A",
+            "weight": 1.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 1.3,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 1.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 1.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 1.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Triveni Turbine Ltd",
+            "weight": 0.98,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Thyrocare Technologies Ltd",
+            "weight": 0.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aditya Vision Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 0.86,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 0.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Capillary Technologies India Ltd",
+            "weight": 0.83,
+            "sector": "Technology"
+        },
+        {
+            "name": "Ivalue Infosolutions Ltd",
+            "weight": 0.8,
+            "sector": "Technology"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 0.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 0.7,
+            "sector": "Other"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 0.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.66,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps",
+            "weight": 0.65,
+            "sector": "Other"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 0.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 0.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 0.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.39,
+            "sector": "Other"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Yatra Online Ltd",
+            "weight": 0.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Canara HSBC Life Insurance Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

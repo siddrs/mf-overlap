@@ -1,0 +1,281 @@
+{
+    "isin": "INF109KC10C2",
+    "scheme_name": "ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 8.99,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 8.99,
+            "sector": "Utilities"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 7.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 5.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 5.13,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 3.72,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 3.35,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 2.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.46,
+            "sector": "Other"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 2.32,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Orient Electric Ltd Ordinary Shares",
+            "weight": 2.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 2.19,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.08,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 1.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sobha Ltd",
+            "weight": 1.9,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 1.84,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 1.32,
+            "sector": "Other"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 1.24,
+            "sector": "Utilities"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 1.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "La Opala RG Ltd",
+            "weight": 1.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 1.17,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 1.14,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 1.14,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 1.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mahindra Lifespace Developers Ltd",
+            "weight": 1.1,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Arvind SmartSpaces Ltd",
+            "weight": 0.99,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "V-Guard Industries Ltd",
+            "weight": 0.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 0.92,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Supreme Industries Ltd",
+            "weight": 0.91,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 0.88,
+            "sector": "Utilities"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 0.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bajaj Electricals Ltd",
+            "weight": 0.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Universal Cables Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kalpataru Ltd",
+            "weight": 0.64,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Somany Ceramics Ltd",
+            "weight": 0.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Repco Home Finance Ltd",
+            "weight": 0.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "R R Kabel Ltd",
+            "weight": 0.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Akzo Nobel India Ltd",
+            "weight": 0.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TTK Prestige Ltd",
+            "weight": 0.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 0.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Prince Pipes And Fittings Ltd Ordinary Shares",
+            "weight": 0.39,
+            "sector": "Industrials"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 0.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 0.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Birla Corp Ltd",
+            "weight": 0.3,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 0.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ahluwalia Contracts (India) Ltd",
+            "weight": 0.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "India Cements Ltd",
+            "weight": 0.19,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.12,
+            "sector": "Other"
+        }
+    ]
+}

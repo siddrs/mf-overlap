@@ -1,0 +1,271 @@
+{
+    "isin": "INF0J8L01156",
+    "scheme_name": "NJ Flexi Cap Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 5.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 5.25,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 4.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 4.65,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 4.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 3.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Great Eastern Shipping Co Ltd",
+            "weight": 3.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 3.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 3.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 2.84,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 2.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 2.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 2.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 2.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 2.62,
+            "sector": "Technology"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 2.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.55,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 2.42,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 2.36,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 2.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 2.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 2.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UTI Asset Management Co Ltd",
+            "weight": 1.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 1.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.08,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.99,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 0.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 0.93,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 0.91,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 0.9,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Castrol India Ltd",
+            "weight": 0.87,
+            "sector": "Energy"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 0.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 0.83,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Berger Paints India Ltd",
+            "weight": 0.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Technologies Ltd",
+            "weight": 0.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Elxsi Ltd",
+            "weight": 0.8,
+            "sector": "Technology"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 0.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kajaria Ceramics Ltd",
+            "weight": 0.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Procter & Gamble Hygiene and Health Care Ltd",
+            "weight": 0.74,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.72,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "CRISIL Ltd",
+            "weight": 0.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 0.57,
+            "sector": "Other"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.41,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.11,
+            "sector": "Other"
+        },
+        {
+            "name": "SKF India Ltd",
+            "weight": 0.09,
+            "sector": "Industrials"
+        }
+    ]
+}

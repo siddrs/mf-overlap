@@ -1,0 +1,196 @@
+{
+    "isin": "INF666M01HS1",
+    "scheme_name": "Groww Banking & Financial Services Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 9.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 8.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 6.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 6.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivable/Payable",
+            "weight": 5.65,
+            "sector": "Other"
+        },
+        {
+            "name": "SBFC Finance Ltd",
+            "weight": 3.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 3.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 3.3,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 3.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 3.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "India Shelter Finance Corporation Ltd",
+            "weight": 3.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 2.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 2.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 2.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 2.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 2.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 2.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 2.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Fedbank Financial Services Ltd",
+            "weight": 2.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CreditAccess Grameen Ltd Ordinary Shares",
+            "weight": 1.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Microfin Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Northern Arc Capital Ltd",
+            "weight": 1.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Arman Financial Services Ltd",
+            "weight": 1.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Five-Star Business Finance Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 0.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Niva Bupa Health Insurance Co Ltd",
+            "weight": 0.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 0.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Nuvama Wealth Management Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

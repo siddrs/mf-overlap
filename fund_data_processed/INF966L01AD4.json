@@ -1,0 +1,156 @@
+{
+    "isin": "INF966L01AD4",
+    "scheme_name": "quant ESG Integration Strategy Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 20.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 19.29,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 9.13,
+            "sector": "Energy"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 8.71,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 7.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 7.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 7.4,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Nse Bank Nifty",
+            "weight": 6.05,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 5.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 5.9,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 5.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kotak Mahindra Bank Limited",
+            "weight": 5.23,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 5.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Hdfc Life Insurance Co Ltd",
+            "weight": 4.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 4.61,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 4.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 4.14,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 4.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 3.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aurobindo Pharma Limited",
+            "weight": 2.86,
+            "sector": "Other"
+        },
+        {
+            "name": "Capri Global Capital Ltd",
+            "weight": 2.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hdfc Asset Management Company Ltd",
+            "weight": 2.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Viyash Scientific Ltd",
+            "weight": 1.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.78,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 0.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.4,
+            "sector": "Energy"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.3,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

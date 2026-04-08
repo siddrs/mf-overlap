@@ -1,0 +1,301 @@
+{
+    "isin": "INF582M01KG9",
+    "scheme_name": "Union Active Momentum Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Indian Bank",
+            "weight": 3.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 3.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of India",
+            "weight": 3.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 3.05,
+            "sector": "Energy"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 3.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 2.96,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 2.95,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 2.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.91,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gujarat Mineral Development Corp Ltd",
+            "weight": 2.91,
+            "sector": "Energy"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 2.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 2.9,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 2.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 2.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 2.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 2.86,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 2.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 2.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 2.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 2.76,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 2.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 2.71,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Prime Focus Ltd",
+            "weight": 2.7,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Avanti Feeds Ltd",
+            "weight": 2.7,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 2.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 2.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 2.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "DCB Bank Ltd",
+            "weight": 1.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Consumer Care Ltd",
+            "weight": 1.8,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 1.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JK Tyre & Industries Ltd",
+            "weight": 1.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.95,
+            "sector": "Other"
+        },
+        {
+            "name": "16/04/2026 Maturing 364 DTB",
+            "weight": 0.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Pricol Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Ashapura Minechem Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "The South Indian Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "GMR Airports Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

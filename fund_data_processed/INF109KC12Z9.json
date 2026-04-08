@@ -1,0 +1,306 @@
+{
+    "isin": "INF109KC12Z9",
+    "scheme_name": "ICICI Prudential Rural Opportunities Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 9.05,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 7.25,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 5.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 4.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.07,
+            "sector": "Utilities"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 3.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.79,
+            "sector": "Other"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 3.63,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 3.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.26,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 3.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.83,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 2.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 2.38,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.23,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 2.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 1.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 1.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.52,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dhanuka Agritech Ltd",
+            "weight": 1.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.16,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 1.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 1.11,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "JK Lakshmi Cement Ltd",
+            "weight": 0.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 0.88,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.88,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 0.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Deepak Fertilisers & Petrochemicals Corp Ltd",
+            "weight": 0.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 0.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Paradeep Phosphates Ltd",
+            "weight": 0.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sundaram Finance Ltd",
+            "weight": 0.74,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 0.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Emami Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 0.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 0.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 0.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat State Fertilizers & Chemicals Ltd",
+            "weight": 0.46,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 0.45,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Birla Corp Ltd",
+            "weight": 0.37,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 0.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sumitomo Chemical India Ltd Ordinary Shares",
+            "weight": 0.23,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kansai Nerolac Paints Ltd",
+            "weight": 0.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "16/04/2026 Maturing 364 DTB",
+            "weight": 0.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 0.13,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Godrej Agrovet Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Avanti Feeds Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

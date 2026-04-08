@@ -1,0 +1,266 @@
+{
+    "isin": "INF03VN01AD3",
+    "scheme_name": "WhiteOak Capital Consumption Opportunities Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.55,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 6.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 6.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 5.99,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 4.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 4.76,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 3.8,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Nexus Select Trust Reits",
+            "weight": 3.76,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Nifty",
+            "weight": 3.33,
+            "sector": "Other"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.11,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 2.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 1.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 1.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.94,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Gillette India Ltd",
+            "weight": 1.83,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Orkla India Ltd",
+            "weight": 1.61,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 1.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tbill",
+            "weight": 1.58,
+            "sector": "Other"
+        },
+        {
+            "name": "Timex Group India Ltd",
+            "weight": 1.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "DOMS Industries Ltd",
+            "weight": 1.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 1.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 1.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 1.49,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "International Gemmological Institute (India) Ltd",
+            "weight": 1.47,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 1.45,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 1.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 1.4,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Jyothy Labs Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Travel Food Services Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indigo Paints Ltd Ordinary Shares",
+            "weight": 0.97,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Honasa Consumer Ltd",
+            "weight": 0.97,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Arvind Fashions Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vedant Fashions Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Campus Activewear Ltd",
+            "weight": 0.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.67,
+            "sector": "Other"
+        },
+        {
+            "name": "Heritage Foods Ltd",
+            "weight": 0.58,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Dodla Dairy Ltd",
+            "weight": 0.57,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hindustan Unilever Limited",
+            "weight": 0.37,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Limited",
+            "weight": 0.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on Eternal Ltd",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Limited",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Limited",
+            "weight": 0.29,
+            "sector": "Other"
+        }
+    ]
+}

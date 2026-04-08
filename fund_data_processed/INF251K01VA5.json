@@ -1,0 +1,161 @@
+{
+    "isin": "INF251K01VA5",
+    "scheme_name": "Baroda BNP Paribas Health and Wellness Fund Direct Growth",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 9.23,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 6.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 5.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 5.22,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 4.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 4.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 4.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 4.15,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 4.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "AstraZeneca Pharma India Ltd",
+            "weight": 4.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 3.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 3.64,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 3.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 3.25,
+            "sector": "Other"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 3.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 2.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emcure Pharmaceuticals Ltd",
+            "weight": 2.8,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 2.48,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 2.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 2.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 2.15,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 1.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Medplus Health Services Ltd",
+            "weight": 1.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 1.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nephrocare Health Services Ltd",
+            "weight": 1.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 1.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 1.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 0.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.95,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "isin": "INF2F0001214",
+    "scheme_name": "THE WEALTH COMPANY ETHICAL FUND DIRECT GROWTH",
+    "holdings": [
+        {
+            "name": "Ccil",
+            "weight": 4.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 4.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 4.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 4.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 3.52,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 3.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Copper Ltd",
+            "weight": 3.22,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 3.11,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "MRF Ltd",
+            "weight": 3.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 3.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 2.96,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.95,
+            "sector": "Energy"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 2.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 2.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 2.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 2.47,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bikaji Foods International Ltd",
+            "weight": 2.47,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 2.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 2.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "Elgi Equipments Ltd",
+            "weight": 2.35,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 2.31,
+            "sector": "Utilities"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 2.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Jyoti CNC Automation Ltd",
+            "weight": 2.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 2.11,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 2.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.04,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 1.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 1.96,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivable/Payable",
+            "weight": 1.83,
+            "sector": "Other"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 1.79,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 1.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 0.98,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 0.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.75,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mastek Ltd",
+            "weight": 0.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 0.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 0.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Schneider Electric Infrastructure Ltd",
+            "weight": 0.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

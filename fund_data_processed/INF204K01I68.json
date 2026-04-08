@@ -1,0 +1,416 @@
+{
+    "isin": "INF204K01I68",
+    "scheme_name": "Nippon India Power & Infra Fund - Direct Plan Growth Plan - Bonus Option",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 9.11,
+            "sector": "Energy"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 8.3,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 5.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 4.18,
+            "sector": "Utilities"
+        },
+        {
+            "name": "NTPC Green Energy Ltd",
+            "weight": 2.85,
+            "sector": "Utilities"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 2.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 2.67,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 2.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.06,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Triveni Turbine Ltd",
+            "weight": 2.05,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 2.02,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 2.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 1.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 1.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 1.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 1.73,
+            "sector": "Technology"
+        },
+        {
+            "name": "CESC Ltd",
+            "weight": 1.58,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 1.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 1.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 1.07,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 1.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Cement Ltd",
+            "weight": 0.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 0.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PTC India Ltd",
+            "weight": 0.9,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 0.85,
+            "sector": "Other"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 0.83,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Apar Industries Ltd",
+            "weight": 0.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 0.81,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajel Projects Ltd",
+            "weight": 0.81,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 0.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 0.79,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 0.78,
+            "sector": "Energy"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.75,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Saatvik Green Energy Ltd",
+            "weight": 0.74,
+            "sector": "Technology"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 0.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cyient DLM Ltd",
+            "weight": 0.73,
+            "sector": "Technology"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 0.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 0.68,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Praj Industries Ltd",
+            "weight": 0.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shree Cement Ltd",
+            "weight": 0.66,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kirloskar Oil Engines Ltd",
+            "weight": 0.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 0.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Coking Coal Ltd",
+            "weight": 0.62,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ITC Hotels Ltd",
+            "weight": 0.62,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 0.62,
+            "sector": "Utilities"
+        },
+        {
+            "name": "JSW Infrastructure Ltd",
+            "weight": 0.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 0.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 0.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 0.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Data Patterns (India) Ltd",
+            "weight": 0.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 0.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.52,
+            "sector": "Technology"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 0.51,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 0.49,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Fujiyama Power Systems Ltd",
+            "weight": 0.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 0.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 0.44,
+            "sector": "Utilities"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 0.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 0.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 0.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Steel Authority Of India Ltd",
+            "weight": 0.35,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 0.34,
+            "sector": "Energy"
+        },
+        {
+            "name": "ISGEC Heavy Engineering Ltd",
+            "weight": 0.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mishra Dhatu Nigam Ltd Ordinary Shares",
+            "weight": 0.32,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ellenbarrie Industrial Gases Ltd",
+            "weight": 0.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Vikram Solar Ltd",
+            "weight": 0.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Omnitech Engineering Ltd",
+            "weight": 0.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 0.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.08,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

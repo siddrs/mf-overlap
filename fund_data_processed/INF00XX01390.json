@@ -1,0 +1,371 @@
+{
+    "isin": "INF00XX01390",
+    "scheme_name": "ITI ELSS Tax Saver Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 3.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 2.81,
+            "sector": "Other"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 2.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Welspun Corp Ltd",
+            "weight": 2.42,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 2.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 2.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 1.95,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 1.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 1.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 1.84,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 1.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 1.77,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Bikaji Foods International Ltd",
+            "weight": 1.73,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sobha Ltd",
+            "weight": 1.72,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Kirloskar Pneumatic Co Ltd",
+            "weight": 1.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 1.58,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 1.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 1.53,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 1.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Supriya Lifescience Ltd",
+            "weight": 1.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sanghvi Movers Ltd",
+            "weight": 1.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tega Industries Ltd",
+            "weight": 1.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 1.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 1.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Supreme Petrochem Ltd",
+            "weight": 1.28,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "KEC International Ltd",
+            "weight": 1.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Standard Engineering Technology Ltd",
+            "weight": 1.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Housing & Urban Development Corp Ltd",
+            "weight": 1.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Zaggle Prepaid Ocean Services Ltd",
+            "weight": 1.22,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fusion Finance Ltd",
+            "weight": 1.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 1.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 1.18,
+            "sector": "Utilities"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 1.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Usha Martin Ltd",
+            "weight": 1.17,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 1.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IIFL Finance Ltd",
+            "weight": 1.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 1.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Voltamp Transformers Ltd",
+            "weight": 1.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Engineers India Ltd",
+            "weight": 1.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 1.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 1.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jammu & Kashmir Bank Ltd",
+            "weight": 0.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KFin Technologies Ltd",
+            "weight": 0.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "GMM Pfaudler Ltd",
+            "weight": 0.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ITC Hotels Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CSB Bank Ltd Ordinary Shares",
+            "weight": 0.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Lemon Tree Hotels Ltd",
+            "weight": 0.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 0.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shakti Pumps (India) Ltd",
+            "weight": 0.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kaveri Seed Co Ltd",
+            "weight": 0.81,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Elecon Engineering Co Ltd",
+            "weight": 0.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 0.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 0.76,
+            "sector": "Utilities"
+        },
+        {
+            "name": "NBCC India Ltd",
+            "weight": 0.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jubilant Ingrevia Ltd Ordinary Shares",
+            "weight": 0.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Mrs Bectors Food Specialities Ltd Ordinary Shares",
+            "weight": 0.74,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Titagarh Rail Systems Ltd",
+            "weight": 0.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dodla Dairy Ltd",
+            "weight": 0.65,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "CreditAccess Grameen Ltd Ordinary Shares",
+            "weight": 0.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.64,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "P N Gadgil Jewellers Ltd",
+            "weight": 0.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 0.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

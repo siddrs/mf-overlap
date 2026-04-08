@@ -1,0 +1,216 @@
+{
+    "isin": "INF044D01CA9",
+    "scheme_name": "Taurus Mid Cap Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Linde India Ltd",
+            "weight": 5.53,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bank of India",
+            "weight": 4.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 4.6,
+            "sector": "Energy"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 4.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pace Digitek Ltd",
+            "weight": 4.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 4.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 3.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "GMR Airports Ltd",
+            "weight": 3.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.66,
+            "sector": "Other"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 3.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 3.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Deepak Nitrite Ltd",
+            "weight": 3.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Regaal Resources Ltd",
+            "weight": 3.2,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vodafone Idea Ltd",
+            "weight": 3.12,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 3.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.75,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 2.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 2.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 2.48,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Inox Wind Ltd",
+            "weight": 2.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 2.31,
+            "sector": "Technology"
+        },
+        {
+            "name": "Exide Industries Ltd",
+            "weight": 2.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 2.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 2.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 2.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SAMHI Hotels Ltd",
+            "weight": 1.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 1.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.69,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 1.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 1.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 1.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Titagarh Rail Systems Ltd",
+            "weight": 0.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 0.91,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.81,
+            "sector": "Other"
+        },
+        {
+            "name": "Sumitomo Chemical India Ltd Ordinary Shares",
+            "weight": 0.65,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Park Medi World Ltd",
+            "weight": 0.51,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.38,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Chemtech Industrial Valves Ltd",
+            "weight": 0.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ACC Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

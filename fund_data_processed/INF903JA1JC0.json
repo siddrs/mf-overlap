@@ -1,0 +1,196 @@
+{
+    "isin": "INF903JA1JC0",
+    "scheme_name": "Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund)Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 7.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 6.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 5.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.66,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 4.34,
+            "sector": "Energy"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 4.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 3.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 3.07,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 2.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 2.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 2.42,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.32,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.29,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 2.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 1.95,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.74,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 1.22,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 1.13,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 1.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 0.75,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cash And Other Net Current Assets",
+            "weight": 0.28,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

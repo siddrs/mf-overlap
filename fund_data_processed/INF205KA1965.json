@@ -1,0 +1,146 @@
+{
+    "isin": "INF205KA1965",
+    "scheme_name": "Invesco India Technology Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Infosys Ltd",
+            "weight": 10.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 7.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.71,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 6.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 5.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 5.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 4.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 4.26,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hitachi Energy India Ltd Ordinary Shares",
+            "weight": 4.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 4.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 3.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 3.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 3.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indegene Ltd",
+            "weight": 2.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 2.9,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 2.3,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 2.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 2.1,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 1.75,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 1.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 1.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 1.56,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 1.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 0.85,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.35,
+            "sector": "Other"
+        }
+    ]
+}

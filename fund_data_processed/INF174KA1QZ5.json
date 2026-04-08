@@ -1,0 +1,146 @@
+{
+    "isin": "INF174KA1QZ5",
+    "scheme_name": "Kotak Technology Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Infosys Ltd",
+            "weight": 19.94,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 16.38,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 7.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 6.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 4.16,
+            "sector": "Other"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 3.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 3.5,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 3.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 3.35,
+            "sector": "Technology"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 3.22,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 2.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 1.66,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 1.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 1.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 1.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Birlasoft Ltd",
+            "weight": 1.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 0.98,
+            "sector": "Technology"
+        },
+        {
+            "name": "Capillary Technologies India Ltd",
+            "weight": 0.93,
+            "sector": "Technology"
+        },
+        {
+            "name": "Zensar Technologies Ltd",
+            "weight": 0.56,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 0.11,
+            "sector": "Technology"
+        }
+    ]
+}

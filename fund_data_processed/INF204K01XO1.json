@@ -1,0 +1,201 @@
+{
+    "isin": "INF204K01XO1",
+    "scheme_name": "Nippon India Banking & Financial Services Fund - Direct Plan Growth Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 14.24,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 13.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 9.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 6.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 3.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 3.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 2.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 2.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 2.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 2.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 2.22,
+            "sector": "Other"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 2.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Equitas Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 1.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 1.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "KFin Technologies Ltd",
+            "weight": 1.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "UTI Asset Management Co Ltd",
+            "weight": 1.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aye Finance Ltd",
+            "weight": 1.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 1.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 1.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 1.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 1.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 0.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 0.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 0.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sundaram Finance Ltd",
+            "weight": 0.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 0.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Seshaasai Technologies Ltd",
+            "weight": 0.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

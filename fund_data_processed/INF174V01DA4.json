@@ -1,0 +1,216 @@
+{
+    "isin": "INF174V01DA4",
+    "scheme_name": "Mahindra Manulife Innovation Opportunities Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Triparty Repo",
+            "weight": 6.81,
+            "sector": "Other"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 3.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 3.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 3.1,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 2.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.66,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 2.48,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 2.47,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 2.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.45,
+            "sector": "Energy"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 2.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 2.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 2.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 2.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 2.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Belrise Industries Ltd",
+            "weight": 2.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 2.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 1.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 1.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vodafone Idea Ltd",
+            "weight": 1.83,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 1.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 1.77,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "AIA Engineering Ltd",
+            "weight": 1.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 1.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 1.68,
+            "sector": "Utilities"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 1.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 1.36,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 1.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.28,
+            "sector": "Technology"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 1.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 1.04,
+            "sector": "Financial Services"
+        }
+    ]
+}

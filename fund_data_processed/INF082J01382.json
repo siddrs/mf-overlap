@@ -1,0 +1,281 @@
+{
+    "isin": "INF082J01382",
+    "scheme_name": "QUANTUM ESG BEST IN CLASS STRATEGY FUND - DIRECT PLAN - GROWTH OPTION",
+    "holdings": [
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 5.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 3.62,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 3.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 3.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 2.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 2.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 2.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 2.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 2.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 1.98,
+            "sector": "Technology"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 1.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Castrol India Ltd",
+            "weight": 1.94,
+            "sector": "Energy"
+        },
+        {
+            "name": "VA Tech Wabag Ltd",
+            "weight": 1.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 1.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hitachi Energy India Ltd Ordinary Shares",
+            "weight": 1.88,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 1.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 1.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 1.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LT Foods Ltd",
+            "weight": 1.66,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ion Exchange (India) Ltd",
+            "weight": 1.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 1.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rallis India Ltd",
+            "weight": 1.56,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.55,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 1.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 1.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 1.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 1.19,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "EPL Ltd Ordinary Shares",
+            "weight": 1.16,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps ^",
+            "weight": 1.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Vinati Organics Ltd",
+            "weight": 1.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivable/(Payable)",
+            "weight": 1.08,
+            "sector": "Other"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Chemicals Ltd",
+            "weight": 1.01,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nuvoco Vista Corp Ltd",
+            "weight": 0.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 0.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Symphony Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 0.9,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 0.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 0.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 0.65,
+            "sector": "Technology"
+        }
+    ]
+}

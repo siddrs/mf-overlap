@@ -1,0 +1,176 @@
+{
+    "isin": "INF200KB1506",
+    "scheme_name": "SBI Quant Fund- Direct Plan- Growth",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 7.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 6.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 5.73,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 5.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 5.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 5.45,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 5.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 5.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 5.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 5.06,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 4.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Punjab National Bank",
+            "weight": 3.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 3.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 2.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 2.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 2.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 2.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 2.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.43,
+            "sector": "Other"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 2.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 2.17,
+            "sector": "Energy"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 2.11,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 1.69,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 1.62,
+            "sector": "Technology"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 1.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 0.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 0.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 0.7,
+            "sector": "Energy"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Bank of India",
+            "weight": 0.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

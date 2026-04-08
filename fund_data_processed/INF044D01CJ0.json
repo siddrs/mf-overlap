@@ -1,0 +1,286 @@
+{
+    "isin": "INF044D01CJ0",
+    "scheme_name": "Taurus Ethical Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 6.78,
+            "sector": "Energy"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 6.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 5.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 5.07,
+            "sector": "Technology"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 3.26,
+            "sector": "Energy"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 2.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Linde India Ltd",
+            "weight": 2.91,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 2.8,
+            "sector": "Technology"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 2.8,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.68,
+            "sector": "Energy"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 2.54,
+            "sector": "Energy"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.44,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 2.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 2.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 2.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 2.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "Voltamp Transformers Ltd",
+            "weight": 2.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 2.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ACC Ltd",
+            "weight": 1.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 1.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 1.79,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 1.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 1.62,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 1.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 1.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 1.43,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Castrol India Ltd",
+            "weight": 1.39,
+            "sector": "Energy"
+        },
+        {
+            "name": "Eveready Industries India Ltd",
+            "weight": 1.35,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Time Technoplast Ltd",
+            "weight": 1.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahanagar Gas Ltd",
+            "weight": 1.17,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.08,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 1.01,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 0.82,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cera Sanitaryware Ltd",
+            "weight": 0.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 0.72,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 0.67,
+            "sector": "Technology"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 0.65,
+            "sector": "Technology"
+        },
+        {
+            "name": "Inox Wind Ltd",
+            "weight": 0.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "IndiaMART InterMESH Ltd",
+            "weight": 0.57,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Alembic Pharmaceuticals Ltd",
+            "weight": 0.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Rashtriya Chemicals & Fertilizers Ltd",
+            "weight": 0.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Technologies Ltd",
+            "weight": 0.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Symphony Ltd",
+            "weight": 0.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sobha Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Engineers India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

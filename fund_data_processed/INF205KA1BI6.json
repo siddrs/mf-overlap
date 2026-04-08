@@ -1,0 +1,191 @@
+{
+    "isin": "INF205KA1BI6",
+    "scheme_name": "Invesco India Consumption Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 4.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.96,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 3.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 3.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 3.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 3.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 3.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 3.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 3.22,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 3.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 3.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 3.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 2.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 2.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 2.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "DOMS Industries Ltd",
+            "weight": 2.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CCL Products (India) Ltd",
+            "weight": 2.67,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 2.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Prestige Estates Projects Ltd",
+            "weight": 2.35,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 2.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 2.27,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Godfrey Phillips India Ltd",
+            "weight": 2.27,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 2.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Go Digit General Insurance Ltd",
+            "weight": 2.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 2.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 1.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.88,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 1.69,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Bansal Wire Industries Ltd",
+            "weight": 1.69,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.44,
+            "sector": "Other"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 1.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.07,
+            "sector": "Other"
+        }
+    ]
+}

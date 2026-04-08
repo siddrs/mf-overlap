@@ -1,0 +1,301 @@
+{
+    "isin": "INF336L01QZ9",
+    "scheme_name": "HSBC Consumption Fund - Direct Growth",
+    "holdings": [
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 7.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.96,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 4.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.55,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 4.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 3.43,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.4,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 3.05,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 3.04,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 2.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.65,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 2.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.45,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.95,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kalyan Jewellers India Ltd",
+            "weight": 1.85,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bikaji Foods International Ltd",
+            "weight": 1.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Lemon Tree Hotels Ltd",
+            "weight": 1.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CCL Products (India) Ltd",
+            "weight": 1.75,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 1.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sobha Ltd",
+            "weight": 1.55,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 1.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Globus Spirits Ltd",
+            "weight": 1.46,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 1.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Devyani International Ltd",
+            "weight": 1.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Thangamayil Jewellery Ltd",
+            "weight": 1.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wakefit Innovations Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 1.03,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 0.87,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Foods Ltd",
+            "weight": 0.86,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 0.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 0.7,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Electronics Mart India Ltd",
+            "weight": 0.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Entero Healthcare Solutions Ltd",
+            "weight": 0.62,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Motilal Oswal Financial Services Ltd",
+            "weight": 0.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kajaria Ceramics Ltd",
+            "weight": 0.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 0.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mold-tek Packaging Ltd",
+            "weight": 0.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Awfis Space Solutions Ltd",
+            "weight": 0.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 0.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Redtape Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 0.4,
+            "sector": "Technology"
+        },
+        {
+            "name": "Gopal Snacks Ltd",
+            "weight": 0.33,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vedant Fashions Ltd",
+            "weight": 0.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Current Assets (Including Cash & Bank Balances)",
+            "weight": 0.27,
+            "sector": "Other"
+        },
+        {
+            "name": "Canara Robeco Asset Management Co Ltd",
+            "weight": 0.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

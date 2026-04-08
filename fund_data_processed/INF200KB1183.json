@@ -1,0 +1,176 @@
+{
+    "isin": "INF200KB1183",
+    "scheme_name": "SBI Automotive Opportunities Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 14.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 8.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 5.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 5.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 4.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 4.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 4.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 4.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 3.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 3.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Happy Forgings Ltd",
+            "weight": 3.75,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 3.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 3.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UNO Minda Ltd",
+            "weight": 3.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 2.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 2.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 2.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 2.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.27,
+            "sector": "Other"
+        },
+        {
+            "name": "Belrise Industries Ltd",
+            "weight": 2.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Minda Corp Ltd",
+            "weight": 1.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 1.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kingfa Science and Technology (India) Ltd",
+            "weight": 1.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Asahi India Glass Ltd",
+            "weight": 1.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 1.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ASK Automotive Ltd",
+            "weight": 1.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 0.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Alicon Castalloy Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sundaram Clayton Ltd",
+            "weight": 0.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Rolex Rings Ltd",
+            "weight": 0.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.36,
+            "sector": "Other"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.08,
+            "sector": "Other"
+        }
+    ]
+}

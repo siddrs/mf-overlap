@@ -1,0 +1,176 @@
+{
+    "isin": "INF200K01SB6",
+    "scheme_name": "SBI COMMA Fund - DIRECT PLAN - Growth",
+    "holdings": [
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 9.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 7.08,
+            "sector": "Energy"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.06,
+            "sector": "Energy"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 4.85,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.58,
+            "sector": "Other"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 4.31,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Steel Authority Of India Ltd",
+            "weight": 3.9,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 3.8,
+            "sector": "Energy"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 3.8,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 3.38,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "CESC Ltd",
+            "weight": 3.28,
+            "sector": "Utilities"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 3.05,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 2.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 2.81,
+            "sector": "Energy"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 2.8,
+            "sector": "Energy"
+        },
+        {
+            "name": "JSW Cement Ltd",
+            "weight": 2.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 2.78,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Arvind Ltd",
+            "weight": 2.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.63,
+            "sector": "Energy"
+        },
+        {
+            "name": "Jindal Stainless Ltd",
+            "weight": 2.46,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Neogen Chemicals Ltd",
+            "weight": 2.23,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 2.17,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Balrampur Chini Mills Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 2.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 2.04,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Nuvoco Vista Corp Ltd",
+            "weight": 1.97,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Shyam Metalics and Energy Ltd",
+            "weight": 1.96,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 1.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 1.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 1.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "CCL Products (India) Ltd",
+            "weight": 1.37,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sagar Cements Ltd",
+            "weight": 0.71,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.29,
+            "sector": "Other"
+        }
+    ]
+}

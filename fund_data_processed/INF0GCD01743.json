@@ -1,0 +1,381 @@
+{
+    "isin": "INF0GCD01743",
+    "scheme_name": "TRUSTMF Flexi Cap Fund-Direct Plan- Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 10.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 9.24,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 8.11,
+            "sector": "Energy"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 7.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 6.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 6.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.94,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 5.87,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 5.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 4.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.64,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 4.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 4.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 4.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 4.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 4.16,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 4.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 3.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 3.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 3.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Micro Systems Ltd Ordinary Shares",
+            "weight": 3.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 3.0,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 2.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sharda Cropchem Ltd",
+            "weight": 2.67,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 2.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.5,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Blackbuck Ltd",
+            "weight": 2.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 2.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 2.15,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 2.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 2.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 1.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Neuland Laboratories Ltd",
+            "weight": 1.91,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 1.67,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Belrise Industries Ltd",
+            "weight": 1.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 1.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.28,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 1.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 1.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Garuda Construction and Engineering Ltd",
+            "weight": 1.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shaily Engineering Plastics Ltd",
+            "weight": 1.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Apar Industries Ltd",
+            "weight": 1.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 0.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 0.85,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 0.8,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Veranda Learning Solutions Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 0.55,
+            "sector": "Technology"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 0.54,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Clean Max Enviro Energy Solutions Ltd",
+            "weight": 0.54,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Welspun Living Ltd",
+            "weight": 0.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 0.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 0.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 0.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gokaldas Exports Ltd",
+            "weight": 0.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Pearl Global Industries Ltd",
+            "weight": 0.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Eureka Forbes Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "CarTrade Tech Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

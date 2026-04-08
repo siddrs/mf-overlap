@@ -1,0 +1,231 @@
+{
+    "isin": "INF0K1H01180",
+    "scheme_name": "Samco Special Opportunities Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Religare Enterprises Ltd",
+            "weight": 8.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Force Motors Ltd",
+            "weight": 3.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 3.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 2.99,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 2.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 2.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.88,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 2.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 2.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 2.78,
+            "sector": "Energy"
+        },
+        {
+            "name": "PTC Industries Ltd",
+            "weight": 2.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 2.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 2.69,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.55,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maharashtra Scooters Ltd",
+            "weight": 2.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 2.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 2.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 2.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.5,
+            "sector": "Energy"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Metropolis Healthcare Ltd",
+            "weight": 2.45,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Thyrocare Technologies Ltd",
+            "weight": 2.4,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 2.39,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gujarat Mineral Development Corp Ltd",
+            "weight": 2.35,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 2.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Subros Ltd",
+            "weight": 2.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jindal Stainless Ltd",
+            "weight": 2.28,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HBL Engineering Ltd",
+            "weight": 2.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 2.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dr. Lal PathLabs Ltd",
+            "weight": 2.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "MOIL Ltd",
+            "weight": 2.06,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 0.39,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.23,
+            "sector": "Other"
+        },
+        {
+            "name": "Aditya Birla Sun Life AMC Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "RailTel Corporation of India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

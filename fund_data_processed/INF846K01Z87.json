@@ -1,0 +1,231 @@
+{
+    "isin": "INF846K01Z87",
+    "scheme_name": "Axis Quant Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 6.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.47,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 5.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 4.09,
+            "sector": "Energy"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 4.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 3.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 3.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 3.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.35,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 3.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 3.26,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 3.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 3.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 3.05,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.66,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 2.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 2.61,
+            "sector": "Energy"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 2.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.53,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 2.42,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 2.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 1.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 1.67,
+            "sector": "Energy"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 1.18,
+            "sector": "Energy"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 0.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 0.71,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 0.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "UPL Ltd",
+            "weight": 0.5,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.2,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 0.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

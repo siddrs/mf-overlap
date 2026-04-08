@@ -1,0 +1,156 @@
+{
+    "isin": "INF740K01QA7",
+    "scheme_name": "DSP Natural Resources and New Energy Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Treps / Reverse Repo Investments",
+            "weight": 12.79,
+            "sector": "Other"
+        },
+        {
+            "name": "BGF World Energy I2",
+            "weight": 10.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 9.45,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 9.4,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 8.3,
+            "sector": "Energy"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 5.63,
+            "sector": "Energy"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 4.38,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 4.12,
+            "sector": "Energy"
+        },
+        {
+            "name": "BGF Sustainable Energy I2",
+            "weight": 4.1,
+            "sector": "Other"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 3.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 3.32,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 3.19,
+            "sector": "Energy"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 3.04,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 2.89,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 2.82,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindustan Zinc Ltd",
+            "weight": 2.75,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.51,
+            "sector": "Energy"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 1.67,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Godawari Power & Ispat Ltd",
+            "weight": 1.46,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 1.27,
+            "sector": "Energy"
+        },
+        {
+            "name": "Net Receivables/Payables",
+            "weight": 1.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 1.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Oil India Limited Mar26",
+            "weight": 1.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 0.81,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cash Margin",
+            "weight": 0.75,
+            "sector": "Other"
+        },
+        {
+            "name": "Mahanagar Gas Ltd",
+            "weight": 0.69,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Welspun Corp Ltd",
+            "weight": 0.62,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Jindal Saw Ltd",
+            "weight": 0.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ratnamani Metals & Tubes Ltd",
+            "weight": 0.44,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "IRM Energy Ltd",
+            "weight": 0.2,
+            "sector": "Utilities"
+        }
+    ]
+}

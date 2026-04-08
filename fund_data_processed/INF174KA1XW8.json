@@ -1,0 +1,246 @@
+{
+    "isin": "INF174KA1XW8",
+    "scheme_name": "Kotak Rural Opportunities Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 9.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 8.45,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 7.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 4.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Avanti Feeds Ltd",
+            "weight": 4.36,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Emami Ltd",
+            "weight": 3.69,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 3.52,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "MRF Ltd",
+            "weight": 2.85,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "VST Tillers Tractors Ltd",
+            "weight": 2.85,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 2.79,
+            "sector": "Utilities"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 2.71,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 2.3,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 2.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Dalmia Bharat Ltd",
+            "weight": 1.96,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 1.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 1.64,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.6,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 1.53,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Happy Forgings Ltd",
+            "weight": 1.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 1.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 1.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "India Shelter Finance Corporation Ltd",
+            "weight": 0.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 0.85,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 0.71,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 0.67,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 0.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sun TV Network Ltd",
+            "weight": 0.52,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Godrej Agrovet Ltd Ordinary Shares",
+            "weight": 0.52,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mayur Uniquoters Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jubilant Ingrevia Ltd Ordinary Shares",
+            "weight": 0.39,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kross Ltd",
+            "weight": 0.38,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 0.24,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Poonawalla Fincorp Ltd",
+            "weight": 0.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.16,
+            "sector": "Other"
+        }
+    ]
+}

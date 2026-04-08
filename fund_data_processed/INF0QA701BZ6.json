@@ -1,0 +1,186 @@
+{
+    "isin": "INF0QA701BZ6",
+    "scheme_name": "Bajaj Finserv Banking and Financial Services Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 16.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 12.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 9.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 8.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 6.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 4.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 3.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Go Digit General Insurance Ltd",
+            "weight": 2.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 2.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 2.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Niva Bupa Health Insurance Co Ltd",
+            "weight": 1.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 1.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 1.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 1.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICRA Ltd",
+            "weight": 1.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 1.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 1.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 1.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Money Market Dir Gr",
+            "weight": 1.23,
+            "sector": "Other"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 1.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CreditAccess Grameen Ltd Ordinary Shares",
+            "weight": 0.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 0.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.87,
+            "sector": "Other"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 0.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Medi Assist Healthcare Services Ltd",
+            "weight": 0.64,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 0.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 0.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 0.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Aditya Birla Sun Life AMC Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

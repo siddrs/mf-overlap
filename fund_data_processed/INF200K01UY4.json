@@ -1,0 +1,136 @@
+{
+    "isin": "INF200K01UY4",
+    "scheme_name": "SBI PSU Fund - DIRECT PLAN - GROWTH",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 18.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 9.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 9.1,
+            "sector": "Utilities"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 9.05,
+            "sector": "Utilities"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 9.01,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 5.71,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 5.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 4.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 3.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 3.48,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 2.85,
+            "sector": "Energy"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 2.71,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 2.54,
+            "sector": "Energy"
+        },
+        {
+            "name": "General Insurance Corp of India",
+            "weight": 2.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 2.03,
+            "sector": "Energy"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 1.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 1.62,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Canara Robeco Asset Management Co Ltd",
+            "weight": 1.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 1.31,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 1.23,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 1.23,
+            "sector": "Energy"
+        },
+        {
+            "name": "Engineers India Ltd",
+            "weight": 1.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 0.75,
+            "sector": "Utilities"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

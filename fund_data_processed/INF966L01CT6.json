@@ -1,0 +1,131 @@
+{
+    "isin": "INF966L01CT6",
+    "scheme_name": "quant Teck Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 22.58,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 19.59,
+            "sector": "Other"
+        },
+        {
+            "name": "Black Box Ltd",
+            "weight": 12.25,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 9.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Intellect Design Arena Ltd",
+            "weight": 9.22,
+            "sector": "Technology"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 7.87,
+            "sector": "Energy"
+        },
+        {
+            "name": "Newgen Software Technologies Ltd",
+            "weight": 7.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Digitide Solutions Ltd",
+            "weight": 7.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Future on PB Fintech Ltd",
+            "weight": 7.23,
+            "sector": "Other"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 6.01,
+            "sector": "Technology"
+        },
+        {
+            "name": "Future on One97 Communications Ltd",
+            "weight": 5.94,
+            "sector": "Other"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 4.76,
+            "sector": "Other"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 4.68,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Elxsi Ltd",
+            "weight": 4.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 4.25,
+            "sector": "Other"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 4.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tbill",
+            "weight": 3.95,
+            "sector": "Other"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 3.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "isin": "INF179KC1JO7",
+    "scheme_name": "HDFC INNOVATION FUND - DIRECT PLAN - GROWTH OPTION",
+    "holdings": [
+        {
+            "name": "Eternal Ltd",
+            "weight": 8.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 5.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps - Tri-Party Repo",
+            "weight": 4.41,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 4.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 4.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 4.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.42,
+            "sector": "Energy"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 2.83,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 2.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 2.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 2.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 2.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 2.35,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 2.15,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 2.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 2.02,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 1.75,
+            "sector": "Technology"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 1.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 1.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.58,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 1.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 1.49,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 1.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 1.3,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 1.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Thyrocare Technologies Ltd",
+            "weight": 1.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 1.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 0.98,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 0.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Saatvik Green Energy Ltd",
+            "weight": 0.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 0.75,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.75,
+            "sector": "Technology"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 0.74,
+            "sector": "Technology"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 0.73,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 0.73,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.68,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 0.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kaynes Technology India Ltd",
+            "weight": 0.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Sonata Software Ltd",
+            "weight": 0.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 0.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 0.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 0.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 0.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 0.29,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Atlanta Electricals Ltd",
+            "weight": 0.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.24,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Dhanuka Agritech Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "PI Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "isin": "INF754K01TY2",
+    "scheme_name": "Edelweiss Consumption Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 8.23,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 5.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 5.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.11,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 4.52,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 3.93,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 3.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 2.91,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 2.79,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 2.53,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.27,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 2.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.86,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 1.86,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 1.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 1.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 1.73,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Century Plyboards (India) Ltd",
+            "weight": 1.73,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.71,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 1.6,
+            "sector": "Other"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 1.48,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 1.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 1.39,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 1.39,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 1.32,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 1.29,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 1.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 0.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bikaji Foods International Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 0.96,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 0.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 0.95,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 0.92,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 0.89,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "KEI Industries Ltd",
+            "weight": 0.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 0.69,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Devyani International Ltd",
+            "weight": 0.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.16,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Receivables/(Payables)",
+            "weight": 0.11,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.04,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Accrued Interest",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

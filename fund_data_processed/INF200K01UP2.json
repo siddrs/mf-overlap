@@ -1,0 +1,191 @@
+{
+    "isin": "INF200K01UP2",
+    "scheme_name": "SBI HEALTHCARE OPPORTUNITIES FUND - DIRECT PLAN -GROWTH",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 10.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 7.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 5.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 4.82,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 4.77,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 4.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 4.23,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 3.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 3.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 3.48,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aether Industries Ltd",
+            "weight": 3.29,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 3.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Lonza Group Ltd ADR",
+            "weight": 3.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 2.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 2.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 2.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 2.77,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 2.68,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 2.68,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Concord Biotech Ltd",
+            "weight": 2.16,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 2.13,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Poly Medicure Ltd",
+            "weight": 1.97,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 1.96,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 1.95,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ajanta Pharma Ltd",
+            "weight": 1.84,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Nephrocare Health Services Ltd",
+            "weight": 1.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 0.91,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 0.83,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gufic Biosciences Ltd",
+            "weight": 0.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Medplus Health Services Ltd",
+            "weight": 0.62,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 0.62,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 0.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 0.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.25,
+            "sector": "Other"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

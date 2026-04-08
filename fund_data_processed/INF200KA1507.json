@@ -1,0 +1,206 @@
+{
+    "isin": "INF200KA1507",
+    "scheme_name": "SBI BANKING & FINANCIAL SERVICES FUND - DIRECT PLAN - GROWTH",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 13.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 10.45,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 9.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 8.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 6.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 6.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 4.3,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 3.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 3.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 3.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 2.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 2.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 2.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of India",
+            "weight": 1.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 1.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 1.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 1.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 1.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 1.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 1.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 1.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 1.03,
+            "sector": "Other"
+        },
+        {
+            "name": "CARE Ratings Ltd",
+            "weight": 0.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 0.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICRA Ltd",
+            "weight": 0.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The South Indian Bank Ltd",
+            "weight": 0.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 0.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 0.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Niva Bupa Health Insurance Co Ltd",
+            "weight": 0.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 0.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 0.48,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 0.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CRISIL Ltd",
+            "weight": 0.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.04,
+            "sector": "Other"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

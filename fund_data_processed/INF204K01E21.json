@@ -1,0 +1,521 @@
+{
+    "isin": "INF204K01E21",
+    "scheme_name": "Nippon India Growth Mid Cap Fund - Direct Plan Growth Plan - Bonus Option",
+    "holdings": [
+        {
+            "name": "BSE Ltd",
+            "weight": 3.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 2.9,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Voltas Ltd",
+            "weight": 2.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 2.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 2.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 2.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 2.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 1.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.86,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 1.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.77,
+            "sector": "Technology"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 1.68,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tube Investments of India Ltd Ordinary Shares",
+            "weight": 1.57,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 1.54,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "NTPC Green Energy Ltd",
+            "weight": 1.5,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 1.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 1.47,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 1.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.37,
+            "sector": "Technology"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 1.34,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.29,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 1.25,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Sundaram Finance Ltd",
+            "weight": 1.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 1.22,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Prestige Estates Projects Ltd",
+            "weight": 1.18,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 1.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 1.16,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 1.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Supreme Industries Ltd",
+            "weight": 1.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 1.08,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.08,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Union Bank of India",
+            "weight": 1.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 1.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 0.95,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 0.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Financial Services Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 0.86,
+            "sector": "Energy"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 0.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dalmia Bharat Ltd",
+            "weight": 0.82,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 0.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 0.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 0.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 0.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 0.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mankind Pharma Ltd",
+            "weight": 0.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 0.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 0.75,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 0.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 0.71,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 0.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 0.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 0.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Coromandel International Ltd",
+            "weight": 0.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 0.6,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 0.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bank of India",
+            "weight": 0.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 0.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "ITC Hotels Ltd",
+            "weight": 0.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Devyani International Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 0.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 0.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 0.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 0.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gujarat Fluorochemicals Ltd Ordinary Shares",
+            "weight": 0.48,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.47,
+            "sector": "Technology"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 0.42,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 0.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 0.39,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sanofi Consumer Healthcare India Ltd",
+            "weight": 0.36,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 0.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bata India Ltd",
+            "weight": 0.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 0.33,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 0.32,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 0.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 0.27,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Apar Industries Ltd",
+            "weight": 0.22,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Restaurant Brands Asia Ltd Ordinary Shares",
+            "weight": 0.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 0.21,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Deepak Nitrite Ltd",
+            "weight": 0.21,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sanofi India Ltd",
+            "weight": 0.2,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 0.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Globsyn Technologies Limited**",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

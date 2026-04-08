@@ -1,0 +1,271 @@
+{
+    "isin": "INF090I01IN1",
+    "scheme_name": "Franklin India Large & Mid Cap Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.55,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 4.51,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 4.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 3.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 2.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 2.85,
+            "sector": "Technology"
+        },
+        {
+            "name": "Call, Cash & Other Assets",
+            "weight": 2.82,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 2.34,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 2.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.18,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 2.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 2.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.11,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 2.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.99,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Sagility Ltd",
+            "weight": 1.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 1.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Godrej Agrovet Ltd Ordinary Shares",
+            "weight": 1.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Canara HSBC Life Insurance Co Ltd",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 1.95,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 1.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 1.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.81,
+            "sector": "Technology"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 1.81,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 1.78,
+            "sector": "Technology"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 1.75,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.68,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 1.63,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Endurance Technologies Ltd",
+            "weight": 1.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 1.58,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 1.57,
+            "sector": "Technology"
+        },
+        {
+            "name": "Clean Max Enviro Energy Solutions Ltd",
+            "weight": 1.44,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 1.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 1.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 0.99,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "India Shelter Finance Corporation Ltd",
+            "weight": 0.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jubilant Ingrevia Ltd Ordinary Shares",
+            "weight": 0.84,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 0.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 0.66,
+            "sector": "Technology"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 0.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 0.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Thermax Ltd",
+            "weight": 0.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "JSW Infrastructure Ltd",
+            "weight": 0.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Canara Robeco Asset Management Co Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "APL Apollo Tubes Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

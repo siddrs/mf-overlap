@@ -1,0 +1,176 @@
+{
+    "isin": "INF903J01NH5",
+    "scheme_name": "Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth)",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 9.48,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 9.37,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 7.17,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 6.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 6.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 4.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 4.34,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 3.82,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 3.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.37,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 3.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Holdings and Investment Ltd",
+            "weight": 3.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 2.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kalyan Jewellers India Ltd",
+            "weight": 2.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.63,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 2.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 2.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jyothy Labs Ltd",
+            "weight": 1.89,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 1.67,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.53,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.53,
+            "sector": "Other"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.53,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 1.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Devyani International Ltd",
+            "weight": 1.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Go Fashion (India) Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Electronics Mart India Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Breweries Ltd",
+            "weight": 0.62,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 0.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash And Other Net Current Assets",
+            "weight": 0.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

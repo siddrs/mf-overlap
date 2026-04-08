@@ -1,0 +1,231 @@
+{
+    "isin": "INF174KA1TG9",
+    "scheme_name": "Kotak MNC Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 8.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 6.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 5.53,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 5.37,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 4.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 4.09,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 3.98,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 3.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "J.B. Chemicals & Pharmaceuticals Ltd",
+            "weight": 3.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 3.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.86,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Azad Engineering Ltd",
+            "weight": 2.85,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 2.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 2.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 2.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 2.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 2.07,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 2.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.01,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 1.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Marksans Pharma Ltd",
+            "weight": 1.73,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ABB India Ltd",
+            "weight": 1.56,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jubilant Pharmova Ltd",
+            "weight": 1.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 1.51,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Midwest Ltd",
+            "weight": 1.48,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tega Industries Ltd",
+            "weight": 1.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.35,
+            "sector": "Technology"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 1.32,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 1.17,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 1.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Garware Technical Fibres Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 1.05,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 0.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 0.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Orchid Pharma Ltd",
+            "weight": 0.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Tata Chemicals Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

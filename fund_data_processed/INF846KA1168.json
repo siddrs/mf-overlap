@@ -1,0 +1,206 @@
+{
+    "isin": "INF846KA1168",
+    "scheme_name": "Axis Services Opportunities Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 9.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 7.14,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 4.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 4.37,
+            "sector": "Other"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 4.09,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 3.86,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 3.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 3.41,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 3.38,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Krishna Institute of Medical Sciences Ltd",
+            "weight": 3.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 3.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 3.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 2.94,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 2.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 2.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Go Digit General Insurance Ltd",
+            "weight": 2.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 1.76,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.72,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 1.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.21,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.05,
+            "sector": "Technology"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.66,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 0.65,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 0.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "Niva Bupa Health Insurance Co Ltd",
+            "weight": 0.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Capillary Technologies India Ltd",
+            "weight": 0.53,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wakefit Innovations Ltd",
+            "weight": 0.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HealthCare Global Enterprises Ltd",
+            "weight": 0.28,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.25,
+            "sector": "Other"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 0.13,
+            "sector": "Communication Services"
+        }
+    ]
+}

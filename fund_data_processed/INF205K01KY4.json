@@ -1,0 +1,161 @@
+{
+    "isin": "INF205K01KY4",
+    "scheme_name": "Invesco India Financial Services Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 15.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 13.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 6.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 6.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 5.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 4.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 4.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 3.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 2.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 2.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 2.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 2.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 2.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 2.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 2.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 2.15,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nuvama Wealth Management Ltd",
+            "weight": 2.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.63,
+            "sector": "Other"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 1.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 1.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.39,
+            "sector": "Technology"
+        },
+        {
+            "name": "Equitas Small Finance Bank Ltd Ordinary Shares",
+            "weight": 1.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 1.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 1.24,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 1.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 0.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Medi Assist Healthcare Services Ltd",
+            "weight": 0.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.6,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "isin": "INF109KC12I5",
+    "scheme_name": "ICICI Prudential PSU Equity Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Treps",
+            "weight": 8.46,
+            "sector": "Other"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 8.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 7.48,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 5.67,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 4.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 4.31,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 4.31,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 3.98,
+            "sector": "Energy"
+        },
+        {
+            "name": "Indian Oil Corp Ltd",
+            "weight": 3.79,
+            "sector": "Energy"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 3.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 3.21,
+            "sector": "Industrials"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 3.06,
+            "sector": "Utilities"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 2.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 2.97,
+            "sector": "Energy"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 2.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 2.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash Margin - Derivatives",
+            "weight": 2.4,
+            "sector": "Other"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 2.34,
+            "sector": "Energy"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 2.25,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 2.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 1.92,
+            "sector": "Energy"
+        },
+        {
+            "name": "General Insurance Corp of India",
+            "weight": 1.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Gujarat Gas Ltd",
+            "weight": 1.79,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Sbi Cards And Payment Services Ltd.",
+            "weight": 1.59,
+            "sector": "Other"
+        },
+        {
+            "name": "NLC India Ltd",
+            "weight": 1.33,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Engineers India Ltd",
+            "weight": 1.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Data Patterns (India) Ltd",
+            "weight": 1.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Heavy Electricals Ltd",
+            "weight": 1.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 1.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.98,
+            "sector": "Other"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 0.94,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 0.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gujarat Alkalies & Chemicals Ltd",
+            "weight": 0.74,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tamil Nadu Newsprint & Papers Ltd",
+            "weight": 0.72,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Astra Microwave Products Ltd",
+            "weight": 0.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 0.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NMDC Steel Ltd",
+            "weight": 0.51,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd",
+            "weight": 0.48,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.45,
+            "sector": "Other"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 0.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mangalore Refinery and Petrochemicals Ltd",
+            "weight": 0.36,
+            "sector": "Energy"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd.",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Gujarat State Petronet Ltd",
+            "weight": 0.29,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Life Insurance Corporation Of India.",
+            "weight": 0.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 0.17,
+            "sector": "Energy"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Financial Services"
+        }
+    ]
+}

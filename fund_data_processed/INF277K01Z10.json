@@ -1,0 +1,166 @@
+{
+    "isin": "INF277K01Z10",
+    "scheme_name": "Tata Banking And Financial Services Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 16.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 13.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 10.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 9.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 4.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 3.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 3.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara HSBC Life Insurance Co Ltd",
+            "weight": 2.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 2.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 2.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 2.26,
+            "sector": "Technology"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 2.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Motilal Oswal Financial Services Ltd",
+            "weight": 2.03,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 1.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 1.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DCB Bank Ltd",
+            "weight": 1.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 1.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 1.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Five-Star Business Finance Ltd",
+            "weight": 1.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 1.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash / Net Current Asset",
+            "weight": 1.13,
+            "sector": "Other"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 1.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IDFC First Bank Ltd",
+            "weight": 0.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Repco Home Finance Ltd",
+            "weight": 0.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "A) Repo",
+            "weight": 0.53,
+            "sector": "Other"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

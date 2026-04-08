@@ -1,0 +1,146 @@
+{
+    "isin": "INF966L01BX0",
+    "scheme_name": "quant BFSI Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Nse Bank Nifty",
+            "weight": 18.2,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 10.91,
+            "sector": "Other"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 9.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 9.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 9.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Piramal Finance Ltd",
+            "weight": 9.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 8.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Capri Global Capital Ltd",
+            "weight": 8.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LIC Housing Finance Ltd",
+            "weight": 6.3,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 5.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 5.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tbill",
+            "weight": 5.14,
+            "sector": "Other"
+        },
+        {
+            "name": "Hdfc Life Insurance Co Ltd",
+            "weight": 4.87,
+            "sector": "Other"
+        },
+        {
+            "name": "Icici Prudential Life Insurance Co Ltd",
+            "weight": 4.83,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 4.29,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 4.05,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 3.61,
+            "sector": "Energy"
+        },
+        {
+            "name": "Kotak Mahindra Bank Limited",
+            "weight": 2.88,
+            "sector": "Other"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 2.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 1.83,
+            "sector": "Other"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.65,
+            "sector": "Other"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.65,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 0.04,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "12/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

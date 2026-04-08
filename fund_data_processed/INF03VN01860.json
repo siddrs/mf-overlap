@@ -1,0 +1,281 @@
+{
+    "isin": "INF03VN01860",
+    "scheme_name": "WhiteOak Capital Banking & Financial Services Fund - Direct Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 12.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 10.98,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 8.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 6.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 6.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 5.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 4.79,
+            "sector": "Other"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 4.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 4.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 4.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank Of India",
+            "weight": 3.73,
+            "sector": "Other"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Capital Ltd",
+            "weight": 2.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank Nifty Index",
+            "weight": 2.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 2.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 1.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Repco Home Finance Ltd",
+            "weight": 1.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 1.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara HSBC Life Insurance Co Ltd",
+            "weight": 1.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Holdings and Investment Ltd",
+            "weight": 1.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 1.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 1.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 1.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "National Securities Depository Ltd",
+            "weight": 1.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The Federal Bank Ltd",
+            "weight": 1.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Five-Star Business Finance Ltd",
+            "weight": 0.97,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Birla Sun Life AMC Ltd",
+            "weight": 0.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Utkarsh Small Finance Bank Ltd",
+            "weight": 0.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "CARE Ratings Ltd",
+            "weight": 0.73,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 0.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 0.71,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "07/05/2026 Maturing 364 DTB",
+            "weight": 0.68,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbills",
+            "weight": 0.68,
+            "sector": "Other"
+        },
+        {
+            "name": "Manappuram Finance Ltd",
+            "weight": 0.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "The South Indian Bank Ltd",
+            "weight": 0.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.51,
+            "sector": "Other"
+        },
+        {
+            "name": "19/03/2026 Maturing 364 DTB",
+            "weight": 0.34,
+            "sector": "Other"
+        },
+        {
+            "name": "16/04/2026 Maturing 182 DTB",
+            "weight": 0.34,
+            "sector": "Other"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 0.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "19/03/2026 Maturing 182 DTB",
+            "weight": 0.15,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.11,
+            "sector": "Other"
+        },
+        {
+            "name": "09/04/2026 Maturing 182 DTB",
+            "weight": 0.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Edelweiss Financial Services Ltd",
+            "weight": 0.0,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "19/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "27/02/2026 Maturing 182 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Angel One Ltd Ordinary Shares",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "19/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

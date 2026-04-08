@@ -1,0 +1,251 @@
+{
+    "isin": "INF204KC1EK5",
+    "scheme_name": "Nippon India Active Momentum Fund-Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "GE Vernova T&D India Ltd",
+            "weight": 3.45,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.25,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 2.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 2.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "L&T Finance Ltd",
+            "weight": 2.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 2.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 2.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 2.67,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 2.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 2.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 2.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.46,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 2.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 2.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Max Financial Services Ltd",
+            "weight": 2.19,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 2.16,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tata Steel Ltd",
+            "weight": 2.16,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 2.15,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 2.14,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 2.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Navin Fluorine International Ltd",
+            "weight": 2.12,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 2.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 2.1,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 2.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Radico Khaitan Ltd",
+            "weight": 2.01,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ACME Solar Holdings Ltd",
+            "weight": 1.86,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 1.86,
+            "sector": "Energy"
+        },
+        {
+            "name": "Mphasis Ltd",
+            "weight": 1.79,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kirloskar Oil Engines Ltd",
+            "weight": 1.74,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Allied Blenders and Distillers Ltd",
+            "weight": 1.71,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 1.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.37,
+            "sector": "Other"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 1.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "eClerx Services Ltd",
+            "weight": 1.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Asahi India Glass Ltd",
+            "weight": 1.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 1.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash Margin - Ccil",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "JK Cement Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Cash",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "isin": "INF789F01VF3",
+    "scheme_name": "UTI India Consumer Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 8.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 7.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 7.03,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 5.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 4.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 3.33,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 2.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 2.61,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 2.56,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 2.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 2.43,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Phoenix Mills Ltd",
+            "weight": 2.26,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 2.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 2.13,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 1.9,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 1.71,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 1.67,
+            "sector": "Other"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 1.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 1.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Astral Ltd",
+            "weight": 1.52,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 1.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 1.42,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 1.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.32,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 1.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 1.23,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Berger Paints India Ltd",
+            "weight": 1.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kewal Kiran Clothing Ltd",
+            "weight": 1.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 1.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tips Music Ltd",
+            "weight": 1.06,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 1.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 1.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bikaji Foods International Ltd",
+            "weight": 0.95,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Kajaria Ceramics Ltd",
+            "weight": 0.87,
+            "sector": "Industrials"
+        },
+        {
+            "name": "V-Mart Retail Ltd",
+            "weight": 0.68,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vedant Fashions Ltd",
+            "weight": 0.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IFB Industries Ltd",
+            "weight": 0.49,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 0.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "United Foodbrands Ltd",
+            "weight": 0.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.02,
+            "sector": "Other"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd. Std - Margin",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

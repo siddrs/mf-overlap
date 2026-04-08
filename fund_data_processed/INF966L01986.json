@@ -1,0 +1,166 @@
+{
+    "isin": "INF966L01986",
+    "scheme_name": "quant ELSS Tax Saver Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 9.02,
+            "sector": "Energy"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 8.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 8.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 7.24,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 6.78,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 6.53,
+            "sector": "Other"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 4.93,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 4.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 4.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 4.78,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 4.6,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 4.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 3.92,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 3.62,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 3.47,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 2.36,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 2.05,
+            "sector": "Energy"
+        },
+        {
+            "name": "Capri Global Capital Ltd",
+            "weight": 1.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Himadri Speciality Chemical Ltd",
+            "weight": 0.95,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Ventive Hospitality Ltd",
+            "weight": 0.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 0.69,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 0.52,
+            "sector": "Energy"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 0.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Lloyds Metals & Energy Ltd",
+            "weight": 0.43,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Afcons Infrastructure Ltd",
+            "weight": 0.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Krystal Integrated Services Ltd",
+            "weight": 0.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Embassy Developments Ltd",
+            "weight": 0.26,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Juniper Hotels Ltd",
+            "weight": 0.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.2,
+            "sector": "Energy"
+        },
+        {
+            "name": "Welspun Living Ltd",
+            "weight": 0.15,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 0.13,
+            "sector": "Other"
+        }
+    ]
+}

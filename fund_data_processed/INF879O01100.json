@@ -1,0 +1,311 @@
+{
+    "isin": "INF879O01100",
+    "scheme_name": "Parag Parikh ELSS Tax Saver Fund- Direct Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.4,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 7.12,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bajaj Holdings and Investment Ltd",
+            "weight": 6.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coal India Ltd",
+            "weight": 6.18,
+            "sector": "Energy"
+        },
+        {
+            "name": "Maharashtra Scooters Ltd",
+            "weight": 5.48,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 5.11,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.91,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 4.22,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 4.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 3.87,
+            "sector": "Technology"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.44,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 3.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "CMS Info Systems Ltd",
+            "weight": 3.25,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CCL Products (India) Ltd",
+            "weight": 2.49,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.98,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 1.73,
+            "sector": "Technology"
+        },
+        {
+            "name": "Brookfield India Real Estate Trust",
+            "weight": 1.69,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 1.66,
+            "sector": "Other"
+        },
+        {
+            "name": "Rep20_270226",
+            "weight": 1.42,
+            "sector": "Other"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 1.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Zydus Lifesciences Ltd",
+            "weight": 1.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 1.29,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "National Bank For Agriculture And Rural Development",
+            "weight": 1.25,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Energy Exchange Ltd",
+            "weight": 0.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Icici Securities Limited",
+            "weight": 0.86,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finance Limited",
+            "weight": 0.86,
+            "sector": "Other"
+        },
+        {
+            "name": "VST Industries Ltd",
+            "weight": 0.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Axis Bank Limited",
+            "weight": 0.84,
+            "sector": "Other"
+        },
+        {
+            "name": "Bank Of Baroda (16/10/2026)",
+            "weight": 0.84,
+            "sector": "Other"
+        },
+        {
+            "name": "Zydus Wellness Ltd",
+            "weight": 0.77,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 0.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "E I D Parry India Ltd",
+            "weight": 0.5,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "HDFC Securities Limited",
+            "weight": 0.43,
+            "sector": "Other"
+        },
+        {
+            "name": "Rec Limited",
+            "weight": 0.43,
+            "sector": "Other"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.43,
+            "sector": "Other"
+        },
+        {
+            "name": "Kotak Mahindra Bank Limited",
+            "weight": 0.41,
+            "sector": "Other"
+        },
+        {
+            "name": "National Bank for Agriculture and Rural Development",
+            "weight": 0.41,
+            "sector": "Other"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 0.34,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Great Eastern Shipping Co Ltd",
+            "weight": 0.31,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Trp_020326",
+            "weight": 0.31,
+            "sector": "Other"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 0.23,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Swaraj Engines Ltd",
+            "weight": 0.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "30/07/2026 Maturing 364 DTB",
+            "weight": 0.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 0.08,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ICRA Ltd",
+            "weight": 0.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Embassy Office Parks REIT",
+            "weight": 0.05,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "West Coast Paper Mills Ltd",
+            "weight": 0.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nesco Ltd",
+            "weight": 0.03,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CIE Automotive India Ltd",
+            "weight": 0.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sundrop Brands Ltd",
+            "weight": 0.02,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Indraprastha Gas Ltd",
+            "weight": 0.01,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Mahanagar Gas Ltd",
+            "weight": 0.0,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Kotak Securities Limited",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd.",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Union Bank Of India",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

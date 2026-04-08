@@ -1,0 +1,216 @@
+{
+    "isin": "INF209K014W1",
+    "scheme_name": "Aditya Birla Sun Life Banking and Financial Services Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 13.96,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 13.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 8.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 6.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 5.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 4.01,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 3.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "AU Small Finance Bank Ltd",
+            "weight": 3.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Limited",
+            "weight": 3.42,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 2.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Maharashtra",
+            "weight": 2.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cholamandalam Financial Holdings Ltd",
+            "weight": 2.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 2.06,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 1.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 1.81,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aptus Value Housing Finance India Ltd",
+            "weight": 1.75,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "City Union Bank Ltd",
+            "weight": 1.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 1.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.62,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Muthoot Finance Ltd",
+            "weight": 1.14,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 1.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Margin (Future And Options)",
+            "weight": 1.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 1.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 0.97,
+            "sector": "Technology"
+        },
+        {
+            "name": "SBFC Finance Ltd",
+            "weight": 0.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ujjivan Small Finance Bank Ltd Ordinary Shares",
+            "weight": 0.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Star Health and Allied Insurance Co Ltd",
+            "weight": 0.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 0.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Canara Robeco Asset Management Co Ltd",
+            "weight": 0.77,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Anand Rathi Share and Stock Brokers Ltd",
+            "weight": 0.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Karur Vysya Bank Ltd",
+            "weight": 0.66,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 0.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Central Depository Services (India) Ltd",
+            "weight": 0.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Repco Home Finance Ltd",
+            "weight": 0.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Fusion Finance Ltd",
+            "weight": 0.52,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "MAS Financial Services Ltd Ordinary Shares",
+            "weight": 0.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Go Digit General Insurance Ltd",
+            "weight": 0.46,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Dam Capital Advisors Ltd",
+            "weight": 0.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash And Bank",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

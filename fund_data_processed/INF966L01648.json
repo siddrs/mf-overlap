@@ -1,0 +1,216 @@
+{
+    "isin": "INF966L01648",
+    "scheme_name": "quant Large & Mid Cap Fund - Growth Option-Direct Plan",
+    "holdings": [
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 24.08,
+            "sector": "Other"
+        },
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 12.01,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 9.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 7.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 7.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lloyds Metals & Energy Ltd",
+            "weight": 7.03,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nse Bank Nifty",
+            "weight": 6.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 5.81,
+            "sector": "Energy"
+        },
+        {
+            "name": "Adani Power Ltd",
+            "weight": 5.58,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tbill",
+            "weight": 5.1,
+            "sector": "Other"
+        },
+        {
+            "name": "Future on PB Fintech Ltd",
+            "weight": 3.48,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 2.89,
+            "sector": "Energy"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 2.87,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 2.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 2.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "HDFC Asset Management Co Ltd",
+            "weight": 2.5,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 2.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Tata Communications Ltd",
+            "weight": 2.24,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.21,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Oracle Financial Services Software Ltd",
+            "weight": 2.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "Hdfc Life Insurance Co Ltd",
+            "weight": 2.04,
+            "sector": "Other"
+        },
+        {
+            "name": "Aurobindo Pharma Limited",
+            "weight": 1.85,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Green Energy Ltd",
+            "weight": 1.77,
+            "sector": "Utilities"
+        },
+        {
+            "name": "AWL Agri Business Ltd",
+            "weight": 1.76,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "3M India Ltd",
+            "weight": 1.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 1.41,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "JSW Infrastructure Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Premier Energies Ltd",
+            "weight": 1.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 1.17,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 0.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Procter & Gamble Hygiene and Health Care Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "NMDC Ltd",
+            "weight": 0.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 0.42,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "12/03/2026 Maturing 91 DTB",
+            "weight": 0.33,
+            "sector": "Other"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.32,
+            "sector": "Other"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Energy Solutions Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

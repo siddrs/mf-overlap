@@ -1,0 +1,296 @@
+{
+    "isin": "INF761K01GF3",
+    "scheme_name": "Bank of India Business Cycle Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Treps",
+            "weight": 9.22,
+            "sector": "Other"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 4.69,
+            "sector": "Other"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.63,
+            "sector": "Utilities"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 4.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 4.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 3.8,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.36,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 3.04,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 2.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 2.97,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sky Gold and Diamonds Ltd",
+            "weight": 2.96,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Glenmark Pharmaceuticals Ltd",
+            "weight": 2.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "State Bank of India Future Mar 26",
+            "weight": 2.73,
+            "sector": "Other"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 2.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "Quality Power Electrical Equipments Ltd",
+            "weight": 2.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.52,
+            "sector": "Energy"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.21,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 1.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Computer Age Management Services Ltd Ordinary Shares",
+            "weight": 1.84,
+            "sector": "Technology"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 1.83,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 1.6,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Century Plyboards (India) Ltd",
+            "weight": 1.43,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tinna Rubber & Infrastructure Ltd",
+            "weight": 1.39,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nippon Life India Asset Management Ltd Ordinary Shares",
+            "weight": 1.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 1.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 1.2,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Zaggle Prepaid Ocean Services Ltd",
+            "weight": 1.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "K.P.R. Mill Ltd",
+            "weight": 1.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Unicommerce eSolutions Ltd",
+            "weight": 1.15,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 1.14,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Vidya Wires Ltd",
+            "weight": 1.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "21/05/2026 Maturing 182 DTB",
+            "weight": 1.06,
+            "sector": "Other"
+        },
+        {
+            "name": "Ethos Ltd",
+            "weight": 1.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 1.03,
+            "sector": "Energy"
+        },
+        {
+            "name": "NTPC Green Energy Ltd",
+            "weight": 1.03,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Prudent Corporate Advisory Services Ltd",
+            "weight": 0.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ganesha Ecosphere Ltd",
+            "weight": 0.98,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 0.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 0.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.9,
+            "sector": "Other"
+        },
+        {
+            "name": "Gufic Biosciences Ltd",
+            "weight": 0.87,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Torrent Power Ltd",
+            "weight": 0.84,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 0.76,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Shakti Pumps (India) Ltd",
+            "weight": 0.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "MRF Ltd",
+            "weight": 0.61,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 0.53,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Siemens Ltd",
+            "weight": 0.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Nuvama Wealth Management Ltd",
+            "weight": 0.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "V2 Retail Ltd",
+            "weight": 0.09,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Arvind Fashions Ltd",
+            "weight": 0.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 0.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Netweb Technologies India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Oswal Pumps Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Aditya Vision Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

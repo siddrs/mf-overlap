@@ -1,0 +1,191 @@
+{
+    "isin": "INF740K01PR3",
+    "scheme_name": "DSP Large Cap Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Treps / Reverse Repo Investments",
+            "weight": 9.83,
+            "sector": "Other"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 9.38,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 8.35,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 6.67,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 5.55,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 5.26,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 5.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 5.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 4.68,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 3.9,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 3.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 3.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 2.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.64,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 2.54,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 2.44,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 1.83,
+            "sector": "Energy"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.81,
+            "sector": "Energy"
+        },
+        {
+            "name": "Power Finance Corp Ltd",
+            "weight": 1.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 1.34,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indus Towers Ltd Ordinary Shares",
+            "weight": 1.23,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 1.22,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Syngene International Ltd",
+            "weight": 1.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 0.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Ntpc Limited Mar26",
+            "weight": 0.99,
+            "sector": "Other"
+        },
+        {
+            "name": "Jubilant Ingrevia Ltd Ordinary Shares",
+            "weight": 0.92,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 0.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 0.87,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 0.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Life Insurance Corporation of India",
+            "weight": 0.82,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 0.7,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cash Margin",
+            "weight": 0.69,
+            "sector": "Other"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 0.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Alembic Pharmaceuticals Ltd",
+            "weight": 0.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emcure Pharmaceuticals Ltd",
+            "weight": 0.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables/Payables",
+            "weight": 0.07,
+            "sector": "Other"
+        }
+    ]
+}

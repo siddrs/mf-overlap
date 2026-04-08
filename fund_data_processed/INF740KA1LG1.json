@@ -1,0 +1,171 @@
+{
+    "isin": "INF740KA1LG1",
+    "scheme_name": "DSP Healthcare Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 8.79,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ipca Laboratories Ltd",
+            "weight": 8.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cipla Ltd",
+            "weight": 8.06,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Globus Medical Inc Class A",
+            "weight": 7.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laurus Labs Ltd",
+            "weight": 6.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Illumina Inc",
+            "weight": 6.47,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 5.9,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 5.53,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 5.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alembic Pharmaceuticals Ltd",
+            "weight": 3.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 3.35,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 3.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Cohance Lifesciences Ltd",
+            "weight": 3.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Kovai Medical Center & Hospital Ltd",
+            "weight": 2.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Intuitive Surgical Inc",
+            "weight": 2.83,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Procter & Gamble Health Ltd",
+            "weight": 2.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Indoco Remedies Ltd",
+            "weight": 2.16,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Concord Biotech Ltd",
+            "weight": 2.0,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emcure Pharmaceuticals Ltd",
+            "weight": 1.86,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ICICI Lombard General Insurance Co Ltd",
+            "weight": 1.51,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nephrocare Health Services Ltd",
+            "weight": 1.24,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Treps / Reverse Repo Investments",
+            "weight": 1.15,
+            "sector": "Other"
+        },
+        {
+            "name": "Abbott Laboratories",
+            "weight": 1.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aarti Drugs Ltd",
+            "weight": 1.03,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Unichem Laboratories Ltd",
+            "weight": 0.97,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Global X Genomics & Biotechnology ETF",
+            "weight": 0.88,
+            "sector": "Other"
+        },
+        {
+            "name": "Alkem Laboratories Ltd",
+            "weight": 0.69,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Medplus Health Services Ltd",
+            "weight": 0.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 0.39,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Laxmi Dental Ltd",
+            "weight": 0.18,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GRAIL Inc",
+            "weight": 0.14,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Receivables/Payables",
+            "weight": 0.08,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "isin": "INF179KC1GI5",
+    "scheme_name": "HDFC Defence Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 18.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Forge Ltd",
+            "weight": 15.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 12.09,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Solar Industries India Ltd",
+            "weight": 10.26,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 5.92,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Astra Microwave Products Ltd",
+            "weight": 4.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 4.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 4.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps - Tri-Party Repo",
+            "weight": 3.78,
+            "sector": "Other"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 3.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Premier Explosives Ltd",
+            "weight": 3.05,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Mazagon Dock Shipbuilders Ltd",
+            "weight": 2.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Centum Electronics Ltd",
+            "weight": 2.32,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cyient DLM Ltd",
+            "weight": 2.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "Data Patterns (India) Ltd",
+            "weight": 2.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Power Mech Projects Ltd",
+            "weight": 0.78,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Rishabh Instruments Ltd",
+            "weight": 0.34,
+            "sector": "Technology"
+        },
+        {
+            "name": "Diffusion Engineers Ltd",
+            "weight": 0.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Avalon Technologies Ltd",
+            "weight": 0.17,
+            "sector": "Technology"
+        },
+        {
+            "name": "JNK India Ltd",
+            "weight": 0.17,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ideaforge Technology Ltd",
+            "weight": 0.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 0.13,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

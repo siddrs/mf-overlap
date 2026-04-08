@@ -1,0 +1,191 @@
+{
+    "isin": "INF179KC1FC0",
+    "scheme_name": "HDFC MNC Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 7.71,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 7.6,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 7.27,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 6.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 6.34,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 6.09,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 5.8,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Escorts Kubota Ltd",
+            "weight": 4.58,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 4.04,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Timken India Ltd",
+            "weight": 3.99,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 3.9,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 3.0,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 2.95,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 2.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 2.43,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Balkrishna Industries Ltd",
+            "weight": 2.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 2.07,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 2.07,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aadhar Housing Finance Ltd",
+            "weight": 2.02,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Grindwell Norton Ltd",
+            "weight": 1.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 1.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps - Tri-Party Repo",
+            "weight": 1.53,
+            "sector": "Other"
+        },
+        {
+            "name": "RHI Magnesita India Ltd",
+            "weight": 1.44,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 1.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Pearl Global Industries Ltd",
+            "weight": 1.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SRF Ltd",
+            "weight": 1.19,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 1.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 0.99,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "SKF India Ltd",
+            "weight": 0.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Goodyear India Ltd",
+            "weight": 0.76,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Piramal Pharma Ltd",
+            "weight": 0.67,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Blue Dart Express Ltd",
+            "weight": 0.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Passenger Vehicles Ltd",
+            "weight": 0.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 0.21,
+            "sector": "Other"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 0.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.05,
+            "sector": "Consumer Defensive"
+        }
+    ]
+}

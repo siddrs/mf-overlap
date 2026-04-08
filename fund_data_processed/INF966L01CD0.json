@@ -1,0 +1,151 @@
+{
+    "isin": "INF966L01CD0",
+    "scheme_name": "quant Healthcare Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Nca-Net Current Assets",
+            "weight": 16.23,
+            "sector": "Other"
+        },
+        {
+            "name": "Treps 02-Mar-2026 Depo 10",
+            "weight": 10.63,
+            "sector": "Other"
+        },
+        {
+            "name": "SMS Pharmaceuticals Ltd",
+            "weight": 9.98,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 9.25,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Viyash Scientific Ltd",
+            "weight": 9.05,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Aster DM Healthcare Ltd Ordinary Shares",
+            "weight": 8.34,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Zydus Wellness Ltd",
+            "weight": 7.05,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Pfizer Ltd",
+            "weight": 6.93,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Alivus Life Sciences Ltd",
+            "weight": 6.41,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Tbill",
+            "weight": 5.65,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Prudential Life Insurance Co Ltd",
+            "weight": 5.56,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aurobindo Pharma Limited",
+            "weight": 5.36,
+            "sector": "Other"
+        },
+        {
+            "name": "Biocon Ltd",
+            "weight": 4.89,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 4.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 4.54,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hdfc Life Insurance Co Ltd",
+            "weight": 4.49,
+            "sector": "Other"
+        },
+        {
+            "name": "Medplus Health Services Ltd",
+            "weight": 3.63,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Concord Biotech Ltd",
+            "weight": 2.91,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "GlaxoSmithKline Pharmaceuticals Ltd",
+            "weight": 2.38,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Icici Prudential Life Insurance Co Ltd",
+            "weight": 1.95,
+            "sector": "Other"
+        },
+        {
+            "name": "Gland Pharma Ltd",
+            "weight": 1.46,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "27/03/2026 Maturing 91 DTB",
+            "weight": 0.57,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd Ordinary Shares (Partly Paid Rs.0.75)",
+            "weight": 0.56,
+            "sector": "Energy"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "26/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "06/02/2026 Maturing 91 DTB",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

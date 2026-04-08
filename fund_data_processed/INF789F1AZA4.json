@@ -1,0 +1,161 @@
+{
+    "isin": "INF789F1AZA4",
+    "scheme_name": "UTI Innovation Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Eternal Ltd",
+            "weight": 9.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 8.4,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "MTAR Technologies Ltd",
+            "weight": 6.1,
+            "sector": "Industrials"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 5.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 5.53,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 4.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 4.8,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 4.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "IndiaMART InterMESH Ltd",
+            "weight": 4.29,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Gravita India Ltd",
+            "weight": 3.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 3.51,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Nazara Technologies Ltd",
+            "weight": 3.38,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 3.27,
+            "sector": "Technology"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 3.24,
+            "sector": "Technology"
+        },
+        {
+            "name": "Yatra Online Ltd",
+            "weight": 3.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 2.71,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Praj Industries Ltd",
+            "weight": 2.66,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Suzlon Energy Ltd",
+            "weight": 2.59,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Newgen Software Technologies Ltd",
+            "weight": 2.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "Latent View Analytics Ltd",
+            "weight": 2.42,
+            "sector": "Industrials"
+        },
+        {
+            "name": "CE Info Systems Ltd",
+            "weight": 2.26,
+            "sector": "Technology"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 2.16,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Awfis Space Solutions Ltd",
+            "weight": 2.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 1.87,
+            "sector": "Other"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 1.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "Happiest Minds Technologies Ltd Ordinary Shares",
+            "weight": 1.19,
+            "sector": "Technology"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 1.06,
+            "sector": "Technology"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.5,
+            "sector": "Technology"
+        },
+        {
+            "name": "Borosil Renewables Ltd Ordinary Shares",
+            "weight": 0.48,
+            "sector": "Technology"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd. Std - Margin",
+            "weight": 0.02,
+            "sector": "Other"
+        }
+    ]
+}

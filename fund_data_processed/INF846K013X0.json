@@ -1,0 +1,361 @@
+{
+    "isin": "INF846K013X0",
+    "scheme_name": "Axis Consumption Fund Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 9.06,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 8.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 5.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 5.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 5.41,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 5.39,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 3.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 3.54,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 2.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.76,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.52,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 2.34,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.24,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 2.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Consumer Products Ltd",
+            "weight": 2.13,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 2.03,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 1.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 1.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 1.39,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 1.3,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.16,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "DOMS Industries Ltd",
+            "weight": 1.11,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 1.1,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 1.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.04,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.0,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Berger Paints India Ltd",
+            "weight": 0.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 0.9,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 0.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 0.84,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Arvind Fashions Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd",
+            "weight": 0.79,
+            "sector": "Other"
+        },
+        {
+            "name": "Blue Star Ltd",
+            "weight": 0.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 0.7,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "HDFC Life Insurance Co Ltd",
+            "weight": 0.67,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 0.64,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 0.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Fortis Healthcare Ltd",
+            "weight": 0.62,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 0.58,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Sapphire Foods India Ltd",
+            "weight": 0.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Travel Food Services Ltd",
+            "weight": 0.55,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 0.51,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 0.5,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 0.48,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Rainbow Childrens Medicare Ltd",
+            "weight": 0.44,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 0.41,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 0.38,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.37,
+            "sector": "Other"
+        },
+        {
+            "name": "Devyani International Ltd",
+            "weight": 0.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "V-Mart Retail Ltd",
+            "weight": 0.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Page Industries Ltd",
+            "weight": 0.36,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 0.33,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SBI Cards and Payment Services Ltd Ordinary Shares",
+            "weight": 0.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ITC Hotels Ltd",
+            "weight": 0.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wakefit Innovations Ltd",
+            "weight": 0.26,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 0.25,
+            "sector": "Utilities"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 0.21,
+            "sector": "Technology"
+        },
+        {
+            "name": "Havells India Ltd",
+            "weight": 0.18,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 0.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Dixon Technologies (India) Ltd",
+            "weight": 0.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Anant Raj Ltd",
+            "weight": 0.08,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.05,
+            "sector": "Other"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.0,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Lupin Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

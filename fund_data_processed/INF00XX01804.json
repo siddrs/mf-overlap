@@ -1,0 +1,336 @@
+{
+    "isin": "INF00XX01804",
+    "scheme_name": "ITI Large Cap Fund - Direct Plan - Growth Option",
+    "holdings": [
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 6.71,
+            "sector": "Energy"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 6.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 6.57,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 4.37,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 4.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 4.08,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.05,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 2.88,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.6,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 2.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 2.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 1.84,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 1.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 1.63,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "JSW Energy Ltd",
+            "weight": 1.62,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 1.62,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 1.53,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 1.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sun Pharmaceuticals Industries Ltd",
+            "weight": 1.48,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 1.47,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 1.45,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 1.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "UltraTech Cement Ltd",
+            "weight": 1.33,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Canara Bank",
+            "weight": 1.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "KFin Technologies Ltd",
+            "weight": 1.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 1.16,
+            "sector": "Technology"
+        },
+        {
+            "name": "PNB Housing Finance Ltd",
+            "weight": 1.13,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 1.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "IIFL Finance Ltd",
+            "weight": 1.09,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 1.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Adani Enterprises Ltd",
+            "weight": 1.01,
+            "sector": "Energy"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 0.99,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "JSW Steel Ltd",
+            "weight": 0.96,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 0.95,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 0.95,
+            "sector": "Other"
+        },
+        {
+            "name": "Hdfc Bank Limited",
+            "weight": 0.95,
+            "sector": "Other"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 0.93,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Tata Power Co Ltd",
+            "weight": 0.93,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shakti Pumps (India) Ltd",
+            "weight": 0.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bajaj Finserv Ltd",
+            "weight": 0.87,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cummins India Ltd",
+            "weight": 0.84,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 0.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indian Hotels Co Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "P N Gadgil Jewellers Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 0.79,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "CSB Bank Ltd Ordinary Shares",
+            "weight": 0.79,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jindal Steel Ltd",
+            "weight": 0.78,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Grasim Industries Ltd",
+            "weight": 0.71,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 0.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 0.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 0.63,
+            "sector": "Technology"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 0.61,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Sanghvi Movers Ltd",
+            "weight": 0.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 0.55,
+            "sector": "Technology"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 0.51,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "KSB Ltd",
+            "weight": 0.49,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Jio Financial Services Ltd",
+            "weight": 0.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.44,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.01,
+            "sector": "Other"
+        },
+        {
+            "name": "Siemens Energy India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Engineers India Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

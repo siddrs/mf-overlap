@@ -1,0 +1,171 @@
+{
+    "isin": "INF174KA1TS4",
+    "scheme_name": "Kotak Transportation & Logistics Fund-Direct Growth",
+    "holdings": [
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 9.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 8.84,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 8.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 5.9,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 4.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 4.94,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bajaj Auto Ltd",
+            "weight": 4.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 4.47,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 4.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Great Eastern Shipping Co Ltd",
+            "weight": 3.93,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tata Motors Ltd",
+            "weight": 3.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "VST Tillers Tractors Ltd",
+            "weight": 2.82,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 2.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 2.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sansera Engineering Ltd",
+            "weight": 2.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra Logistics Ltd",
+            "weight": 1.85,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Blue Dart Express Ltd",
+            "weight": 1.85,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bosch Ltd",
+            "weight": 1.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Igarashi Motors India Ltd",
+            "weight": 1.52,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sundaram Fasteners Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Schaeffler India Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Subros Ltd",
+            "weight": 1.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 1.41,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Amara Raja Energy & Mobility Ltd",
+            "weight": 1.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Carborundum Universal Ltd",
+            "weight": 1.34,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kross Ltd",
+            "weight": 1.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Castrol India Ltd",
+            "weight": 1.22,
+            "sector": "Energy"
+        },
+        {
+            "name": "Motherson Sumi Wiring India Ltd",
+            "weight": 1.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Container Corporation of India Ltd",
+            "weight": 1.01,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Apollo Tyres Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 0.76,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 0.14,
+            "sector": "Other"
+        }
+    ]
+}

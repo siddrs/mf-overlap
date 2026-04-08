@@ -1,0 +1,271 @@
+{
+    "isin": "INF761K01702",
+    "scheme_name": "BANK OF INDIA Manufacturing & Infrastructure Fund-Direct Plan-Growth",
+    "holdings": [
+        {
+            "name": "Treps",
+            "weight": 9.58,
+            "sector": "Other"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 9.38,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 6.93,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 6.83,
+            "sector": "Energy"
+        },
+        {
+            "name": "Vedanta Ltd",
+            "weight": 4.58,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 3.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lloyds Metals & Energy Ltd",
+            "weight": 3.2,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Oil India Ltd",
+            "weight": 2.85,
+            "sector": "Energy"
+        },
+        {
+            "name": "Stylam Industries Ltd",
+            "weight": 2.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Aurobindo Pharma Ltd",
+            "weight": 2.57,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 2.54,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eris Lifesciences Ltd Registered Shs",
+            "weight": 2.48,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Petronet LNG Ltd",
+            "weight": 2.4,
+            "sector": "Energy"
+        },
+        {
+            "name": "Quality Power Electrical Equipments Ltd",
+            "weight": 2.37,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dr Reddy's Laboratories Ltd",
+            "weight": 2.31,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Adani Ports & Special Economic Zone Ltd",
+            "weight": 2.23,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Cemindia Projects Ltd",
+            "weight": 1.8,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 1.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "PSP Projects Ltd",
+            "weight": 1.61,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bayer CropScience Ltd",
+            "weight": 1.59,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Acutaas Chemicals Ltd",
+            "weight": 1.57,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Carraro India Ltd",
+            "weight": 1.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Abbott India Ltd",
+            "weight": 1.52,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Oberoi Realty Ltd",
+            "weight": 1.51,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 1.48,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Jindal Stainless Ltd",
+            "weight": 1.41,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Swan Corp Ltd",
+            "weight": 1.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "TD Power Systems Ltd",
+            "weight": 1.31,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Senco Gold Ltd",
+            "weight": 1.31,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HEG Ltd",
+            "weight": 1.26,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sky Gold and Diamonds Ltd",
+            "weight": 1.19,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shakti Pumps (India) Ltd",
+            "weight": 1.16,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Steelcast Ltd",
+            "weight": 1.04,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 1.0,
+            "sector": "Energy"
+        },
+        {
+            "name": "MRF Ltd",
+            "weight": 0.88,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kalpataru Projects International Ltd",
+            "weight": 0.83,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ceigall India Ltd",
+            "weight": 0.82,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sanathan Textiles Ltd",
+            "weight": 0.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Wockhardt Ltd",
+            "weight": 0.64,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Bansal Wire Industries Ltd",
+            "weight": 0.61,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 0.47,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Brigade Enterprises Ltd",
+            "weight": 0.41,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Sobha Ltd",
+            "weight": 0.33,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "KNR Constructions Ltd",
+            "weight": 0.33,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Gabriel India Ltd",
+            "weight": 0.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.12,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.09,
+            "sector": "Other"
+        },
+        {
+            "name": "Ashok Leyland Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Hindustan Copper Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "VIkran Engineering Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Quadrant Future Tek Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

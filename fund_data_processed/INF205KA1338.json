@@ -1,0 +1,241 @@
+{
+    "isin": "INF205KA1338",
+    "scheme_name": "Invesco India ESG Integration Strategy Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 7.68,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 6.33,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bajaj Finance Ltd",
+            "weight": 5.49,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Infosys Ltd",
+            "weight": 4.9,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 4.77,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 4.12,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Axis Bank Ltd",
+            "weight": 3.89,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 3.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 3.26,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 3.13,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 3.01,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 2.65,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 2.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Torrent Pharmaceuticals Ltd",
+            "weight": 2.48,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 2.45,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Home First Finance Co India Ltd ---",
+            "weight": 2.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.4,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 2.3,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Nuvama Wealth Management Ltd",
+            "weight": 1.99,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Divi's Laboratories Ltd",
+            "weight": 1.92,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 1.91,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shriram Finance Ltd",
+            "weight": 1.85,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mrs Bectors Food Specialities Ltd Ordinary Shares",
+            "weight": 1.79,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 1.78,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "DLF Ltd",
+            "weight": 1.68,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Honeywell Automation India Ltd",
+            "weight": 1.63,
+            "sector": "Industrials"
+        },
+        {
+            "name": "RBL Bank Ltd",
+            "weight": 1.61,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 1.57,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.52,
+            "sector": "Other"
+        },
+        {
+            "name": "Samvardhana Motherson International Ltd",
+            "weight": 1.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "BSE Ltd",
+            "weight": 1.44,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 1.42,
+            "sector": "Technology"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 1.32,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trualt Bioenergy Ltd",
+            "weight": 1.24,
+            "sector": "Energy"
+        },
+        {
+            "name": "Lodha Developers Ltd",
+            "weight": 1.2,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 1.07,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Global Health Ltd",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.01,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 0.93,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "One97 Communications Ltd",
+            "weight": 0.92,
+            "sector": "Technology"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 0.75,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.47,
+            "sector": "Other"
+        },
+        {
+            "name": "Orchid Pharma Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Medi Assist Healthcare Services Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Poly Medicure Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Clean Science and Technology Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

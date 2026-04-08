@@ -1,0 +1,201 @@
+{
+    "isin": "INF200K01RV6",
+    "scheme_name": "SBI TECHNOLOGY OPPORTUNITIES FUND - DIRECT PLAN - GROWTH",
+    "holdings": [
+        {
+            "name": "Infosys Ltd",
+            "weight": 13.37,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 8.8,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tata Consultancy Services Ltd",
+            "weight": 6.3,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 6.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LTIMindtree Ltd",
+            "weight": 5.22,
+            "sector": "Technology"
+        },
+        {
+            "name": "Cognizant Technology Solutions Corp Class A",
+            "weight": 4.53,
+            "sector": "Technology"
+        },
+        {
+            "name": "Blackbuck Ltd",
+            "weight": 4.09,
+            "sector": "Technology"
+        },
+        {
+            "name": "Firstsource Solutions Ltd",
+            "weight": 3.74,
+            "sector": "Technology"
+        },
+        {
+            "name": "Alphabet Inc Class A",
+            "weight": 3.72,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 3.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 3.33,
+            "sector": "Technology"
+        },
+        {
+            "name": "Microsoft Corp",
+            "weight": 3.18,
+            "sector": "Technology"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 2.94,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 2.86,
+            "sector": "Technology"
+        },
+        {
+            "name": "HCL Technologies Ltd",
+            "weight": 2.6,
+            "sector": "Technology"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 2.44,
+            "sector": "Technology"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 2.41,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Tech Mahindra Ltd",
+            "weight": 2.22,
+            "sector": "Technology"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.11,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 1.99,
+            "sector": "Technology"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.86,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "L&T Technology Services Ltd",
+            "weight": 1.64,
+            "sector": "Technology"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 1.56,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nazara Technologies Ltd",
+            "weight": 1.24,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "EPAM Systems Inc",
+            "weight": 1.14,
+            "sector": "Technology"
+        },
+        {
+            "name": "Indegene Ltd",
+            "weight": 1.04,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Capillary Technologies India Ltd",
+            "weight": 0.96,
+            "sector": "Technology"
+        },
+        {
+            "name": "PVR INOX Ltd",
+            "weight": 0.96,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "NIIT Learning Systems Ltd",
+            "weight": 0.63,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "eMudhra Ltd",
+            "weight": 0.51,
+            "sector": "Technology"
+        },
+        {
+            "name": "Net Receivable / Payable",
+            "weight": 0.26,
+            "sector": "Other"
+        },
+        {
+            "name": "Unicommerce eSolutions Ltd",
+            "weight": 0.1,
+            "sector": "Technology"
+        },
+        {
+            "name": "Route Mobile Ltd Ordinary Shares",
+            "weight": 0.08,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "19/11/2026 Maturing 364 DTB",
+            "weight": 0.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "SIP Technologies & Exports Ltd.",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Indbazaar.Com Ltd.",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Wipro Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

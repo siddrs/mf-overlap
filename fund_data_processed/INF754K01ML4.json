@@ -1,0 +1,336 @@
+{
+    "isin": "INF754K01ML4",
+    "scheme_name": "Edelweiss Recently Listed IPO Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 6.49,
+            "sector": "Technology"
+        },
+        {
+            "name": "ICICI Prudential Asset Management Co Ltd",
+            "weight": 5.47,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 5.24,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Tata Capital Ltd",
+            "weight": 3.93,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Clearing Corporation Of India Ltd.",
+            "weight": 3.55,
+            "sector": "Other"
+        },
+        {
+            "name": "Canara Robeco Asset Management Co Ltd",
+            "weight": 3.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 3.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "HDB Financial Services Ltd",
+            "weight": 3.2,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 3.06,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Belrise Industries Ltd",
+            "weight": 2.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Atlanta Electricals Ltd",
+            "weight": 2.65,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Dr Agarwal\u2019s Health Care Ltd",
+            "weight": 2.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Anthem Biosciences Ltd",
+            "weight": 2.55,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Emmvee Photovoltaic Power Ltd",
+            "weight": 2.55,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tenneco Clean Air India Ltd",
+            "weight": 2.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Cash Offset For Derivatives",
+            "weight": 2.28,
+            "sector": "Other"
+        },
+        {
+            "name": "Nifty 30-Mar-2026",
+            "weight": 2.28,
+            "sector": "Other"
+        },
+        {
+            "name": "JSW Cement Ltd",
+            "weight": 2.27,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sai Life Sciences Ltd",
+            "weight": 2.26,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 2.1,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 1.9,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Corona Remedies Ltd",
+            "weight": 1.85,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Hexaware Technologies Ltd Ordinary Shares",
+            "weight": 1.72,
+            "sector": "Technology"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 1.68,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rubicon Research Ltd",
+            "weight": 1.66,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Studds Accessories Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sudeep Pharma Ltd",
+            "weight": 1.59,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 1.59,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Inventurus Knowledge Solutions Ltd",
+            "weight": 1.56,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Pine Labs Ltd",
+            "weight": 1.54,
+            "sector": "Technology"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 1.46,
+            "sector": "Technology"
+        },
+        {
+            "name": "Midwest Ltd",
+            "weight": 1.4,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Aequs Ltd",
+            "weight": 1.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Bharti Hexacom Ltd",
+            "weight": 1.28,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Indiqube Spaces Ltd",
+            "weight": 1.27,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "GNG Electronics Ltd",
+            "weight": 1.2,
+            "sector": "Technology"
+        },
+        {
+            "name": "Capillary Technologies India Ltd",
+            "weight": 1.08,
+            "sector": "Technology"
+        },
+        {
+            "name": "Wework India Management Ltd",
+            "weight": 1.04,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Smartworks Coworking Spaces Ltd",
+            "weight": 0.97,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Orkla India Ltd",
+            "weight": 0.97,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Oswal Pumps Ltd",
+            "weight": 0.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Shadowfax Technologies Ltd",
+            "weight": 0.96,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Carraro India Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trualt Bioenergy Ltd",
+            "weight": 0.91,
+            "sector": "Energy"
+        },
+        {
+            "name": "All Time Plastics Ltd",
+            "weight": 0.87,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Wakefit Innovations Ltd",
+            "weight": 0.81,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Ajax Engineering Ltd",
+            "weight": 0.72,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Fractal Analytics Ltd",
+            "weight": 0.71,
+            "sector": "Technology"
+        },
+        {
+            "name": "Unimech Aerospace And Manufacturing Ltd",
+            "weight": 0.6,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Ellenbarrie Industrial Gases Ltd",
+            "weight": 0.55,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Brigade Hotel Ventures Ltd",
+            "weight": 0.55,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Net Receivables/(Payables)",
+            "weight": 0.41,
+            "sector": "Other"
+        },
+        {
+            "name": "Vikram Solar Ltd",
+            "weight": 0.38,
+            "sector": "Technology"
+        },
+        {
+            "name": "TBO Tek Ltd",
+            "weight": 0.35,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "GK Energy Ltd",
+            "weight": 0.32,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Seshaasai Technologies Ltd",
+            "weight": 0.23,
+            "sector": "Technology"
+        },
+        {
+            "name": "Jain Resource Recycling Ltd",
+            "weight": 0.21,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "02/04/2026 Maturing 364 DTB",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Tbill",
+            "weight": 0.17,
+            "sector": "Other"
+        },
+        {
+            "name": "Dam Capital Advisors Ltd",
+            "weight": 0.12,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Amagi Media Labs Ltd",
+            "weight": 0.11,
+            "sector": "Technology"
+        },
+        {
+            "name": "Accrued Interest",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "364 Days Tbill Red 05-02-2026",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Bharat Coking Coal Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "isin": "INF205K01NG5",
+    "scheme_name": "Invesco India PSU Equity Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "State Bank of India",
+            "weight": 9.32,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Indian Bank",
+            "weight": 7.59,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Petroleum Corp Ltd",
+            "weight": 6.93,
+            "sector": "Energy"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 6.82,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 6.76,
+            "sector": "Industrials"
+        },
+        {
+            "name": "NTPC Green Energy Ltd",
+            "weight": 5.45,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Bank of Baroda",
+            "weight": 5.28,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "NTPC Ltd",
+            "weight": 4.55,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Dredging Corp of India Ltd",
+            "weight": 4.07,
+            "sector": "Industrials"
+        },
+        {
+            "name": "REC Ltd",
+            "weight": 3.94,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "National Aluminium Co Ltd",
+            "weight": 3.8,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Bharat Dynamics Ltd Ordinary Shares",
+            "weight": 3.73,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SBI Life Insurance Co Ltd",
+            "weight": 3.65,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "GAIL (India) Ltd",
+            "weight": 3.47,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Oil & Natural Gas Corp Ltd",
+            "weight": 3.37,
+            "sector": "Energy"
+        },
+        {
+            "name": "Power Grid Corp Of India Ltd",
+            "weight": 3.27,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Cochin Shipyard Ltd",
+            "weight": 3.12,
+            "sector": "Industrials"
+        },
+        {
+            "name": "BEML Ltd",
+            "weight": 2.97,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Hindustan Petroleum Corp Ltd",
+            "weight": 2.76,
+            "sector": "Energy"
+        },
+        {
+            "name": "NHPC Ltd",
+            "weight": 2.64,
+            "sector": "Utilities"
+        },
+        {
+            "name": "Can Fin Homes Ltd",
+            "weight": 1.95,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Mazagon Dock Shipbuilders Ltd",
+            "weight": 1.75,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Indian Railway Catering And Tourism Corp Ltd",
+            "weight": 1.44,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Triparty Repo",
+            "weight": 1.41,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.04,
+            "sector": "Other"
+        }
+    ]
+}

@@ -1,0 +1,241 @@
+{
+    "isin": "INF903JA1LQ6",
+    "scheme_name": "Sundaram Business Cycle Fund Direct Plan Growth",
+    "holdings": [
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 6.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.18,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 4.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 4.7,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 3.88,
+            "sector": "Energy"
+        },
+        {
+            "name": "Amber Enterprises India Ltd Ordinary Shares",
+            "weight": 3.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.41,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindalco Industries Ltd",
+            "weight": 3.34,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+            "weight": 3.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 2.68,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Ambuja Cements Ltd",
+            "weight": 2.51,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Delhivery Ltd",
+            "weight": 2.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Affle 3i Ltd",
+            "weight": 2.44,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 2.43,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Treps",
+            "weight": 2.39,
+            "sector": "Other"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 2.36,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 2.3,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SJS Enterprises Ltd",
+            "weight": 2.22,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Jubilant Foodworks Ltd",
+            "weight": 2.2,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sapphire Foods India Ltd",
+            "weight": 2.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Amara Raja Energy & Mobility Ltd",
+            "weight": 2.08,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 2.06,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ZF Commercial Vehicle Control Systems India Ltd",
+            "weight": 1.9,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kirloskar Pneumatic Co Ltd",
+            "weight": 1.89,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Narayana Hrudayalaya Ltd",
+            "weight": 1.88,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "360 One Wam Ltd Ordinary Shares",
+            "weight": 1.84,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Cyient Ltd",
+            "weight": 1.77,
+            "sector": "Industrials"
+        },
+        {
+            "name": "AAVAS Financiers Ltd",
+            "weight": 1.72,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Kansai Nerolac Paints Ltd",
+            "weight": 1.63,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Craftsman Automation Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Indegene Ltd",
+            "weight": 1.6,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 1.53,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Rategain Travel Technologies Ltd",
+            "weight": 1.41,
+            "sector": "Technology"
+        },
+        {
+            "name": "Tips Music Ltd",
+            "weight": 1.36,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Greaves Cotton Ltd",
+            "weight": 1.29,
+            "sector": "Industrials"
+        },
+        {
+            "name": "SKF India (Industrial) Ltd",
+            "weight": 1.27,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Deepak Nitrite Ltd",
+            "weight": 1.14,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 1.02,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aditya Birla Real Estate Ltd",
+            "weight": 0.98,
+            "sector": "Real Estate"
+        },
+        {
+            "name": "Urban Co Ltd",
+            "weight": 0.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "Landmark Cars Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "KPIT Technologies Ltd",
+            "weight": 0.83,
+            "sector": "Technology"
+        },
+        {
+            "name": "Swiggy Ltd",
+            "weight": 0.8,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Go Fashion (India) Ltd",
+            "weight": 0.75,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "NIIT Learning Systems Ltd",
+            "weight": 0.57,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Cash And Other Net Current Assets",
+            "weight": 0.19,
+            "sector": "Other"
+        },
+        {
+            "name": "Billionbrains Garage Ventures Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

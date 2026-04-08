@@ -1,0 +1,136 @@
+{
+    "isin": "INF247L01502",
+    "scheme_name": "Motilal Oswal Flexi cap Fund Direct Plan-Growth Option",
+    "holdings": [
+        {
+            "name": "Collateralized Borrowing & Lending Obligation",
+            "weight": 11.72,
+            "sector": "Other"
+        },
+        {
+            "name": "Nifty March 2026 Future",
+            "weight": 8.93,
+            "sector": "Other"
+        },
+        {
+            "name": "Kalyan Jewellers India Ltd",
+            "weight": 7.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "CG Power & Industrial Solutions Ltd",
+            "weight": 7.05,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Coforge Ltd",
+            "weight": 6.36,
+            "sector": "Technology"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 6.21,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "ICICI Bank Ltd",
+            "weight": 5.76,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Persistent Systems Ltd",
+            "weight": 5.55,
+            "sector": "Technology"
+        },
+        {
+            "name": "HDFC Bank Ltd",
+            "weight": 5.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Bharti Airtel Ltd (Partly Paid Rs.1.25)",
+            "weight": 4.59,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Cholamandalam Investment and Finance Co Ltd",
+            "weight": 4.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 4.07,
+            "sector": "Other"
+        },
+        {
+            "name": "Polycab India Ltd",
+            "weight": 3.46,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Larsen & Toubro Ltd",
+            "weight": 3.32,
+            "sector": "Industrials"
+        },
+        {
+            "name": "IndusInd Bank Ltd",
+            "weight": 3.27,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "State Bank of India",
+            "weight": 3.16,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Multi Commodity Exchange of India Ltd",
+            "weight": 3.08,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Waaree Energies Ltd",
+            "weight": 2.91,
+            "sector": "Technology"
+        },
+        {
+            "name": "PG Electroplast Ltd",
+            "weight": 2.7,
+            "sector": "Technology"
+        },
+        {
+            "name": "Bharat Electronics Ltd",
+            "weight": 2.69,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Kotak Mahindra Bank Ltd",
+            "weight": 2.58,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Reliance Industries Ltd",
+            "weight": 2.13,
+            "sector": "Energy"
+        },
+        {
+            "name": "Ather Energy Ltd",
+            "weight": 0.99,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 0.49,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "PhysicsWallah Ltd",
+            "weight": 0.14,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}

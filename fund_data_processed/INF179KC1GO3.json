@@ -1,0 +1,261 @@
+{
+    "isin": "INF179KC1GO3",
+    "scheme_name": "HDFC Consumption Fund - Growth Option - Direct Plan",
+    "holdings": [
+        {
+            "name": "Eternal Ltd",
+            "weight": 9.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Hindustan Unilever Ltd",
+            "weight": 8.79,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "United Spirits Ltd",
+            "weight": 5.73,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 5.42,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 5.33,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 5.06,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 4.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Treps - Tri-Party Repo",
+            "weight": 3.84,
+            "sector": "Other"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 3.78,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 3.13,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 3.03,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 2.88,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "TVS Motor Co Ltd",
+            "weight": 2.79,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 2.58,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Chalet Hotels Ltd",
+            "weight": 2.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 2.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Nestle India Ltd",
+            "weight": 2.15,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Sona BLW Precision Forgings Ltd",
+            "weight": 1.83,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Dabur India Ltd",
+            "weight": 1.82,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Hyundai Motor India Ltd",
+            "weight": 1.7,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 1.67,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Wakefit Innovations Ltd",
+            "weight": 1.59,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Akzo Nobel India Ltd",
+            "weight": 1.47,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "PB Fintech Ltd",
+            "weight": 1.39,
+            "sector": "Financial Services"
+        },
+        {
+            "name": "Jupiter Life Line Hospitals Ltd",
+            "weight": 1.37,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Studds Accessories Ltd",
+            "weight": 1.3,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 1.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Max Healthcare Institute Ltd Ordinary Shares",
+            "weight": 1.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Net Current Assets",
+            "weight": 1.18,
+            "sector": "Other"
+        },
+        {
+            "name": "Hero MotoCorp Ltd",
+            "weight": 1.14,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Baazar Style Retail Ltd",
+            "weight": 1.12,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Vijaya Diagnostic Centre Ltd",
+            "weight": 1.02,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 1.0,
+            "sector": "Technology"
+        },
+        {
+            "name": "Brainbees Solutions Ltd",
+            "weight": 0.92,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Devyani International Ltd",
+            "weight": 0.89,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 0.67,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Sapphire Foods India Ltd",
+            "weight": 0.64,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Shoppers Stop Ltd",
+            "weight": 0.5,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 0.49,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Pidilite Industries Ltd",
+            "weight": 0.49,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Sula Vineyards Ltd",
+            "weight": 0.49,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 0.47,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Emami Ltd",
+            "weight": 0.4,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Godavari Biorefineries Ltd",
+            "weight": 0.38,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Info Edge (India) Ltd",
+            "weight": 0.37,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "Laxmi Dental Ltd",
+            "weight": 0.21,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Colgate-Palmolive (India) Ltd",
+            "weight": 0.16,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Metro Brands Ltd",
+            "weight": 0.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kwality Walls India Ltd",
+            "weight": 0.1,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Tvs Motor Company Limited",
+            "weight": 0.03,
+            "sector": "Other"
+        },
+        {
+            "name": "Vedant Fashions Ltd",
+            "weight": 0.0,
+            "sector": "Consumer Cyclical"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "isin": "INF174KA1YV8",
+    "scheme_name": "Kotak Services Fund - Direct - Growth",
+    "holdings": [
+        {
+            "name": "Triparty Repo",
+            "weight": 87.66,
+            "sector": "Other"
+        },
+        {
+            "name": "Net Current Assets/(Liabilities)",
+            "weight": 12.34,
+            "sector": "Other"
+        }
+    ]
+}

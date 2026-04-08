@@ -1,0 +1,211 @@
+{
+    "isin": "INF769K01BL5",
+    "scheme_name": "Mirae Asset Great Consumer Fund - Direct Plan - Growth",
+    "holdings": [
+        {
+            "name": "Mahindra & Mahindra Ltd",
+            "weight": 7.13,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Eternal Ltd",
+            "weight": 7.02,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Maruti Suzuki India Ltd",
+            "weight": 6.91,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Titan Co Ltd",
+            "weight": 6.77,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bharti Airtel Ltd",
+            "weight": 6.39,
+            "sector": "Communication Services"
+        },
+        {
+            "name": "ITC Ltd",
+            "weight": 4.72,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Eicher Motors Ltd",
+            "weight": 4.4,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Britannia Industries Ltd",
+            "weight": 4.28,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Trent Ltd",
+            "weight": 4.17,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Varun Beverages Ltd",
+            "weight": 3.55,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Vishal Mega Mart Ltd",
+            "weight": 2.97,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "LG Electronics India Ltd",
+            "weight": 2.74,
+            "sector": "Technology"
+        },
+        {
+            "name": "Crompton Greaves Consumer Electricals Ltd",
+            "weight": 2.48,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Apollo Hospitals Enterprise Ltd",
+            "weight": 2.45,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Leela Palaces Hotels and Resorts Ltd",
+            "weight": 2.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "InterGlobe Aviation Ltd",
+            "weight": 2.28,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Campus Activewear Ltd",
+            "weight": 2.25,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Asian Paints Ltd",
+            "weight": 2.18,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Marico Ltd",
+            "weight": 2.05,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Honasa Consumer Ltd",
+            "weight": 1.85,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Century Plyboards (India) Ltd",
+            "weight": 1.83,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Treps",
+            "weight": 1.78,
+            "sector": "Other"
+        },
+        {
+            "name": "Ceat Ltd",
+            "weight": 1.71,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Godrej Consumer Products Ltd",
+            "weight": 1.63,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Avenue Supermarts Ltd",
+            "weight": 1.61,
+            "sector": "Consumer Defensive"
+        },
+        {
+            "name": "Aditya Infotech Ltd",
+            "weight": 1.54,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Safari Industries (India) Ltd",
+            "weight": 1.43,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Westlife Foodworld Ltd",
+            "weight": 1.33,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Kalyan Jewellers India Ltd",
+            "weight": 1.18,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "International Gemmological Institute (India) Ltd",
+            "weight": 1.18,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Whirlpool of India Ltd",
+            "weight": 1.11,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Le Travenues Technology Ltd",
+            "weight": 1.05,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Greenply Industries Ltd",
+            "weight": 0.98,
+            "sector": "Basic Materials"
+        },
+        {
+            "name": "Net Receivables / (Payables)",
+            "weight": 0.97,
+            "sector": "Other"
+        },
+        {
+            "name": "FSN E-Commerce Ventures Ltd",
+            "weight": 0.82,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Lenskart Solutions Ltd",
+            "weight": 0.77,
+            "sector": "Healthcare"
+        },
+        {
+            "name": "Wakefit Innovations Ltd",
+            "weight": 0.76,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Bata India Ltd",
+            "weight": 0.72,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Prince Pipes And Fittings Ltd Ordinary Shares",
+            "weight": 0.4,
+            "sector": "Industrials"
+        },
+        {
+            "name": "Meesho Ltd",
+            "weight": 0.29,
+            "sector": "Consumer Cyclical"
+        },
+        {
+            "name": "Mirae Asset Liquid Dir Gr",
+            "weight": 0.0,
+            "sector": "Other"
+        }
+    ]
+}
